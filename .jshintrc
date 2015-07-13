@@ -1,0 +1,24 @@
+{
+  "strict": true,
+  "node": true,
+  "browser": true,
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "indent": 4,
+  "latedef": false,
+  "noarg": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "validthis": true,
+  "jasmine": true,
+  "globals": {
+    "angular": false,
+    "inject": false,
+    "module": false,
+    "$": false,
+    "_": false
+  }
+}

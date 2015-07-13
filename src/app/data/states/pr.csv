@@ -1,0 +1,400 @@
+lot,lat,name,uf,output
+-50.313,-23.304,Abatiá,PR,3184
+-48.991,-24.657,Adrianópolis,PR,1905
+-49.335,-25.993,Agudos do Sul,PR,9972
+-49.31,-25.325,Almirante Tamandaré,PR,888
+-52.713,-24.798,Altamira do Paraná,PR,6635
+-52.319,-23.129,Alto Paraná,PR,3076
+-53.441,-24.028,Alto Piquiri,PR,4866
+-53.902,-23.874,Altônia,PR,6013
+-51.231,-22.78,Alvorada do Sul,PR,9315
+-52.788,-23.096,Amaporã,PR,3733
+-53.473,-25.915,Ampére,PR,5977
+-53.084,-24.717,Anahy,PR,2681
+-50.229,-23.051,Andirá,PR,4478
+-51.915,-23.195,Ângulo,PR,4023
+-48.712,-25.429,Antonina,PR,7458
+-50.197,-25.986,Antônio Olinto,PR,487
+-51.461,-23.551,Apucarana,PR,4778
+-51.424,-23.419,Arapongas,PR,8921
+-49.827,-24.158,Arapoti,PR,3180
+-51.787,-24.316,Arapuã,PR,1273
+-52.496,-23.932,Araruna,PR,2166
+-49.41,-25.593,Araucária,PR,3047
+-51.585,-24.386,Ariranha do Ivaí,PR,1065
+-50.841,-23.373,Assaí,PR,2034
+-53.521,-24.42,Assis Chateaubriand,PR,3984
+-51.666,-23.233,Astorga,PR,8884
+-52.054,-23.151,Atalaia,PR,292
+-49.636,-25.584,Balsa Nova,PR,2959
+-50.368,-23.11,Bandeirantes,PR,8023
+-52.012,-24.03,Barbosa Ferraz,PR,8974
+-50.181,-23.115,Barra do Jacaré,PR,9764
+-53.633,-26.254,Barracão,PR,2027
+-53.665,-25.881,Bela Vista da Caroba,PR,456
+-51.191,-22.997,Bela Vista do Paraíso,PR,8715
+-51.553,-26.161,Bituruna,PR,7736
+-52.789,-24.242,Boa Esperança,PR,5772
+-53.212,-25.636,Boa Esperança do Iguaçu,PR,5401
+-51.628,-24.869,Boa Ventura de São Roque,PR,3688
+-53.408,-25.436,Boa Vista da Aparecida,PR,8304
+-49.115,-25.206,Bocaiúva do Sul,PR,1185
+-53.597,-26.193,Bom Jesus do Sul,PR,715
+-51.764,-23.71,Bom Sucesso,PR,3127
+-52.834,-26.076,Bom Sucesso do Sul,PR,6235
+-51.588,-23.941,Borrazópolis,PR,1729
+-53.122,-24.816,Braganey,PR,7043
+-53.525,-24.197,Brasilândia do Sul,PR,7046
+-51.716,-22.793,Cafeara,PR,8034
+-53.32,-24.618,Cafelândia,PR,6639
+-53.513,-23.902,Cafezal do Sul,PR,7088
+-51.355,-23.65,Califórnia,PR,2765
+-50.074,-23.046,Cambará,PR,2553
+-51.278,-23.276,Cambé,PR,5738
+-51.578,-23.583,Cambira,PR,8900
+-52.799,-24.592,Campina da Lagoa,PR,9774
+-51.827,-25.079,Campina do Simão,PR,1673
+-49.055,-25.306,Campina Grande do Sul,PR,5867
+-52.993,-25.031,Campo Bonito,PR,6825
+-49.683,-25.978,Campo do Tenente,PR,9029
+-49.528,-25.459,Campo Largo,PR,6416
+-49.451,-25.369,Campo Magro,PR,9403
+-52.383,-24.046,Campo Mourão,PR,8033
+-51.333,-24.567,Cândido de Abreu,PR,9898
+-52.126,-25.663,Candói,PR,2330
+-52.126,-25.374,Cantagalo,PR,9070
+-53.809,-25.672,Capanema,PR,5432
+-53.614,-25.479,Capitão Leônidas Marques,PR,2
+-50.097,-24.918,Carambeí,PR,8962
+-49.721,-23.425,Carlópolis,PR,2069
+-53.455,-24.956,Cascavel,PR,1584
+-50.012,-24.791,Castro,PR,969
+-53.157,-25.203,Catanduvas,PR,3064
+-51.595,-22.821,Centenário do Sul,PR,7119
+-49.261,-24.824,Cerro Azul,PR,2242
+-53.849,-25.147,Céu Azul,PR,767
+-52.523,-25.856,Chopinzinho,PR,6808
+-52.605,-23.663,Cianorte,PR,6256
+-52.945,-23.38,Cidade Gaúcha,PR,9559
+-52.471,-26.396,Clevelândia,PR,3006
+-49.224,-25.292,Colombo,PR,9366
+-51.973,-22.838,Colorado,PR,9583
+-50.554,-23.551,Congonhinhas,PR,6701
+-50.169,-23.63,Conselheiro Mairinck,PR,1791
+-49.535,-25.676,Contenda,PR,8753
+-53.307,-24.799,Corbélia,PR,5261
+-50.647,-23.181,Cornélio Procópio,PR,4888
+-52.032,-26.228,Coronel Domingos Soares,PR,5058
+-52.568,-25.98,Coronel Vivida,PR,1926
+-52.12,-24.101,Corumbataí do Sul,PR,7108
+-51.347,-26.017,Cruz Machado,PR,7198
+-53.128,-25.616,Cruzeiro do Iguaçu,PR,7799
+-53.073,-23.785,Cruzeiro do Oeste,PR,9464
+-52.161,-22.962,Cruzeiro do Sul,PR,5283
+-51.459,-24.013,Cruzmaltina,PR,973
+-49.273,-25.428,Curitiba,PR,6306
+-50.458,-24.033,Curiúva,PR,3518
+-54.103,-24.943,Diamante d'Oeste,PR,7984
+-52.86,-22.656,Diamante do Norte,PR,1490
+-52.68,-25.043,Diamante do Sul,PR,4643
+-53.057,-25.734,Dois Vizinhos,PR,4032
+-53.292,-23.381,Douradina,PR,8669
+-52.218,-23.556,Doutor Camargo,PR,8212
+-49.42,-24.568,Doutor Ulysses,PR,8694
+-53.164,-25.942,Enéas Marques,PR,893
+-52.269,-23.797,Engenheiro Beltrão,PR,7273
+-54.234,-24.704,Entre Rios do Oeste,PR,3687
+-53.811,-23.724,Esperança Nova,PR,4894
+-52.836,-25.424,Espigão Alto do Iguaçu,PR,5830
+-52.623,-24.1,Farol,PR,2774
+-51.32,-24.001,Faxinal,PR,9438
+-49.308,-25.658,Fazenda Rio Grande,PR,1935
+-51.979,-23.916,Fênix,PR,3337
+-50.548,-25.413,Fernandes Pinheiro,PR,3386
+-50.403,-23.849,Figueira,PR,9802
+-53.304,-26.26,Flor da Serra do Sul,PR,9711
+-52.304,-23.317,Floraí,PR,1860
+-52.081,-23.599,Floresta,PR,1794
+-51.387,-22.863,Florestópolis,PR,9382
+-51.954,-23.087,Flórida,PR,232
+-53.313,-24.293,Formosa do Oeste,PR,266
+-54.588,-25.548,Foz do Iguaçu,PR,7571
+-52.103,-25.642,Foz do Jordão,PR,1314
+-53.848,-24.066,Francisco Alves,PR,6696
+-53.055,-26.081,Francisco Beltrão,PR,6072
+-51.316,-26.428,General Carneiro,PR,5967
+-51.924,-24.177,Godoy Moreira,PR,4191
+-53.028,-24.185,Goioerê,PR,2288
+-51.993,-25.195,Goioxim,PR,3409
+-51.506,-24.146,Grandes Rios,PR,1312
+-54.256,-24.08,Guaíra,PR,1830
+-52.686,-22.934,Guairaçá,PR,3676
+-50.805,-25.191,Guamiranga,PR,5797
+-50.04,-23.516,Guapirama,PR,6361
+-52.779,-23.343,Guaporema,PR,4420
+-51.65,-22.973,Guaraci,PR,2326
+-52.878,-25.101,Guaraniaçu,PR,3183
+-51.458,-25.395,Guarapuava,PR,2225
+-48.329,-25.307,Guaraqueçaba,PR,4531
+-48.575,-25.883,Guaratuba,PR,2929
+-52.387,-26.141,Honório Serpa,PR,5674
+-50.188,-23.849,Ibaiti,PR,4987
+-53.012,-25.106,Ibema,PR,8439
+-51.048,-23.269,Ibiporã,PR,63
+-53.614,-23.396,Icaraíma,PR,385
+-51.828,-23.197,Iguaraçu,PR,2295
+-53.135,-24.644,Iguatu,PR,2208
+-50.761,-24.445,Imbaú,PR,5125
+-50.604,-25.23,Imbituva,PR,2649
+-51.079,-25.571,Inácio Martins,PR,5498
+-52.198,-22.749,Inajá,PR,1474
+-52.696,-23.476,Indianópolis,PR,1880
+-50.584,-25.024,Ipiranga,PR,1945
+-53.704,-24.003,Iporã,PR,9215
+-53.355,-24.428,Iracema do Oeste,PR,4426
+-50.651,-25.467,Irati,PR,7024
+-52.106,-24.424,Iretama,PR,8143
+-51.966,-22.618,Itaguajé,PR,7192
+-54.302,-25.137,Itaipulândia,PR,5269
+-50.406,-23.018,Itambaracá,PR,6074
+-51.99,-23.661,Itambé,PR,7369
+-52.816,-25.965,Itapejara d'Oeste,PR,6248
+-49.348,-25.22,Itaperuçu,PR,2684
+-52.887,-22.731,Itaúna do Sul,PR,3498
+-50.859,-25.011,Ivaí,PR,6025
+-51.685,-24.248,Ivaiporã,PR,5746
+-53.369,-23.409,Ivaté,PR,7339
+-52.221,-23.619,Ivatuba,PR,5986
+-50.076,-23.743,Jaboti,PR,3621
+-49.969,-23.161,Jacarezinho,PR,1366
+-51.532,-23.113,Jaguapitã,PR,6930
+-49.706,-24.251,Jaguariaíva,PR,3335
+-51.643,-23.603,Jandaia do Sul,PR,4516
+-52.782,-24.142,Janiópolis,PR,1986
+-50.139,-23.813,Japira,PR,2761
+-52.553,-23.47,Japurá,PR,8840
+-51.692,-24.179,Jardim Alegre,PR,4263
+-52.061,-22.549,Jardim Olinda,PR,7278
+-50.98,-23.254,Jataizinho,PR,5860
+-53.388,-24.385,Jesuítas,PR,6496
+-49.905,-23.499,Joaquim Távora,PR,8255
+-50.248,-23.437,Jundiaí do Sul,PR,6072
+-52.843,-24.42,Juranda,PR,9912
+-52.469,-23.621,Jussara,PR,7887
+-51.668,-23.817,Kaloré,PR,1475
+-49.716,-25.77,Lapa,PR,7953
+-52.469,-24.887,Laranjal,PR,1243
+-52.416,-25.408,Laranjeiras do Sul,PR,6085
+-50.751,-23.08,Leópolis,PR,229
+-51.653,-24.109,Lidianópolis,PR,8116
+-53.576,-25.26,Lindoeste,PR,9291
+-53.137,-22.923,Loanda,PR,1497
+-51.951,-23.008,Lobato,PR,8444
+-51.163,-23.31,Londrina,PR,7039
+-52.276,-24.286,Luiziana,PR,6438
+-51.738,-24.079,Lunardelli,PR,1770
+-51.657,-22.755,Lupionópolis,PR,1173
+-50.821,-25.878,Mallet,PR,1412
+-52.53,-24.319,Mamborê,PR,3299
+-52.095,-23.347,Mandaguaçu,PR,5522
+-51.671,-23.548,Mandaguari,PR,2261
+-49.326,-25.779,Mandirituba,PR,6264
+-53.311,-26.144,Manfrinópolis,PR,265
+-52.176,-25.941,Mangueirinha,PR,2834
+-51.668,-24.516,Manoel Ribas,PR,6912
+-54.057,-24.556,Marechal Cândido Rondon,PR,8888
+-53.205,-23.616,Maria Helena,PR,8480
+-51.792,-23.485,Marialva,PR,6349
+-51.308,-23.745,Marilândia do Sul,PR,1971
+-53.04,-22.736,Marilena,PR,9517
+-53.146,-24.002,Mariluz,PR,2841
+-51.939,-23.425,Maringá,PR,5478
+-52.559,-26.355,Mariópolis,PR,5581
+-53.83,-24.418,Maripá,PR,5715
+-53.026,-26.149,Marmeleiro,PR,1609
+-52.254,-25.113,Marquinho,PR,8318
+-51.639,-23.706,Marumbi,PR,1222
+-53.996,-25.241,Matelândia,PR,5073
+-48.543,-25.818,Matinhos,PR,2833
+-52.146,-24.705,Mato Rico,PR,6643
+-51.229,-23.901,Mauá da Serra,PR,5410
+-54.094,-25.295,Medianeira,PR,3344
+-54.162,-24.454,Mercedes,PR,8867
+-52.776,-23.258,Mirador,PR,9717
+-51.455,-22.966,Miraselva,PR,9492
+-54.248,-25.092,Missal,PR,9007
+-53.007,-24.062,Moreira Sales,PR,7616
+-48.834,-25.477,Morretes,PR,3212
+-51.774,-23.148,Munhoz de Melo,PR,4360
+-51.794,-22.914,Nossa Senhora das Graças,PR,4111
+-52.602,-23.177,Nova Aliança do Ivaí,PR,961
+-50.718,-23.331,Nova América da Colina,PR,3180
+-53.256,-24.529,Nova Aurora,PR,7002
+-52.569,-24.673,Nova Cantu,PR,4939
+-52.205,-23.184,Nova Esperança,PR,1576
+-53.263,-25.907,Nova Esperança do Sudoeste,PR,539
+-50.564,-23.432,Nova Fátima,PR,9450
+-52.541,-25.307,Nova Laranjeiras,PR,4814
+-52.985,-22.766,Nova Londrina,PR,8921
+-53.089,-23.472,Nova Olímpia,PR,406
+-53.347,-25.633,Nova Prata do Iguaçu,PR,6872
+-50.724,-23.597,Nova Santa Bárbara,PR,6415
+-53.953,-24.466,Nova Santa Rosa,PR,5064
+-51.945,-24.438,Nova Tebas,PR,2738
+-51.507,-23.764,Novo Itacolomi,PR,6932
+-50.949,-24.208,Ortigueira,PR,1645
+-52.199,-23.405,Ourizona,PR,2907
+-53.903,-24.805,Ouro Verde do Oeste,PR,139
+-52.049,-23.458,Paiçandu,PR,5375
+-51.991,-26.484,Palmas,PR,541
+-50.006,-25.429,Palmeira,PR,8382
+-52.203,-24.893,Palmital,PR,6804
+-53.84,-24.284,Palotina,PR,1129
+-52.602,-23.281,Paraíso do Norte,PR,3586
+-52.151,-22.93,Paranacity,PR,1896
+-48.509,-25.52,Paranaguá,PR,4713
+-52.098,-22.634,Paranapoema,PR,2820
+-52.465,-23.073,Paranavaí,PR,5302
+-54.225,-24.626,Pato Bragado,PR,3723
+-52.671,-26.229,Pato Branco,PR,2589
+-50.938,-26.208,Paula Freitas,PR,4537
+-50.836,-26.04,Paulo Frontin,PR,8829
+-52.343,-23.913,Peabiru,PR,9740
+-53.41,-23.896,Perobal,PR,1145
+-53.684,-23.805,Pérola,PR,7962
+-53.74,-25.824,Pérola d'Oeste,PR,9978
+-49.429,-26.098,Piên,PR,4346
+-49.193,-25.445,Pinhais,PR,6119
+-53.483,-26.03,Pinhal de São Bento,PR,8366
+-50.056,-23.793,Pinhalão,PR,3277
+-51.66,-25.696,Pinhão,PR,8831
+-49.949,-24.526,Piraí do Sul,PR,9356
+-49.063,-25.442,Piraquara,PR,1721
+-51.761,-24.757,Pitanga,PR,6960
+-51.586,-23.231,Pitangueiras,PR,1173
+-52.914,-23.007,Planaltina do Paraná,PR,6283
+-53.766,-25.716,Planalto,PR,6961
+-50.162,-25.095,Ponta Grossa,PR,8636
+-48.511,-25.674,Pontal do Paraná,PR,4424
+-51.379,-22.756,Porecatu,PR,9026
+-49.89,-25.545,Porto Amazonas,PR,6799
+-52.408,-25.547,Porto Barreiro,PR,2477
+-53.267,-22.772,Porto Rico,PR,885
+-51.232,-26.161,Porto Vitória,PR,5712
+-51.442,-23.039,Prado Ferreira,PR,9498
+-53.74,-26.02,Pranchita,PR,1474
+-52.152,-23.278,Presidente Castelo Branco,PR,3750
+-51.028,-22.851,Primeiro de Maio,PR,8490
+-50.978,-25.213,Prudentópolis,PR,5948
+-53.076,-24.279,Quarto Centenário,PR,7801
+-49.914,-23.567,Quatiguá,PR,3441
+-49.077,-25.366,Quatro Barras,PR,4126
+-53.977,-24.575,Quatro Pontes,PR,7548
+-52.908,-25.45,Quedas do Iguaçu,PR,5411
+-53.484,-23.084,Querência do Norte,PR,2434
+-52.13,-23.852,Quinta do Sol,PR,2539
+-49.498,-25.872,Quitandinha,PR,8297
+-54.025,-25.12,Ramilândia,PR,7297
+-50.913,-23.07,Rancho Alegre,PR,1641
+-52.954,-24.307,Rancho Alegre d'Oeste,PR,7429
+-53.527,-25.767,Realeza,PR,5598
+-50.693,-25.621,Rebouças,PR,4364
+-52.969,-26.158,Renascença,PR,5374
+-50.851,-24.65,Reserva,PR,4277
+-52.028,-25.839,Reserva do Iguaçu,PR,8504
+-49.758,-23.194,Ribeirão Claro,PR,6608
+-50.357,-23.408,Ribeirão do Pinhal,PR,4931
+-50.796,-25.733,Rio Azul,PR,9160
+-51.411,-23.762,Rio Bom,PR,9726
+-52.526,-25.491,Rio Bonito do Iguaçu,PR,5317
+-51.313,-24.324,Rio Branco do Ivaí,PR,8836
+-49.314,-25.19,Rio Branco do Sul,PR,9614
+-49.798,-26.106,Rio Negro,PR,7274
+-51.369,-23.31,Rolândia,PR,1504
+-52.275,-24.603,Roncador,PR,2375
+-52.761,-23.411,Rondon,PR,3355
+-51.275,-24.278,Rosário do Ivaí,PR,5446
+-51.553,-23.318,Sabáudia,PR,2948
+-53.361,-26.17,Salgado Filho,PR,2686
+-49.626,-23.601,Salto do Itararé,PR,7590
+-53.309,-25.784,Salto do Lontra,PR,8468
+-50.424,-23.266,Santa Amélia,PR,2148
+-50.784,-23.517,Santa Cecília do Pavão,PR,9571
+-53.297,-22.953,Santa Cruz de Monte Castelo,PR,8271
+-51.805,-23.038,Santa Fé,PR,5909
+-54.333,-24.86,Santa Helena,PR,4400
+-51.903,-22.638,Santa Inês,PR,7778
+-53.197,-23.003,Santa Isabel do Ivaí,PR,7796
+-53.484,-25.821,Santa Izabel do Oeste,PR,6659
+-53.566,-25.407,Santa Lúcia,PR,6500
+-51.863,-24.939,Santa Maria do Oeste,PR,4242
+-50.519,-23.151,Santa Mariana,PR,6856
+-53.109,-23.108,Santa Mônica,PR,8883
+-53.633,-25.052,Santa Tereza do Oeste,PR,7992
+-54.488,-25.362,Santa Terezinha de Itaipu,PR,9271
+-49.629,-23.755,Santana do Itararé,PR,8089
+-50.077,-23.295,Santo Antônio da Platina,PR,7844
+-52.342,-22.735,Santo Antônio do Caiuá,PR,8941
+-50.646,-23.494,Santo Antônio do Paraíso,PR,8970
+-53.723,-26.07,Santo Antônio do Sudoeste,PR,3803
+-51.794,-22.698,Santo Inácio,PR,9639
+-52.476,-23.315,São Carlos do Ivaí,PR,1028
+-50.741,-23.728,São Jerônimo da Serra,PR,5772
+-52.725,-25.828,São João,PR,7352
+-52.337,-22.852,São João do Caiuá,PR,7648
+-51.818,-23.98,São João do Ivaí,PR,2050
+-50.297,-25.683,São João do Triunfo,PR,6441
+-52.918,-25.706,São Jorge d'Oeste,PR,4869
+-52.293,-23.433,São Jorge do Ivaí,PR,1722
+-53.927,-23.741,São Jorge do Patrocínio,PR,9388
+-49.652,-23.916,São José da Boa Vista,PR,9469
+-54.064,-24.838,São José das Palmeiras,PR,6809
+-49.206,-25.535,São José dos Pinhais,PR,7172
+-52.644,-23.403,São Manoel do Paraná,PR,8113
+-50.383,-25.874,São Mateus do Sul,PR,2220
+-54.238,-25.348,São Miguel do Iguaçu,PR,6999
+-53.855,-24.936,São Pedro do Iguaçu,PR,1293
+-51.856,-23.865,São Pedro do Ivaí,PR,5772
+-53.22,-22.824,São Pedro do Paraná,PR,8401
+-50.761,-23.465,São Sebastião da Amoreira,PR,1039
+-52.591,-23.538,São Tomé,PR,4388
+-50.58,-23.911,Sapopema,PR,9917
+-51.874,-23.444,Sarandi,PR,6568
+-52.619,-25.694,Saudade do Iguaçu,PR,2659
+-49.464,-24.113,Sengés,PR,4849
+-54.052,-25.38,Serranópolis do Iguaçu,PR,2363
+-50.838,-23.037,Sertaneja,PR,5273
+-51.036,-23.059,Sertanópolis,PR,4470
+-49.834,-23.689,Siqueira Campos,PR,1846
+-52.722,-25.702,Sulina,PR,2244
+-51.097,-23.723,Tamarana,PR,2742
+-52.469,-23.2,Tamboara,PR,4756
+-52.873,-23.733,Tapejara,PR,8624
+-53.068,-23.323,Tapira,PR,8086
+-50.461,-25.368,Teixeira Soares,PR,9867
+-50.616,-24.324,Telêmaco Borba,PR,9721
+-52.444,-23.768,Terra Boa,PR,2699
+-52.617,-22.709,Terra Rica,PR,3461
+-54.097,-24.157,Terra Roxa,PR,1415
+-50.414,-24.509,Tibagi,PR,1877
+-49.199,-25.928,Tijucas do Sul,PR,3296
+-53.743,-24.714,Toledo,PR,5564
+-49.95,-23.778,Tomazina,PR,7528
+-53.181,-25.419,Três Barras do Paraná,PR,5308
+-49.086,-24.974,Tunas do Paraná,PR,6942
+-52.876,-23.871,Tuneiras do Oeste,PR,3019
+-53.512,-24.588,Tupãssi,PR,7482
+-51.53,-25.043,Turvo,PR,8523
+-52.988,-24.545,Ubiratã,PR,7947
+-53.325,-23.766,Umuarama,PR,4792
+-51.086,-26.23,União da Vitória,PR,4526
+-52.157,-23.087,Uniflor,PR,2328
+-50.796,-23.198,Uraí,PR,6468
+-50.243,-24.246,Ventania,PR,6712
+-53.877,-25.058,Vera Cruz do Oeste,PR,3942
+-52.908,-25.881,Verê,PR,7575
+-53.728,-23.508,Vila Alta,PR,4773
+-52.199,-25.381,Virmond,PR,1236
+-52.784,-26.277,Vitorino,PR,5843
+-49.803,-23.874,Wenceslau Braz,PR,4989
+-53.49,-23.736,Xambrê,PR,7885

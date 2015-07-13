@@ -1,0 +1,127 @@
+lot,lat,name,uf,output
+-56.366,-15.205,Acorizal,MT,1141
+-52.159,-14.05,Água Boa,MT,9601
+-56.086,-9.876,Alta Floresta,MT,1960
+-53.215,-17.315,Alto Araguaia,MT,2389
+-51.388,-11.674,Alto Boa Vista,MT,6297
+-53.528,-16.944,Alto Garças,MT,6014
+-56.483,-14.514,Alto Paraguai,MT,3194
+-53.282,-17.826,Alto Taquari,MT,1464
+-57.449,-9.544,Apiacás,MT,1874
+-51.831,-15.734,Araguaiana,MT,7496
+-53.033,-16.856,Araguainha,MT,9593
+-58.353,-15.471,Araputanga,MT,7881
+-56.846,-14.45,Arenápolis,MT,3159
+-59.459,-10.167,Aripuanã,MT,4923
+-55.958,-16.279,Barão de Melgaço,MT,9266
+-57.181,-15.073,Barra do Bugres,MT,190
+-52.257,-15.89,Barra do Garças,MT,9737
+-57.979,-12.155,Brasnorte,MT,268
+-57.679,-16.071,Cáceres,MT,3287
+-52.895,-14.516,Campinápolis,MT,7366
+-57.892,-13.675,Campo Novo do Parecis,MT,8010
+-55.169,-15.547,Campo Verde,MT,2333
+-59.148,-13.899,Campos de Júlio,MT,6848
+-51.831,-11.054,CanaBrava do Norte,MT,6647
+-52.166,-13.55,Canarana,MT,3181
+-55.832,-9.958,Carlinda,MT,7799
+-58.603,-11.133,Castanheira,MT,4511
+-55.75,-15.461,Chapada dos Guimarães,MT,8170
+-54.891,-11.515,Cláudia,MT,5586
+-50.996,-14.397,Cocalinho,MT,1414
+-55.455,-10.813,Colíder,MT,5491
+-59.786,-13.663,Comodoro,MT,4789
+-51.569,-10.644,Confresa,MT,8737
+-58.414,-9.858,Cotriguaçu,MT,2591
+-56.097,-15.596,Cuiabá,MT,3800
+-57.054,-14.74,Denise,MT,9214
+-56.446,-14.409,Diamantino,MT,2257
+-54.918,-15.811,Dom Aquino,MT,6066
+-54.92,-12.386,Feliz Natal,MT,8502
+-58.74,-15.445,Figueirópolis d'Oeste,MT,8366
+-53.08,-13.242,Gaúcha do Norte,MT,4992
+-52.755,-15.711,General Carneiro,MT,8416
+-58.356,-15.768,Glória d'Oeste,MT,8809
+-54.91,-9.788,Guarantã do Norte,MT,7831
+-53.758,-16.349,Guiratinga,MT,7387
+-58.573,-15.494,Indiavaí,MT,1945
+-55.276,-11.062,Itaúba,MT,2224
+-54.15,-17.209,Itiquira,MT,6529
+-54.968,-15.965,Jaciara,MT,7775
+-56.489,-15.236,Jangada,MT,1134
+-58.866,-15.342,Jauru,MT,1885
+-57.52,-11.255,Juara,MT,7033
+-58.741,-11.378,Juína,MT,2408
+-58.359,-10.318,Juruena,MT,6695
+-54.884,-16.051,Juscimeira,MT,9817
+-58.004,-15.323,Lambari d'Oeste,MT,5254
+-55.911,-13.05,Lucas do Rio Verde,MT,6017
+-50.669,-11.222,Luciára,MT,3667
+-54.597,-11.133,Marcelândia,MT,4452
+-54.933,-10.057,Matupá,MT,5477
+-58.096,-15.675,Mirassol d'Oeste,MT,1516
+-56.328,-14.72,Nobres,MT,7434
+-56.803,-14.455,Nortelândia,MT,5499
+-56.346,-15.775,Nossa Senhora do Livramento,MT,7792
+-57.862,-9.814,Nova Bandeirantes,MT,8030
+-54.966,-14.957,Nova Brasilândia,MT,7716
+-55.953,-10.558,Nova Canaã do Norte,MT,6301
+-55.41,-10.316,Nova Guarita,MT,3754
+-59.609,-14.476,Nova Lacerda,MT,810
+-56.969,-14.364,Nova Marilândia,MT,8613
+-57.074,-13.026,Nova Maringá,MT,6862
+-57.535,-9.982,Nova Monte Verde,MT,3126
+-56.084,-13.838,Nova Mutum,MT,9063
+-57.288,-14.797,Nova Olímpia,MT,7684
+-55.255,-12.991,Nova Ubiratã,MT,3418
+-52.353,-14.673,Nova Xavantina,MT,6342
+-57.352,-11.413,Novo Horizonte do Norte,MT,7269
+-55.198,-9.95,Novo Mundo,MT,4946
+-53.018,-14.906,Novo São Joaquim,MT,7853
+-56.477,-9.665,Paranaíta,MT,3958
+-54.051,-14.432,Paranatinga,MT,2589
+-54.474,-16.623,Pedra Preta,MT,5227
+-54.983,-10.229,Peixoto de Azevedo,MT,7514
+-54.774,-14.658,Planalto da Serra,MT,1016
+-56.623,-16.257,Poconé,MT,7146
+-52.317,-15.934,Pontal do Araguaia,MT,8016
+-52.833,-16.764,Ponte Branca,MT,5281
+-59.335,-15.226,Pontes e Lacerda,MT,5309
+-51.633,-10.878,Porto Alegre do Norte,MT,993
+-57.414,-11.535,Porto dos Gaúchos,MT,3937
+-58.46,-15.853,Porto Esperidião,MT,2896
+-57.228,-15.324,Porto Estrela,MT,453
+-54.389,-15.837,Poxoréo,MT,4841
+-54.346,-15.528,Primavera do Leste,MT,8580
+-52.378,-12.476,Querência,MT,4790
+-58.466,-15.08,Reserva do Cabaçal,MT,3359
+-51.824,-12.942,Ribeirão Cascalheira,MT,1472
+-52.692,-16.485,Ribeirãozinho,MT,3651
+-58.116,-15.241,Rio Branco,MT,521
+-54.636,-16.471,Rondonópolis,MT,7959
+-56.428,-14.836,Rosário Oeste,MT,9536
+-58.127,-15.13,Salto do Céu,MT,2135
+-55.226,-11.913,Santa Carmem,MT,6102
+-50.503,-10.47,Santa Terezinha,MT,7718
+-57.002,-14.498,Santo Afonso,MT,8517
+-56.077,-15.866,Santo Antônio do Leverger,MT,3994
+-50.669,-11.617,São Félix do Araguaia,MT,2158
+-54.255,-16.465,São José do Povo,MT,2425
+-56.721,-13.447,São José do Rio Claro,MT,3174
+-52.744,-10.804,São José do Xingu,MT,5516
+-58.176,-15.621,São José dos Quatro Marcos,MT,1669
+-54.921,-16.001,São Pedro da Cipa,MT,5790
+-58.764,-12.989,Sapezal,MT,9208
+-55.504,-11.864,Sinop,MT,1786
+-55.711,-12.545,Sorriso,MT,9846
+-56.62,-10.807,Tabaporã,MT,3770
+-57.486,-14.619,Tangará da Serra,MT,833
+-56.554,-12.772,Tapurah,MT,9014
+-55.231,-10.517,Terra Nova do Norte,MT,8013
+-53.553,-16.079,Tesouro,MT,19
+-52.556,-16.199,Torixoréu,MT,190
+-54.353,-11.533,União do Sul,MT,8181
+-56.133,-15.647,Várzea Grande,MT,227
+-55.317,-12.306,Vera,MT,2920
+-59.951,-15.008,Vila Bela da Santíssima Trindade,MT,6512
+-51.116,-10.012,Vila Rica,MT,4775
