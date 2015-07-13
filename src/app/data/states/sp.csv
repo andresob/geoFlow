@@ -1,0 +1,646 @@
+lot,lat,name,uf,output
+-51.073,-21.685,Adamantina,SP,671
+-49.644,-21.235,Adolfo,SP,6847
+-46.979,-22.059,Aguaí,SP,3163
+-46.717,-21.937,Águas da Prata,SP,2791
+-46.633,-22.476,Águas de Lindóia,SP,1145
+-49.239,-22.881,Águas de Santa Bárbara,SP,3411
+-47.876,-22.599,Águas de São Pedro,SP,53
+-48.988,-22.469,Agudos,SP,1856
+-47.899,-23.551,Alambari,SP,9762
+-51.413,-21.955,Alfredo Marcondes,SP,6939
+-49.059,-20.524,Altair,SP,7599
+-47.374,-21.026,Altinópolis,SP,9127
+-50.164,-21.581,Alto Alegre,SP,8089
+-47.262,-23.535,Alumínio,SP,7957
+-49.911,-20.321,Álvares Florence,SP,1300
+-51.472,-22.079,Álvares Machado,SP,7917
+-49.719,-22.089,Álvaro de Carvalho,SP,8585
+-49.763,-22.444,Alvinlândia,SP,196
+-47.331,-22.739,Americana,SP,2122
+-48.102,-21.724,Américo Brasiliense,SP,631
+-49.732,-20.299,Américo de Campos,SP,1370
+-46.764,-22.701,Amparo,SP,3259
+-47.663,-22.126,Analândia,SP,5673
+-51.379,-20.896,Andradina,SP,5317
+-48.413,-23.49,Angatuba,SP,6594
+-48.127,-22.789,Anhembi,SP,4548
+-51.387,-22.295,Anhumas,SP,4771
+-45.23,-22.847,Aparecida,SP,1360
+-50.88,-20.449,Aparecida d'Oeste,SP,6248
+-48.843,-24.509,Apiaí,SP,755
+-47.061,-23.439,Araçariguama,SP,6211
+-50.433,-21.209,Araçatuba,SP,8599
+-47.614,-23.505,Araçoiaba da Serra,SP,5613
+-47.786,-20.09,Aramina,SP,9934
+-49.054,-23.134,Arandu,SP,8720
+-44.448,-22.674,Arapeí,SP,9518
+-48.176,-21.794,Araraquara,SP,9015
+-47.384,-22.357,Araras,SP,2120
+-50.465,-21.773,Arco-Íris,SP,3648
+-48.911,-22.029,Arealva,SP,9619
+-44.697,-22.58,Areias,SP,119
+-48.665,-22.668,Areiópolis,SP,1509
+-48.787,-21.188,Ariranha,SP,1002
+-47.173,-22.573,Artur Nogueira,SP,5892
+-46.321,-23.396,Arujá,SP,5664
+-50.727,-20.159,Aspásia,SP,8263
+-50.412,-22.662,Assis,SP,9024
+-46.55,-23.117,Atibaia,SP,9023
+-50.555,-20.686,Auriflama,SP,24
+-49.333,-22.147,Avaí,SP,4188
+-49.95,-21.461,Avanhandava,SP,3890
+-48.926,-23.099,Avaré,SP,1832
+-49.445,-20.918,Bady Bassitt,SP,7076
+-49.357,-21.9,Balbinos,SP,8164
+-49.584,-20.735,Bálsamo,SP,2278
+-44.323,-22.684,Bananal,SP,7290
+-49.561,-23.627,Barão de Antonina,SP,7435
+-49.949,-21.267,Barbosa,SP,5489
+-48.74,-22.074,Bariri,SP,5017
+-48.558,-22.495,Barra Bonita,SP,3432
+-49.025,-24.473,Barra do Chapéu,SP,8032
+-48.505,-24.756,Barra do Turvo,SP,6385
+-48.568,-20.557,Barretos,SP,4893
+-48.164,-21.194,Barrinha,SP,8608
+-46.876,-23.511,Barueri,SP,6937
+-50.734,-21.922,Bastos,SP,6448
+-47.585,-20.891,Batatais,SP,1214
+-49.061,-22.315,Bauru,SP,5756
+-48.479,-20.949,Bebedouro,SP,4650
+-50.812,-21.271,Bento de Abreu,SP,7552
+-49.474,-23.013,Bernardino de Campos,SP,8936
+-46.139,-23.854,Bertioga,SP,892
+-50.471,-21.403,Bilac,SP,3308
+-50.34,-21.289,Birigui,SP,3585
+-46.039,-23.573,Biritiba-Mirim,SP,7208
+-48.391,-21.993,Boa Esperança do Sul,SP,1554
+-48.518,-22.136,Bocaina,SP,7942
+-48.258,-23.102,Bofete,SP,8189
+-47.672,-23.283,Boituva,SP,3424
+-46.465,-23.135,Bom Jesus dos Perdões,SP,5835
+-49.144,-24.318,Bom Sucesso de Itararé,SP,633
+-50.534,-22.27,Borá,SP,1978
+-48.779,-22.193,Boracéia,SP,8182
+-49.074,-21.62,Borborema,SP,4473
+-48.971,-22.569,Borebi,SP,8643
+-48.445,-22.886,Botucatu,SP,9646
+-46.542,-22.952,Bragança Paulista,SP,6200
+-50.316,-21.499,Braúna,SP,8242
+-50.185,-21.166,Brejo Alegre,SP,4189
+-47.659,-20.991,Brodowski,SP,7231
+-48.127,-22.284,Brotas,SP,6012
+-48.593,-23.798,Buri,SP,2714
+-50.147,-21.066,Buritama,SP,7366
+-47.708,-20.191,Buritizal,SP,9197
+-49.338,-22.456,Cabrália Paulista,SP,8307
+-47.133,-23.308,Cabreúva,SP,1056
+-45.707,-23.101,Caçapava,SP,2505
+-45.009,-22.665,Cachoeira Paulista,SP,4170
+-46.644,-21.529,Caconde,SP,8920
+-49.61,-21.803,Cafelândia,SP,822
+-51.236,-22.012,Caiabu,SP,9564
+-46.741,-23.364,Caieiras,SP,9511
+-51.998,-21.832,Caiuá,SP,8560
+-46.877,-23.356,Cajamar,SP,4635
+-48.123,-24.736,Cajati,SP,408
+-48.809,-20.88,Cajobi,SP,1083
+-47.304,-21.275,Cajuru,SP,5648
+-48.477,-23.592,Campina do Monte Alegre,SP,3838
+-47.061,-22.906,Campinas,SP,3881
+-46.784,-23.206,Campo Limpo Paulista,SP,4268
+-45.591,-22.739,Campos do Jordão,SP,8768
+-50.003,-22.603,Campos Novos Paulista,SP,1458
+-47.927,-25.015,Cananéia,SP,1336
+-45.055,-22.704,Canas,SP,4272
+-50.387,-22.746,Cândido Mota,SP,7586
+-48.631,-21.325,Cândido Rodrigues,SP,9888
+-49.783,-23.006,Canitar,SP,5437
+-48.349,-24.006,Capão Bonito,SP,9472
+-47.735,-23.471,Capela do Alto,SP,1020
+-47.508,-22.995,Capivari,SP,9620
+-45.413,-23.62,Caraguatatuba,SP,2250
+-46.836,-23.523,Carapicuíba,SP,4890
+-49.914,-20.082,Cardoso,SP,9208
+-47.086,-21.774,Casa Branca,SP,9
+-47.17,-21.283,Cássia dos Coqueiros,SP,56
+-51.488,-20.872,Castilho,SP,5221
+-48.973,-21.138,Catanduva,SP,2622
+-49.058,-21.049,Catiguá,SP,6920
+-49.268,-20.903,Cedral,SP,8694
+-49.166,-23.036,Cerqueira César,SP,5441
+-47.744,-23.165,Cerquilho,SP,1406
+-47.953,-23.227,Cesário Lange,SP,9463
+-47.778,-22.51,Charqueada,SP,6021
+-49.709,-23.039,Chavantes,SP,7476
+-50.449,-21.56,Clementina,SP,1130
+-48.541,-20.713,Colina,SP,1244
+-48.689,-20.176,Colômbia,SP,6512
+-47.173,-22.33,Conchal,SP,1394
+-48.011,-23.015,Conchas,SP,7160
+-47.457,-22.482,Cordeirópolis,SP,6347
+-50.281,-21.352,Coroados,SP,4216
+-49.314,-23.631,Coronel Macedo,SP,9808
+-47.626,-22.22,Corumbataí,SP,9474
+-47.196,-22.646,Cosmópolis,SP,5147
+-49.778,-20.478,Cosmorama,SP,7582
+-46.919,-23.604,Cotia,SP,1252
+-47.729,-21.34,Cravinhos,SP,2500
+-47.42,-20.397,Cristais Paulista,SP,7596
+-50.794,-22.736,Cruzália,SP,2393
+-44.963,-22.576,Cruzeiro,SP,6421
+-46.425,-23.895,Cubatão,SP,3382
+-44.96,-23.074,Cunha,SP,8581
+-47.619,-21.904,Descalvado,SP,1290
+-46.623,-23.686,Diadema,SP,3333
+-50.606,-20.466,Dirce Reis,SP,3727
+-46.739,-21.661,Divinolândia,SP,374
+-48.394,-21.517,Dobrada,SP,9904
+-48.38,-22.366,Dois Córregos,SP,8021
+-50.513,-20.123,Dolcinópolis,SP,6715
+-48.318,-22.1,Dourado,SP,31
+-51.533,-21.483,Dracena,SP,5132
+-49.404,-22.414,Duartina,SP,439
+-47.973,-21.236,Dumont,SP,6649
+-50.201,-22.429,Echaporã,SP,7430
+-48.108,-24.52,Eldorado,SP,2163
+-47.374,-23.043,Elias Fausto,SP,3815
+-49.112,-21.166,Elisiário,SP,7017
+-48.836,-20.983,Embaúba,SP,8514
+-46.852,-23.649,Embu,SP,8668
+-46.811,-23.832,Embu-Guaçu,SP,7813
+-51.483,-21.833,Emilianópolis,SP,1021
+-47.215,-22.488,Engenheiro Coelho,SP,8372
+-46.741,-22.191,Espírito Santo do Pinhal,SP,5988
+-49.43,-22.692,Espírito Santo do Turvo,SP,2598
+-46.945,-22.271,Estiva Gerbi,SP,7431
+-50.401,-20.288,Estrela d'Oeste,SP,5288
+-51.66,-22.488,Estrela do Norte,SP,9378
+-52.59,-22.561,Euclides da Cunha Paulista,SP,1247
+-49.51,-23.388,Fartura,SP,1790
+-48.685,-21.264,Fernando Prestes,SP,1762
+-50.246,-20.284,Fernandópolis,SP,9927
+-49.521,-22.359,Fernão,SP,4615
+-46.369,-23.541,Ferraz de Vasconcelos,SP,1864
+-51.384,-21.676,Flora Rica,SP,3087
+-50.145,-20.677,Floreal,SP,5954
+-51.174,-21.615,Flórida Paulista,SP,2351
+-50.738,-22.903,Florínia,SP,5341
+-47.401,-20.539,Franca,SP,488
+-46.745,-23.282,Francisco Morato,SP,1149
+-46.727,-23.322,Franco da Rocha,SP,8805
+-50.555,-21.531,Gabriel Monteiro,SP,7951
+-49.553,-22.291,Gália,SP,7275
+-49.656,-22.211,Garça,SP,7443
+-50.187,-20.799,Gastão Vidigal,SP,9552
+-48.495,-21.839,Gavião Peixoto,SP,1942
+-50.361,-20.648,General Salgado,SP,9252
+-49.929,-21.799,Getulina,SP,2088
+-50.211,-21.384,Glicério,SP,2410
+-49.799,-21.622,Guaiçara,SP,5070
+-49.897,-21.91,Guaimbê,SP,8060
+-48.311,-20.318,Guaíra,SP,1334
+-49.22,-20.795,Guapiaçu,SP,6357
+-48.533,-24.185,Guapiara,SP,7460
+-47.824,-20.428,Guará,SP,4798
+-51.207,-21.028,Guaraçaí,SP,3750
+-48.945,-20.499,Guaraci,SP,2537
+-50.339,-20.075,Guarani d'Oeste,SP,8839
+-49.59,-21.895,Guarantã,SP,8395
+-50.643,-21.261,Guararapes,SP,7476
+-46.035,-23.415,Guararema,SP,8987
+-45.193,-22.816,Guaratinguetá,SP,4641
+-48.184,-23.373,Guareí,SP,1409
+-48.228,-21.36,Guariba,SP,8260
+-46.256,-23.993,Guarujá,SP,1784
+-46.533,-23.463,Guarulhos,SP,7406
+-48.038,-21.497,Guatapará,SP,893
+-50.662,-20.65,Guzolândia,SP,3255
+-50.385,-22.004,Herculândia,SP,9447
+-47.056,-22.633,Holambra,SP,4827
+-47.22,-22.858,Hortolândia,SP,2972
+-49.025,-21.89,Iacanga,SP,4515
+-50.689,-21.858,Iacri,SP,6953
+-49.163,-22.871,Iaras,SP,4647
+-47.997,-21.955,Ibaté,SP,39
+-49.241,-21.08,Ibirá,SP,1314
+-50.073,-22.818,Ibirarema,SP,2758
+-48.829,-21.758,Ibitinga,SP,9205
+-47.223,-23.656,Ibiúna,SP,7862
+-49.195,-20.342,Icém,SP,5366
+-51.076,-22.661,Iepê,SP,3475
+-48.558,-22.509,Igaraçu do Tietê,SP,3490
+-47.747,-20.038,Igarapava,SP,7311
+-46.156,-23.204,Igaratá,SP,1914
+-47.555,-24.708,Iguape,SP,7000
+-47.54,-24.741,Ilha Comprida,SP,3573
+-51.343,-20.433,Ilha Solteira,SP,6947
+-45.358,-23.778,Ilhabela,SP,168
+-47.218,-23.09,Indaiatuba,SP,2402
+-51.252,-22.174,Indiana,SP,3058
+-50.29,-19.98,Indiaporã,SP,6290
+-50.962,-21.77,Inúbia Paulista,SP,4780
+-49.626,-23.057,Ipaussu,SP,205
+-47.689,-23.35,Iperó,SP,6206
+-47.719,-22.436,Ipeúna,SP,2994
+-49.387,-20.657,Ipiguá,SP,6376
+-48.593,-24.586,Iporanga,SP,6582
+-48.012,-20.438,Ipuã,SP,3749
+-47.519,-22.581,Iracemápolis,SP,1106
+-49.409,-21.279,Irapuã,SP,6284
+-51.345,-21.571,Irapuru,SP,6837
+-49.137,-23.862,Itaberá,SP,4879
+-49.091,-23.418,Itaí,SP,7953
+-49.054,-21.318,Itajobi,SP,9134
+-48.805,-21.981,Itaju,SP,5899
+-46.789,-24.183,Itanhaém,SP,7824
+-48.843,-24.64,Itaóca,SP,3998
+-46.849,-23.717,Itapecerica da Serra,SP,4920
+-48.053,-23.592,Itapetininga,SP,5844
+-48.876,-23.982,Itapeva,SP,5048
+-46.934,-23.549,Itapevi,SP,4486
+-46.822,-22.436,Itapira,SP,9483
+-49.168,-24.574,Itapirapuã Paulista,SP,6226
+-48.813,-21.596,Itápolis,SP,2243
+-49.49,-23.708,Itaporanga,SP,9955
+-48.719,-22.233,Itapuí,SP,5320
+-51.509,-20.646,Itapura,SP,4041
+-46.348,-23.486,Itaquaquecetuba,SP,7376
+-49.341,-24.115,Itararé,SP,9955
+-47.174,-24.289,Itariri,SP,89
+-46.839,-23.006,Itatiba,SP,6890
+-48.616,-23.102,Itatinga,SP,8814
+-47.823,-22.253,Itirapina,SP,3153
+-47.219,-20.641,Itirapuã,SP,5699
+-46.975,-21.737,Itobi,SP,5287
+-47.299,-23.264,Itu,SP,3718
+-47.058,-23.153,Itupeva,SP,6195
+-47.781,-20.339,Ituverava,SP,1652
+-48.413,-20.688,Jaborandi,SP,335
+-48.322,-21.255,Jaboticabal,SP,750
+-45.966,-23.305,Jacareí,SP,4770
+-49.57,-20.882,Jaci,SP,8879
+-48.002,-24.693,Jacupiranga,SP,7724
+-46.986,-22.706,Jaguariúna,SP,8996
+-50.546,-20.269,Jales,SP,4623
+-45.688,-23.254,Jambeiro,SP,1341
+-46.903,-23.528,Jandira,SP,909
+-47.764,-21.018,Jardinópolis,SP,9169
+-46.728,-23.101,Jarinu,SP,3944
+-48.558,-22.296,Jaú,SP,9733
+-47.589,-20.311,Jeriquara,SP,2861
+-46.276,-22.93,Joanópolis,SP,7737
+-50.768,-22.25,João Ramalho,SP,7795
+-49.688,-21.053,José Bonifácio,SP,4542
+-49.787,-22.009,Júlio Mesquita,SP,6120
+-47.784,-23.087,Jumirim,SP,4824
+-46.884,-23.186,Jundiaí,SP,1330
+-51.434,-21.515,Junqueirópolis,SP,6882
+-47.635,-24.321,Juquiá,SP,8154
+-47.068,-23.932,Juquitiba,SP,7716
+-45.19,-23.091,Lagoinha,SP,905
+-47.837,-23.05,Laranjal Paulista,SP,2416
+-51.04,-21.168,Lavínia,SP,837
+-44.902,-22.571,Lavrinhas,SP,2701
+-47.39,-22.186,Leme,SP,9705
+-48.8,-22.599,Lençóis Paulista,SP,9904
+-47.402,-22.565,Limeira,SP,5274
+-46.65,-22.523,Lindóia,SP,2129
+-49.743,-21.679,Lins,SP,9347
+-45.125,-22.731,Lorena,SP,5771
+-50.224,-20.967,Lourdes,SP,7309
+-46.951,-23.086,Louveira,SP,6639
+-51.019,-21.72,Lucélia,SP,4903
+-49.523,-22.431,Lucianópolis,SP,847
+-47.704,-21.555,Luís Antônio,SP,2648
+-50.327,-21.676,Luiziânia,SP,1841
+-49.817,-22.415,Lupércio,SP,8283
+-50.392,-22.34,Lutécia,SP,9104
+-48.711,-22.502,Macatuba,SP,7867
+-49.964,-20.806,Macaubal,SP,8945
+-50.194,-20.146,Macedônia,SP,7692
+-50.226,-20.644,Magda,SP,6673
+-47.183,-23.546,Mairinque,SP,9639
+-46.587,-23.319,Mairiporã,SP,6848
+-49.322,-23.003,Manduri,SP,9316
+-51.963,-22.108,Marabá Paulista,SP,5786
+-50.667,-22.611,Maracaí,SP,8334
+-49.129,-21.259,Marapoama,SP,4007
+-51.181,-21.799,Mariápolis,SP,8232
+-49.946,-22.214,Marília,SP,7760
+-50.823,-20.441,Marinópolis,SP,2183
+-51.171,-22.146,Martinópolis,SP,4738
+-48.366,-21.603,Matão,SP,3747
+-46.461,-23.668,Mauá,SP,7454
+-49.581,-21.167,Mendonça,SP,7988
+-50.173,-20.359,Meridiano,SP,6424
+-50.638,-19.966,Mesópolis,SP,543
+-48.032,-20.179,Miguelópolis,SP,7237
+-48.451,-22.409,Mineiros do Tietê,SP,6980
+-50.137,-19.979,Mira Estrela,SP,4104
+-47.46,-24.281,Miracatu,SP,7389
+-51.102,-21.134,Mirandópolis,SP,1124
+-51.906,-22.292,Mirante do Paranapanema,SP,982
+-49.521,-20.819,Mirassol,SP,5031
+-49.464,-20.617,Mirassolândia,SP,5780
+-47.005,-21.468,Mococa,SP,2491
+-46.942,-22.372,Mogi Guaçu,SP,9411
+-46.188,-23.523,Moji das Cruzes,SP,1158
+-46.958,-22.432,Moji-Mirim,SP,9853
+-47.566,-22.929,Mombuca,SP,5492
+-50.092,-20.85,Monções,SP,5820
+-46.629,-24.087,Mongaguá,SP,8858
+-46.681,-22.682,Monte Alegre do Sul,SP,1114
+-48.496,-21.261,Monte Alto,SP,6401
+-49.714,-20.773,Monte Aprazível,SP,6641
+-48.641,-20.907,Monte Azul Paulista,SP,7936
+-51.569,-21.299,Monte Castelo,SP,6015
+-47.316,-22.947,Monte Mor,SP,9423
+-45.84,-22.957,Monteiro Lobato,SP,1191
+-48.058,-20.731,Morro Agudo,SP,4398
+-46.792,-22.88,Morungaba,SP,3904
+-48.151,-21.508,Motuca,SP,4775
+-51.278,-20.993,Murutinga do Sul,SP,906
+-51.237,-22.621,Nantes,SP,4642
+-51.524,-22.407,Narandiba,SP,3517
+-45.442,-23.376,Natividade da Serra,SP,5347
+-46.395,-23.181,Nazaré Paulista,SP,1904
+-49.63,-20.846,Neves Paulista,SP,262
+-50.038,-20.694,Nhandeara,SP,9112
+-49.778,-20.913,Nipoã,SP,5752
+-49.496,-21.016,Nova Aliança,SP,9501
+-48.904,-24.121,Nova Campina,SP,3150
+-50.949,-20.386,Nova Canaã Paulista,SP,1942
+-50.343,-20.763,Nova Castilho,SP,3736
+-48.561,-21.778,Nova Europa,SP,8636
+-49.314,-20.534,Nova Granada,SP,6612
+-51.644,-21.334,Nova Guataporanga,SP,5183
+-51.49,-21.104,Nova Independência,SP,184
+-50.262,-20.856,Nova Luzitânia,SP,335
+-47.296,-22.778,Nova Odessa,SP,9816
+-48.919,-20.992,Novais,SP,6399
+-49.221,-21.468,Novo Horizonte,SP,7987
+-47.731,-20.731,Nuporanga,SP,9157
+-49.923,-22.439,Ocauçu,SP,4669
+-49.342,-22.941,Óleo,SP,4948
+-48.915,-20.737,Olímpia,SP,4898
+-49.295,-20.6,Onda Verde,SP,4363
+-50.091,-22.153,Oriente,SP,2488
+-49.351,-20.182,Orindiúva,SP,9332
+-47.887,-20.72,Orlândia,SP,6165
+-46.792,-23.533,Osasco,SP,6770
+-50.281,-22.318,Oscar Bressane,SP,1498
+-50.879,-21.797,Osvaldo Cruz,SP,4785
+-49.871,-22.979,Ourinhos,SP,2546
+-51.7,-21.489,Ouro Verde,SP,9214
+-50.372,-20.001,Ouroeste,SP,7445
+-51.261,-21.562,Pacaembu,SP,7273
+-49.433,-20.39,Palestina,SP,7317
+-48.801,-21.083,Palmares Paulista,SP,6650
+-50.762,-20.416,Palmeira d'Oeste,SP,7707
+-50.218,-22.789,Palmital,SP,3725
+-51.86,-21.356,Panorama,SP,8328
+-50.576,-22.413,Paraguaçu Paulista,SP,4468
+-45.662,-23.386,Paraibuna,SP,9445
+-48.774,-21.016,Paraíso,SP,9264
+-48.723,-23.389,Paranapanema,SP,6475
+-50.586,-20.103,Paranapuã,SP,6769
+-50.793,-21.783,Parapuã,SP,4581
+-48.374,-23.081,Pardinho,SP,3583
+-47.881,-24.715,Pariquera-Açu,SP,2137
+-50.015,-20.304,Parisi,SP,8466
+-47.282,-20.639,Patrocínio Paulista,SP,4102
+-51.831,-21.318,Paulicéia,SP,9117
+-47.154,-22.761,Paulínia,SP,7546
+-49.403,-22.578,Paulistânia,SP,1373
+-49.383,-20.031,Paulo de Faria,SP,8621
+-48.775,-22.352,Pederneiras,SP,5660
+-46.443,-22.793,Pedra Bela,SP,6496
+-50.11,-20.248,Pedranópolis,SP,4869
+-47.477,-20.257,Pedregulho,SP,5447
+-46.901,-22.742,Pedreira,SP,3573
+-50.794,-22.815,Pedrinhas Paulista,SP,5946
+-47.233,-24.275,Pedro de Toledo,SP,9253
+-50.078,-21.42,Penápolis,SP,2757
+-51.109,-20.638,Pereira Barreto,SP,5833
+-47.976,-23.076,Pereiras,SP,4603
+-46.998,-24.32,Peruíbe,SP,4295
+-50.599,-21.592,Piacatu,SP,1795
+-47.428,-23.712,Piedade,SP,8759
+-47.716,-23.813,Pilar do Sul,SP,5791
+-45.462,-22.924,Pindamonhangaba,SP,3646
+-48.907,-21.186,Pindorama,SP,6752
+-46.591,-22.779,Pinhalzinho,SP,4227
+-51.729,-21.868,Piquerobi,SP,350
+-45.176,-22.614,Piquete,SP,1668
+-46.358,-23.054,Piracaia,SP,1755
+-47.649,-22.725,Piracicaba,SP,738
+-49.384,-23.194,Piraju,SP,6620
+-49.457,-21.999,Pirajuí,SP,2488
+-48.658,-21.091,Pirangi,SP,5432
+-47.002,-23.397,Pirapora do Bom Jesus,SP,5158
+-51.5,-22.275,Pirapozinho,SP,5300
+-47.426,-21.996,Pirassununga,SP,5211
+-49.135,-22.413,Piratininga,SP,7417
+-48.222,-21.009,Pitangueiras,SP,8804
+-49.929,-21.034,Planalto,SP,336
+-50.204,-22.638,Platina,SP,2014
+-46.345,-23.528,Poá,SP,745
+-49.824,-20.785,Poloni,SP,7618
+-50.172,-22.109,Pompéia,SP,9268
+-49.367,-21.736,Pongaí,SP,9642
+-48.037,-21.023,Pontal,SP,3027
+-50.523,-20.441,Pontalinda,SP,7763
+-49.703,-20.167,Pontes Gestal,SP,1890
+-50.538,-19.954,Populina,SP,4937
+-48.125,-23.176,Porangaba,SP,3407
+-47.524,-23.215,Porto Feliz,SP,2887
+-47.479,-21.854,Porto Ferreira,SP,2373
+-45.251,-22.843,Potim,SP,9951
+-49.377,-21.043,Potirendaba,SP,512
+-51.087,-21.851,Pracinha,SP,8522
+-48.066,-21.359,Pradópolis,SP,9635
+-46.403,-24.006,Praia Grande,SP,3737
+-48.666,-22.808,Pratânia,SP,4955
+-49.438,-22.1,Presidente Alves,SP,5980
+-51.553,-22.006,Presidente Bernardes,SP,6540
+-52.116,-21.763,Presidente Epitácio,SP,9692
+-51.389,-22.126,Presidente Prudente,SP,5832
+-51.844,-21.876,Presidente Venceslau,SP,3667
+-49.858,-21.537,Promissão,SP,6405
+-48.055,-23.299,Quadra,SP,2235
+-50.698,-22.248,Quatá,SP,3012
+-50.24,-21.799,Queiroz,SP,1959
+-44.774,-22.537,Queluz,SP,6061
+-50.308,-22.073,Quintana,SP,5515
+-47.527,-23.012,Rafard,SP,708
+-50.893,-22.229,Rancharia,SP,9424
+-45.537,-23.267,Redenção da Serra,SP,8085
+-51.303,-22.221,Regente Feijó,SP,4937
+-49.225,-21.888,Reginópolis,SP,6755
+-47.844,-24.488,Registro,SP,7340
+-47.483,-20.603,Restinga,SP,8481
+-49.009,-24.657,Ribeira,SP,3553
+-48.176,-22.067,Ribeirão Bonito,SP,6182
+-48.766,-24.221,Ribeirão Branco,SP,5558
+-47.59,-20.457,Ribeirão Corrente,SP,1369
+-49.934,-22.784,Ribeirão do Sul,SP,6512
+-51.604,-21.837,Ribeirão dos Índios,SP,5981
+-48.365,-24.099,Ribeirão Grande,SP,9090
+-46.413,-23.711,Ribeirão Pires,SP,6672
+-47.81,-21.178,Ribeirão Preto,SP,1626
+-47.421,-20.081,Rifaina,SP,8679
+-48.071,-21.587,Rincão,SP,9305
+-50.722,-21.726,Rinópolis,SP,5745
+-47.561,-22.411,Rio Claro,SP,7227
+-47.606,-22.843,Rio das Pedras,SP,117
+-46.398,-23.744,Rio Grande da Serra,SP,8502
+-49.681,-19.99,Riolândia,SP,2954
+-49.429,-23.828,Riversul,SP,6772
+-53.059,-22.58,Rosana,SP,4406
+-45.305,-22.898,Roseira,SP,3105
+-50.727,-21.301,Rubiácea,SP,5736
+-51.002,-20.179,Rubinéia,SP,4527
+-49.578,-21.46,Sabino,SP,7381
+-50.956,-21.884,Sagres,SP,6586
+-49.485,-21.341,Sales,SP,2638
+-47.838,-20.772,Sales Oliveira,SP,1243
+-45.846,-23.532,Salesópolis,SP,6071
+-50.861,-21.624,Salmourão,SP,118
+-47.677,-22.847,Saltinho,SP,5777
+-47.287,-23.201,Salto,SP,6339
+-47.573,-23.649,Salto de Pirapora,SP,1322
+-49.986,-22.893,Salto Grande,SP,5137
+-51.763,-22.456,Sandovalina,SP,1660
+-48.804,-21.243,Santa Adélia,SP,5520
+-50.728,-20.032,Santa Albertina,SP,8752
+-47.414,-22.754,Santa Bárbara d'Oeste,SP,8295
+-45.884,-23.397,Santa Branca,SP,417
+-50.954,-20.089,Santa Clara d'Oeste,SP,5669
+-47.452,-22.14,Santa Cruz da Conceição,SP,2342
+-47.43,-21.291,Santa Cruz da Esperança,SP,5194
+-47.249,-21.827,Santa Cruz das Palmeiras,SP,9435
+-49.633,-22.899,Santa Cruz do Rio Pardo,SP,3240
+-48.391,-21.463,Santa Ernestina,SP,862
+-50.926,-20.211,Santa Fé do Sul,SP,5739
+-47.53,-22.457,Santa Gertrudes,SP,1268
+-46.221,-23.316,Santa Isabel,SP,982
+-48.084,-21.685,Santa Lúcia,SP,4049
+-48.161,-22.567,Santa Maria da Serra,SP,9531
+-51.755,-21.351,Santa Mercedes,SP,1523
+-50.833,-20.143,Santa Rita d'Oeste,SP,8767
+-47.478,-21.71,Santa Rita do Passa Quatro,SP,6035
+-47.363,-21.473,Santa Rosa de Viterbo,SP,186
+-50.688,-20.245,Santa Salete,SP,1242
+-50.797,-20.253,Santana da Ponte Pensa,SP,1727
+-46.918,-23.444,Santana de Parnaíba,SP,7452
+-51.652,-21.977,Santo Anastácio,SP,540
+-46.538,-23.664,Santo André,SP,8807
+-47.151,-21.087,Santo Antônio da Alegria,SP,6577
+-46.919,-22.606,Santo Antônio de Posse,SP,4025
+-50.496,-20.937,Santo Antônio do Aracanguá,SP,141
+-46.68,-22.116,Santo Antônio do Jardim,SP,1614
+-45.663,-22.827,Santo Antônio do Pinhal,SP,316
+-51.392,-21.851,Santo Expedito,SP,927
+-50.5,-21.638,Santópolis do Aguapeí,SP,6673
+-46.334,-23.961,Santos,SP,1978
+-45.731,-22.689,São Bento do Sapucaí,SP,5462
+-46.565,-23.694,São Bernardo do Campo,SP,4206
+-46.551,-23.623,São Caetano do Sul,SP,1141
+-47.891,-22.018,São Carlos,SP,6814
+-50.697,-20.359,São Francisco,SP,7932
+-46.798,-21.969,São João da Boa Vista,SP,185
+-50.378,-20.389,São João das Duas Pontes,SP,908
+-50.352,-20.513,São João de Iracema,SP,3791
+-51.666,-21.268,São João do Pau d'Alho,SP,126
+-47.855,-20.581,São Joaquim da Barra,SP,6819
+-47.64,-20.593,São José da Bela Vista,SP,6606
+-44.578,-22.645,São José do Barreiro,SP,1637
+-46.889,-21.596,São José do Rio Pardo,SP,2415
+-49.379,-20.82,São José do Rio Preto,SP,11
+-45.887,-23.179,São José dos Campos,SP,4130
+-46.943,-23.853,São Lourenço da Serra,SP,314
+-45.31,-23.222,São Luís do Paraitinga,SP,4592
+-48.571,-22.731,São Manuel,SP,9268
+-47.997,-23.878,São Miguel Arcanjo,SP,2608
+-46.636,-23.548,São Paulo,SP,5070
+-47.914,-22.549,São Pedro,SP,1175
+-49.74,-22.747,São Pedro do Turvo,SP,4252
+-47.135,-23.529,São Roque,SP,6349
+-45.41,-23.76,São Sebastião,SP,1775
+-46.821,-21.711,São Sebastião da Grama,SP,9073
+-47.551,-21.479,São Simão,SP,2076
+-46.392,-23.963,São Vicente,SP,3929
+-47.825,-23.641,Sarapuí,SP,6982
+-49.48,-23.273,Sarutaiá,SP,9580
+-49.921,-20.655,Sebastianópolis do Sul,SP,1418
+-47.566,-21.311,Serra Azul,SP,4353
+-46.701,-22.612,Serra Negra,SP,1712
+-47.596,-21.211,Serrana,SP,9072
+-47.99,-21.138,Sertãozinho,SP,857
+-47.926,-24.388,Sete Barras,SP,5906
+-48.803,-20.809,Severínia,SP,8872
+-44.853,-22.664,Silveiras,SP,6920
+-46.529,-22.591,Socorro,SP,1588
+-47.458,-23.502,Sorocaba,SP,8575
+-50.924,-20.691,Sud Mennucci,SP,3373
+-47.267,-22.822,Sumaré,SP,1592
+-51.025,-20.501,Suzanápolis,SP,3377
+-46.311,-23.543,Suzano,SP,5653
+-49.032,-20.964,Tabapuã,SP,9298
+-48.688,-21.717,Tabatinga,SP,3896
+-46.753,-23.602,Taboão da Serra,SP,4675
+-51.285,-22.39,Taciba,SP,5890
+-49.409,-23.452,Taguaí,SP,5936
+-48.513,-21.144,Taiaçu,SP,1167
+-48.452,-21.124,Taiúva,SP,2500
+-47.274,-21.705,Tambaú,SP,6159
+-49.649,-20.626,Tanabi,SP,2124
+-47.507,-23.964,Tapiraí,SP,3035
+-46.749,-21.468,Tapiratiba,SP,9770
+-48.41,-21.072,Taquaral,SP,7534
+-48.505,-21.406,Taquaritinga,SP,3653
+-49.244,-23.533,Taquarituba,SP,1886
+-48.693,-23.924,Taquarivaí,SP,9590
+-51.559,-22.303,Tarabai,SP,2741
+-50.577,-22.747,Tarumã,SP,637
+-47.857,-23.356,Tatuí,SP,5030
+-45.555,-23.026,Taubaté,SP,8294
+-49.376,-23.343,Tejupá,SP,1672
+-52.168,-22.533,Teodoro Sampaio,SP,3116
+-48.33,-20.789,Terra Roxa,SP,330
+-47.715,-23.102,Tietê,SP,6115
+-49.607,-23.205,Timburi,SP,412
+-48.195,-23.244,Torre de Pedra,SP,9144
+-48.169,-22.426,Torrinha,SP,9129
+-48.336,-22.042,Trabiju,SP,3791
+-45.549,-22.958,Tremembé,SP,7325
+-50.89,-20.235,Três Fronteiras,SP,895
+-46.694,-22.816,Tuiuti,SP,1438
+-50.514,-21.935,Tupã,SP,5306
+-51.571,-21.381,Tupi Paulista,SP,9291
+-50.108,-20.933,Turiúba,SP,5317
+-50.476,-20.052,Turmalina,SP,8075
+-49.718,-21.166,Ubarana,SP,524
+-45.071,-23.434,Ubatuba,SP,1114
+-49.663,-22.527,Ubirajara,SP,1283
+-49.175,-20.953,Uchoa,SP,6829
+-49.897,-20.887,União Paulista,SP,2403
+-50.643,-20.246,Urânia,SP,4977
+-49.281,-21.784,Uru,SP,6669
+-49.29,-21.202,Urupês,SP,4555
+-50.088,-20.422,Valentim Gentil,SP,7998
+-46.996,-22.971,Valinhos,SP,1770
+-50.868,-21.228,Valparaíso,SP,270
+-46.414,-22.889,Vargem,SP,8116
+-46.894,-21.832,Vargem Grande do Sul,SP,2521
+-47.026,-23.603,Vargem Grande Paulista,SP,6320
+-46.828,-23.211,Várzea Paulista,SP,4602
+-49.819,-22.22,Vera Cruz,SP,7473
+-46.975,-23.03,Vinhedo,SP,8232
+-48.297,-20.873,Viradouro,SP,3211
+-48.629,-21.171,Vista Alegre do Alto,SP,5668
+-50.484,-20.197,Vitória Brasil,SP,9120
+-47.438,-23.547,Votorantim,SP,7324
+-49.973,-20.423,Votuporanga,SP,3975
+-50.051,-21.052,Zacarias,SP,2139

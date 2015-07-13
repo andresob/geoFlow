@@ -1,0 +1,5508 @@
+lot,lat,axis,uf,value
+-66883,-9828,Acrelândia,AC,1438
+-69567,-10941,Assis Brasil,AC,5675
+-68748,-11.01,Brasiléia,AC,5029
+-67952,-9831,Bujari,AC,3442
+-67676,-10573,Capixaba,AC,6622
+-72.67,-7631,Cruzeiro do Sul,AC,7634
+-68741,-11029,Epitaciolândia,AC,1760
+-70354,-8164,Feijó,AC,8599
+-71884,-9434,Jordão,AC,5259
+-72896,-7614,Mâncio Lima,AC,4014
+-69.26,-8839,Manoel Urbano,AC,5847
+-72792,-8941,Marechal Thaumaturgo,AC,9565
+-67.15,-10276,Plácido de Castro,AC,1103
+-67533,-9588,Porto Acre,AC,47
+-72744,-8269,Porto Walter,AC,299
+-67.81,-9975,Rio Branco,AC,1481
+-72647,-7742,Rodrigues Alves,AC,7802
+-70493,-9433,Santa Rosa do Purus,AC,2345
+-68657,-9066,Sena Madureira,AC,5314
+-67736,-10151,Senador Guiomard,AC,2192
+-70766,-8161,Tarauacá,AC,9562
+-68504,-10652,Xapuri,AC,8573
+-37938,-9262,Água Branca,AL,8767
+-36304,-9684,Anadia,AL,707
+-36661,-9752,Arapiraca,AL,9321
+-36023,-9502,Atalaia,AL,9033
+-35507,-9405,Barra de Santo Antônio,AL,5066
+-35908,-9.84,Barra de São Miguel,AL,7562
+-37125,-9678,Batalha,AL,951
+-36492,-9571,Belém,AL,9251
+-37.28,-9828,Belo Monte,AL,2062
+-36.22,-9641,Boca da Mata,AL,5965
+-36015,-9246,Branquinha,AL,2409
+-36.99,-9.4,Cacimbinhas,AL,7460
+-36154,-9397,Cajueiro,AL,8981
+-35568,-8846,Campestre,AL,7474
+-36351,-9782,Campo Alegre,AL,7003
+-36792,-9958,Campo Grande,AL,5894
+-37605,-9127,Canapi,AL,6898
+-36074,-9408,Capela,AL,4366
+-37377,-9483,Carneiros,AL,1057
+-36296,-9255,Chã Preta,AL,7863
+-36579,-9632,Coité do Nóia,AL,9193
+-35725,-8909,Colônia Leopoldina,AL,3907
+-35803,-9638,Coqueiro Seco,AL,7137
+-36176,-10126,Coruripe,AL,7244
+-36768,-9618,Craíbas,AL,7131
+-37996,-9386,Delmiro Gouveia,AL,2851
+-37101,-9393,Dois Riachos,AL,8766
+-36.76,-9.39,Estrela de Alagoas,AL,2193
+-36678,-9.9,Feira Grande,AL,2091
+-36306,-10292,Feliz Deserto,AL,9870
+-35715,-9273,Flexeiras,AL,5688
+-36829,-9884,Girau do Ponciano,AL,9838
+-35939,-8973,Ibateguara,AL,2715
+-36634,-9537,Igaci,AL,6316
+-36662,-10125,Igreja Nova,AL,771
+-37754,-9219,Inhapi,AL,3338
+-37205,-9636,Jacaré dos Homens,AL,3607
+-35.46,-8842,Jacuípe,AL,5864
+-35258,-9088,Japaratinga,AL,6350
+-37002,-9659,Jaramataia,AL,6011
+-35748,-9133,Joaquim Gomes,AL,1792
+-35574,-8935,Jundiá,AL,4251
+-36476,-9925,Junqueiro,AL,4473
+-36738,-9.83,Lagoa da Canoa,AL,6227
+-36503,-9741,Limoeiro de Anadia,AL,1949
+-35735,-9666,Maceió,AL,8524
+-36985,-9532,Major Isidoro,AL,2762
+-36388,-9448,Mar Vermelho,AL,4290
+-35222,-9012,Maragogi,AL,4531
+-37.35,-9236,Maravilha,AL,3763
+-35895,-9.71,Marechal Deodoro,AL,7260
+-36305,-9577,Maribondo,AL,596
+-37734,-9118,Mata Grande,AL,9931
+-35533,-9152,Matriz de Camaragibe,AL,6233
+-35842,-9383,Messias,AL,4603
+-36865,-9305,Minador do Negrão,AL,5796
+-37248,-9603,Monteirópolis,AL,81
+-35943,-9307,Murici,AL,7306
+-35647,-8915,Novo Lino,AL,9165
+-37294,-9536,Olho d'Água das Flores,AL,3230
+-37832,-9501,Olho d'Água do Casado,AL,1216
+-36817,-10058,Olho d'Água Grande,AL,8631
+-37191,-9519,Olivença,AL,7458
+-37357,-9167,Ouro Branco,AL,6196
+-37329,-9672,Palestina,AL,5263
+-36628,-9407,Palmeira dos Índios,AL,6748
+-37437,-9748,Pão de Açúcar,AL,2065
+-38006,-9254,Pariconha,AL,4671
+-35552,-9465,Paripueira,AL,9293
+-35493,-9238,Passo de Camaragibe,AL,3747
+-36.37,-9366,Paulo Jacinto,AL,7107
+-36586,-10.29,Penedo,AL,2657
+-36434,-10406,Piaçabuçu,AL,5572
+-35957,-9597,Pilar,AL,7541
+-36.29,-9475,Pindoba,AL,8546
+-37757,-9624,Piranhas,AL,1755
+-37286,-9313,Poço das Trincheiras,AL,3026
+-35398,-9045,Porto Calvo,AL,4824
+-35295,-9158,Porto de Pedras,AL,5534
+-36.84,-10186,Porto Real do Colégio,AL,4628
+-36471,-9319,Quebrangulo,AL,8184
+-35853,-9478,Rio Largo,AL,8281
+-35978,-9833,Roteiro,AL,5889
+-35822,-9603,Santa Luzia do Norte,AL,974
+-37245,-9378,Santana do Ipanema,AL,4995
+-36222,-9168,Santana do Mundaú,AL,5465
+-36901,-10128,São Brás,AL,2827
+-36058,-9.01,São José da Laje,AL,5759
+-37381,-9558,São José da Tapera,AL,1980
+-35561,-9318,São Luís do Quitunde,AL,6836
+-36094,-9781,São Miguel dos Campos,AL,4654
+-35373,-9266,São Miguel dos Milagres,AL,206
+-36554,-9934,São Sebastião,AL,4567
+-35824,-9563,Satuba,AL,1777
+-37507,-9354,Senador Rui Palmeira,AL,9788
+-36433,-9532,Tanque d'Arca,AL,7260
+-36497,-9645,Taquarana,AL,8434
+-36353,-9905,Teotônio Vilela,AL,317
+-37003,-9971,Traipu,AL,1647
+-36032,-9163,União dos Palmares,AL,9496
+-36241,-9371,Viçosa,AL,2301
+-64804,-3221,Alvarães,AM,8271
+-68198,-3364,Amaturá,AM,2972
+-61404,-3.58,Anamã,AM,8478
+-61644,-3773,Anori,AM,2510
+-59891,-7197,Apuí,AM,6795
+-70192,-4372,Atalaia do Norte,AM,4631
+-59131,-3.58,Autazes,AM,1231
+-62924,-975,Barcelos,AM,9596
+-57.07,-2793,Barreirinha,AM,6947
+-70031,-4383,Benjamin Constant,AM,8136
+-61373,-3898,Beruri,AM,8412
+-57.59,-2.97,Boa Vista do Ramos,AM,8305
+-67398,-8752,Boca do Acre,AM,2487
+-59594,-4388,Borba,AM,444
+-61209,-3328,Caapiranga,AM,7764
+-64383,-6534,Canutama,AM,7303
+-66896,-4883,Carauari,AM,8397
+-60369,-3768,Careiro,AM,3924
+-59826,-3221,Careiro da Várzea,AM,2523
+-63141,-4085,Coari,AM,5745
+-62057,-3837,Codajás,AM,1130
+-69874,-6.66,Eirunepé,AM,2704
+-70023,-7433,Envira,AM,394
+-66092,-2514,Fonte Boa,AM,8356
+-72584,-7546,Guajará,AM,4132
+-63021,-7506,Humaitá,AM,439
+-71695,-7051,Ipixuna,AM,9211
+-60186,-3285,Iranduba,AM,5796
+-58444,-3143,Itacoatiara,AM,5502
+-68253,-6425,Itamarati,AM,2323
+-58022,-2749,Itapiranga,AM,7011
+-66599,-1826,Japurá,AM,789
+-66069,-3481,Juruá,AM,591
+-66767,-2747,Jutaí,AM,3533
+-64798,-7259,Lábrea,AM,1561
+-60621,-3.3,Manacapuru,AM,8789
+-60459,-3428,Manaquiri,AM,1182
+-60025,-3102,Manaus,AM,9754
+-61.3,-5809,Manicoré,AM,5909
+-65581,-1856,Maraã,AM,5983
+-57719,-3384,Maués,AM,4749
+-56713,-2186,Nhamundá,AM,7480
+-59094,-3888,Nova Olinda do Norte,AM,9818
+-60944,-2621,Novo Airão,AM,7657
+-60.38,-5121,Novo Aripuanã,AM,9151
+-56736,-2628,Parintins,AM,4374
+-66976,-7714,Pauini,AM,9191
+-60025,-2034,Presidente Figueiredo,AM,2773
+-59.7,-2699,Rio Preto da Eva,AM,6206
+-65019,-414,Santa Isabel do Rio Negro,AM,5293
+-67.94,-3102,Santo Antônio do Içá,AM,5687
+-67089,-0.13,São Gabriel da Cachoeira,AM,9944
+-68873,-3378,São Paulo de Olivença,AM,9563
+-57871,-2572,São Sebastião do Uatumã,AM,8241
+-58209,-2839,Silves,AM,1540
+-69938,-4253,Tabatinga,AM,7144
+-63183,-5628,Tapauá,AM,3060
+-64711,-3354,Tefé,AM,2904
+-67802,-2873,Tonantins,AM,5241
+-65108,-2.99,Uarini,AM,7666
+-57.76,-2536,Urucará,AM,5475
+-58155,-3131,Urucurituba,AM,520
+-50793,2053,Amapá,AP,2138
+-50949,2498,Calçoene,AP,8646
+-50802,986,Cutias,AP,3622
+-51.18,858,Ferreira Gomes,AP,5756
+-50.8,712,Itaubal,AP,9117
+-52,-1.12,Laranjal do Jari,AP,2952
+-51066,39,Macapá,AP,4986
+-51289,-115,Mazagão,AP,495
+-51835,3843,Oiapoque,AP,7914
+-51944,778,Pedra Branca do Amaparí,AP,2280
+-51413,713,Porto Grande,AP,9217
+-50791,1743,Pracuúba,AP,5998
+-51182,-58,Santana,AP,508
+-52002,896,Serra do Navio,AP,4389
+-50912,1506,Tartarugalzinho,AP,4479
+-52453,-805,Vitória do Jari,AP,9352
+-41664,-13.25,Abaíra,BA,2649
+-39115,-8721,Abaré,BA,7185
+-38017,-11662,Acajutiba,BA,909
+-38.1,-10533,Adustina,BA,8890
+-38767,-11867,Água Fria,BA,733
+-39888,-14129,Aiquara,BA,4508
+-38419,-12136,Alagoinhas,BA,375
+-39196,-17519,Alcobaça,BA,9702
+-39637,-14705,Almadina,BA,2642
+-39605,-13.03,Amargosa,BA,6701
+-38757,-12392,Amélia Rodrigues,BA,5146
+-41436,-11455,América Dourada,BA,3500
+-41136,-14612,Anagé,BA,8194
+-41331,-12807,Andaraí,BA,4755
+-39833,-10345,Andorinha,BA,2509
+-44694,-12007,Angical,BA,9080
+-39246,-12151,Anguera,BA,1085
+-38333,-10.4,Antas,BA,7127
+-39.12,-12435,Antônio Cardoso,BA,1099
+-40274,-10573,Antônio Gonçalves,BA,5505
+-38081,-11.66,Aporá,BA,660
+-39744,-13856,Apuarema,BA,915
+-38203,-12.22,Araças,BA,4268
+-41462,-14428,Aracatu,BA,649
+-38967,-11333,Araci,BA,3895
+-38499,-12082,Aramari,BA,6167
+-39414,-15263,Arataca,BA,4334
+-39002,-13079,Aratuípe,BA,1759
+-39327,-14317,Aurelino Leal,BA,5551
+-44535,-12306,Baianópolis,BA,1478
+-40168,-11.96,Baixa Grande,BA,3020
+-38615,-10577,Banzaê,BA,5186
+-43142,-11089,Barra,BA,2026
+-41327,-13626,Barra da Estiva,BA,2087
+-40579,-14881,Barra do Choça,BA,6394
+-42059,-11.81,Barra do Mendes,BA,3747
+-39602,-14211,Barra do Rocha,BA,3703
+-44.99,-12153,Barreiras,BA,1794
+-41912,-11761,Barro Alto,BA,393
+-38883,-15863,Belmonte,BA,7989
+-41.26,-15038,Belo Campo,BA,416
+-38.8,-11617,Biritinga,BA,5743
+-40208,-14363,Boa Nova,BA,356
+-40609,-12.66,Boa Vista do Tupim,BA,7900
+-43418,-13255,Bom Jesus da Lapa,BA,8172
+-40504,-14372,Bom Jesus da Serra,BA,5592
+-41828,-12702,Boninal,BA,7115
+-41267,-11966,Bonito,BA,4072
+-42731,-12823,Boquira,BA,7600
+-42523,-13382,Botuporã,BA,6174
+-39796,-13104,Brejões,BA,7301
+-43966,-12483,Brejolândia,BA,4757
+-42626,-11999,Brotas de Macaúbas,BA,8240
+-41665,-14204,Brumado,BA,8722
+-39.3,-14959,Buerarema,BA,1980
+-43631,-10708,Buritirama,BA,4437
+-40408,-14977,Caatiba,BA,2296
+-39191,-12536,Cabaceiras do Paraguaçu,BA,5374
+-38956,-12618,Cachoeira,BA,738
+-42222,-14503,Caculé,BA,9325
+-40435,-11091,Caém,BA,823
+-40.91,-14338,Caetanos,BA,9963
+-42475,-14069,Caetité,BA,5058
+-41468,-11694,Cafarnaum,BA,7241
+-39044,-13487,Cairu,BA,7071
+-40303,-11.02,Caldeirão Grande,BA,7106
+-39496,-15419,Camacan,BA,1619
+-38324,-12698,Camaçari,BA,1857
+-39104,-13945,Camamu,BA,3039
+-43011,-9516,Campo Alegre de Lourdes,BA,7396
+-40321,-10509,Campo Formoso,BA,9135
+-44202,-13.07,Canápolis,BA,9422
+-41769,-11685,Canarana,BA,9342
+-38947,-15675,Canavieiras,BA,2560
+-39119,-11808,Candeal,BA,3842
+-38551,-12668,Candeias,BA,5021
+-42867,-14411,Candiba,BA,7818
+-41239,-15505,Cândido Sales,BA,7238
+-39498,-10671,Cansanção,BA,6692
+-39137,-9904,Canudos,BA,9529
+-39838,-11668,Capela do Alto Alegre,BA,9748
+-40013,-11381,Capim Grosso,BA,6263
+-41335,-14.6,Caraíbas,BA,3261
+-39266,-17732,Caravelas,BA,4239
+-37949,-11942,Cardeal da Silva,BA,242
+-43765,-14305,Carinhanha,BA,4329
+-40971,-9162,Casa Nova,BA,2362
+-39428,-12766,Castro Alves,BA,3511
+-44861,-12318,Catolândia,BA,1529
+-38379,-12353,Catu,BA,9159
+-42291,-13329,Caturama,BA,2570
+-42113,-11136,Central,BA,2237
+-39094,-8.98,Chorrochó,BA,4088
+-38383,-10.6,Cícero Dantas,BA,89
+-38517,-11.1,Cipó,BA,2159
+-39551,-14641,Coaraci,BA,800
+-44534,-14184,Cocos,BA,6148
+-38999,-12506,Conceição da Feira,BA,1034
+-39164,-12809,Conceição do Almeida,BA,3227
+-39283,-11564,Conceição do Coité,BA,7297
+-38727,-12423,Conceição do Jacuípe,BA,8514
+-37611,-11814,Conde,BA,1346
+-41969,-14895,Condeúba,BA,4498
+-41041,-13763,Contendas do Sincorá,BA,5750
+-38.75,-12233,Coração de Maria,BA,4794
+-41935,-15039,Cordeiros,BA,580
+-44454,-13829,Coribe,BA,5964
+-37926,-10284,Coronel João Sá,BA,1099
+-44637,-13343,Correntina,BA,750
+-44258,-12028,Cotegipe,BA,7851
+-39815,-13359,Cravolândia,BA,6116
+-38.15,-11511,Crisópolis,BA,8850
+-44421,-12234,Cristópolis,BA,8439
+-39102,-12.67,Cruz das Almas,BA,7166
+-39908,-8992,Curaçá,BA,1177
+-39908,-14436,Dário Meira,BA,6774
+-38297,-12613,Dias d'Ávila,BA,4884
+-41771,-13.76,Dom Basílio,BA,2462
+-39193,-12905,Dom Macedo Costa,BA,3191
+-39522,-12946,Elísio Medrado,BA,7429
+-40909,-15531,Encruzilhada,BA,6526
+-38084,-11942,Entre Rios,BA,6902
+-42.14,-13418,Érico Cardoso,BA,9403
+-37945,-11796,Esplanada,BA,3939
+-39014,-10508,Euclides da Cunha,BA,2101
+-39.58,-16378,Eunápolis,BA,9445
+-38217,-10.6,Fátima,BA,2428
+-44281,-14207,Feira da Mata,BA,5674
+-38967,-12267,Feira de Santana,BA,3797
+-40133,-10741,Filadélfia,BA,2312
+-39924,-14985,Firmino Alves,BA,3049
+-39.66,-14.86,Floresta Azul,BA,8375
+-45193,-11048,Formosa do Rio Preto,BA,5634
+-39487,-13744,Gandu,BA,2976
+-39784,-11471,Gavião,BA,2116
+-42503,-11429,Gentio do Ouro,BA,89
+-38257,-9339,Glória,BA,3811
+-39465,-14322,Gongogi,BA,6572
+-39471,-14.81,Governador Lomanto Júnior,BA,7226
+-39043,-12602,Governador Mangabeira,BA,5956
+-41.94,-14547,Guajeru,BA,6099
+-42781,-14223,Guanambi,BA,6355
+-39783,-16584,Guaratinga,BA,7557
+-38286,-10683,Heliópolis,BA,659
+-40212,-12767,Iaçu,BA,7405
+-42257,-14259,Ibiassucê,BA,5832
+-39588,-14865,Ibicaraí,BA,9690
+-41285,-13411,Ibicoara,BA,8822
+-39987,-14842,Ibicuí,BA,1609
+-42011,-11641,Ibipeba,BA,5816
+-42486,-12882,Ibipitanga,BA,5444
+-40934,-12651,Ibiquera,BA,8525
+-39374,-14164,Ibirapitanga,BA,7650
+-40109,-17688,Ibirapuã,BA,2305
+-39641,-14067,Ibirataia,BA,7026
+-42218,-12652,Ibitiara,BA,8037
+-41978,-11547,Ibititá,BA,983
+-43221,-12185,Ibotirama,BA,1467
+-39192,-11749,Ichu,BA,7018
+-42714,-13773,Igaporã,BA,6515
+-39142,-13826,Igrapiúna,BA,7560
+-40089,-14756,Iguaí,BA,8852
+-39049,-14789,Ilhéus,BA,5433
+-38353,-11784,Inhambupe,BA,3834
+-39308,-12.3,Ipecaetá,BA,3953
+-39734,-14137,Ipiaú,BA,4177
+-39737,-12158,Ipirá,BA,6855
+-42614,-11.82,Ipupiara,BA,9354
+-40084,-13251,Irajuba,BA,3013
+-40951,-13286,Iramaia,BA,7933
+-41619,-12249,Iraquara,BA,3561
+-38767,-12.05,Irará,BA,8556
+-41856,-11304,Irecê,BA,33
+-39553,-16575,Itabela,BA,9999
+-40307,-12528,Itaberaba,BA,2154
+-39.28,-14786,Itabuna,BA,6889
+-38997,-14278,Itacaré,BA,2065
+-40973,-12986,Itaeté,BA,6614
+-40006,-14163,Itagi,BA,9292
+-39843,-14284,Itagibá,BA,1814
+-39614,-16087,Itagimirim,BA,8969
+-42399,-11012,Itaguaçu da Bahia,BA,7851
+-39724,-15143,Itaju do Colônia,BA,5995
+-39375,-14678,Itajuípe,BA,2217
+-39531,-17039,Itamaraju,BA,8495
+-39684,-13778,Itamari,BA,2819
+-40624,-15245,Itambé,BA,3042
+-38042,-12263,Itanagra,BA,3738
+-40.33,-17166,Itanhém,BA,4470
+-38679,-12888,Itaparica,BA,1748
+-39421,-14898,Itapé,BA,9668
+-39534,-15951,Itapebi,BA,1307
+-40248,-15249,Itapetinga,BA,5405
+-38233,-11317,Itapicuru,BA,5261
+-39565,-14423,Itapitanga,BA,4467
+-39941,-13451,Itaquara,BA,5001
+-40066,-15.66,Itarantim,BA,4986
+-39698,-12712,Itatim,BA,645
+-40.15,-13532,Itiruçu,BA,5096
+-39853,-10691,Itiúba,BA,2574
+-40.07,-15117,Itororó,BA,5763
+-41297,-13813,Ituaçu,BA,6917
+-39149,-13732,Ituberá,BA,9793
+-43554,-14414,Iuiú,BA,7395
+-44433,-13619,Jaborandi,BA,7259
+-42433,-14.85,Jacaraci,BA,4086
+-40518,-11181,Jacobina,BA,9998
+-39971,-13531,Jaguaquara,BA,3664
+-40196,-10.26,Jaguarari,BA,6543
+-38896,-13113,Jaguaripe,BA,404
+-37784,-11564,Jandaíra,BA,6968
+-40084,-13858,Jequié,BA,499
+-38.35,-10067,Jeremoabo,BA,4843
+-39572,-13257,Jiquiriçá,BA,6895
+-39889,-14019,Jitaúna,BA,234
+-41664,-11.35,João Dourado,BA,5289
+-40503,-9414,Juazeiro,BA,7523
+-40159,-16843,Jucuruçu,BA,4417
+-41969,-11047,Jussara,BA,7792
+-39495,-15191,Jussari,BA,1391
+-41593,-13517,Jussiape,BA,8457
+-40213,-13656,Lafaiete Coutinho,BA,6272
+-42142,-14035,Lagoa Real,BA,5081
+-39425,-13182,Laje,BA,5865
+-40345,-17614,Lajedão,BA,1672
+-40906,-12356,Lajedinho,BA,8722
+-40224,-13475,Lajedo do Tabocal,BA,4768
+-38.9,-11783,Lamarão,BA,3160
+-41832,-11383,Lapão,BA,3693
+-38327,-12894,Lauro de Freitas,BA,3801
+-41.39,-12563,Lençóis,BA,6908
+-42508,-14682,Licínio de Almeida,BA,3336
+-41841,-13643,Livramento de Nossa Senhora,BA,5645
+-40.36,-12136,Macajuba,BA,7719
+-40423,-15568,Macarani,BA,3755
+-42699,-13019,Macaúbas,BA,2761
+-39058,-9168,Macururé,BA,3615
+-38621,-12741,Madre de Deus,BA,2836
+-41492,-14663,Maetinga,BA,3289
+-40266,-15621,Maiquinique,BA,4792
+-40149,-11711,Mairi,BA,8762
+-43774,-14336,Malhada,BA,2423
+-41879,-14388,Malhada de Pedras,BA,2568
+-40243,-14145,Manoel Vitorino,BA,5360
+-44034,-10716,Mansidão,BA,2982
+-40431,-13441,Maracás,BA,3124
+-38919,-12778,Maragogipe,BA,615
+-39015,-14103,Maraú,BA,2753
+-40531,-13003,Marcionílio Souza,BA,4021
+-39303,-15563,Mascote,BA,4374
+-38299,-12.53,Mata de São João,BA,7379
+-42849,-13909,Matina,BA,6407
+-40221,-17374,Medeiros Neto,BA,9621
+-40595,-11429,Miguel Calmon,BA,2674
+-39859,-12.87,Milagres,BA,8180
+-40576,-10954,Mirangaba,BA,5234
+-40773,-14242,Mirante,BA,4242
+-39333,-10438,Monte Santo,BA,5979
+-43281,-11559,Morpará,BA,6717
+-41156,-11.55,Morro do Chapéu,BA,9146
+-42368,-15023,Mortugaba,BA,4819
+-41371,-13005,Mucugê,BA,2817
+-39551,-18086,Mucuri,BA,5377
+-41639,-11966,Mulungu do Morro,BA,2505
+-40472,-11859,Mundo Novo,BA,9532
+-39.11,-13003,Muniz Ferreira,BA,537
+-43549,-12065,Muquém de São Francisco,BA,5098
+-38.99,-12626,Muritiba,BA,3680
+-39505,-13229,Mutuípe,BA,5347
+-39014,-13035,Nazaré,BA,3123
+-39107,-13599,Nilo Peçanha,BA,9121
+-39428,-10823,Nordestina,BA,5429
+-40142,-14794,Nova Canaã,BA,5307
+-39631,-11606,Nova Fátima,BA,3039
+-39626,-13.81,Nova Ibiá,BA,8032
+-40069,-13027,Nova Itarana,BA,3359
+-41071,-12819,Nova Redenção,BA,431
+-38483,-11233,Nova Soure,BA,7806
+-39372,-17892,Nova Viçosa,BA,2694
+-42168,-12808,Novo Horizonte,BA,7688
+-38406,-10317,Novo Triunfo,BA,8277
+-38333,-11367,Olindina,BA,1861
+-42896,-12317,Oliveira dos Brejinhos,BA,8712
+-38617,-12017,Ouriçangas,BA,330
+-41083,-10.97,Ourolândia,BA,3469
+-43162,-14267,Palmas de Monte Alto,BA,3108
+-41559,-12529,Palmeiras,BA,1371
+-42239,-13443,Paramirim,BA,745
+-43184,-12691,Paratinga,BA,2965
+-37862,-10688,Paripiranga,BA,444
+-39651,-15464,Pau Brasil,BA,9837
+-38222,-9408,Paulo Afonso,BA,9218
+-39613,-11834,Pé de Serra,BA,3395
+-38.65,-12.15,Pedrão,BA,4240
+-37894,-10014,Pedro Alexandre,BA,6229
+-41773,-13152,Piatã,BA,2415
+-42504,-10003,Pilão Arcado,BA,7716
+-42687,-14493,Pindaí,BA,6845
+-40363,-10743,Pindobaçu,BA,9212
+-39909,-11813,Pintadas,BA,1295
+-39379,-13762,Piraí do Norte,BA,9235
+-41.72,-14.94,Piripá,BA,5135
+-40555,-11.73,Piritiba,BA,5120
+-40369,-13259,Planaltino,BA,6829
+-40471,-14.67,Planalto,BA,520
+-40365,-14.53,Poções,BA,6477
+-38328,-12431,Pojuca,BA,6211
+-40134,-10862,Ponto Novo,BA,3521
+-39065,-16.45,Porto Seguro,BA,5177
+-39877,-15595,Potiraguá,BA,9233
+-39221,-17341,Prado,BA,606
+-41987,-11296,Presidente Dutra,BA,9183
+-41678,-14689,Presidente Jânio Quadros,BA,9406
+-39.42,-13449,Presidente Tancredo Neves,BA,1559
+-39624,-10978,Queimadas,BA,7632
+-39.21,-10753,Quijingue,BA,7595
+-40128,-11412,Quixabeira,BA,5937
+-39501,-12408,Rafael Jambeiro,BA,9926
+-42081,-9622,Remanso,BA,457
+-39426,-11495,Retirolândia,BA,4339
+-44.91,-11746,Riachão das Neves,BA,4385
+-39382,-11.81,Riachão do Jacuípe,BA,8545
+-42939,-13609,Riacho de Santana,BA,4695
+-38433,-11047,Ribeira do Amparo,BA,4323
+-38536,-10834,Ribeira do Pombal,BA,7826
+-40739,-15459,Ribeirão do Largo,BA,5837
+-41811,-13579,Rio de Contas,BA,5136
+-42076,-14411,Rio do Antônio,BA,1343
+-42292,-13128,Rio do Pires,BA,3435
+-37933,-11485,Rio Real,BA,3482
+-38756,-8851,Rodelas,BA,942
+-40494,-12284,Ruy Barbosa,BA,3251
+-38764,-12871,Salinas da Margarida,BA,3898
+-38511,-12971,Salvador,BA,1299
+-38975,-11958,Santa Bárbara,BA,9928
+-38126,-9736,Santa Brígida,BA,4905
+-39025,-16278,Santa Cruz Cabrália,BA,2186
+-39812,-14961,Santa Cruz da Vitória,BA,3686
+-39819,-13292,Santa Inês,BA,714
+-39334,-15429,Santa Luzia,BA,7456
+-44198,-13398,Santa Maria da Vitória,BA,8939
+-44519,-11009,Santa Rita de Cássia,BA,3506
+-39523,-12772,Santa Teresinha,BA,5626
+-39375,-11256,Santaluz,BA,2844
+-44051,-12983,Santana,BA,9881
+-38867,-12017,Santanópolis,BA,9846
+-38712,-12547,Santo Amaro,BA,9704
+-39261,-12969,Santo Antônio de Jesus,BA,5616
+-39251,-12.43,Santo Estêvão,BA,9514
+-44973,-12363,São Desidério,BA,3238
+-39542,-11503,São Domingos,BA,2275
+-39089,-12847,São Felipe,BA,2940
+-38972,-12605,São Félix,BA,9289
+-44195,-13402,São Félix do Coribe,BA,3467
+-38.68,-12628,São Francisco do Conde,BA,7739
+-41912,-11229,São Gabriel,BA,2172
+-38967,-12433,São Gonçalo dos Campos,BA,7631
+-39339,-15084,São José da Vitória,BA,3131
+-39867,-11412,São José do Jacuípe,BA,3284
+-39456,-13048,São Miguel das Matas,BA,1830
+-38495,-12513,São Sebastião do Passé,BA,6704
+-39182,-12728,Sapeaçu,BA,4830
+-38.6,-11.6,Sátiro Dias,BA,7365
+-38769,-12738,Saubara,BA,2926
+-40418,-10941,Saúde,BA,4614
+-41.77,-12419,Seabra,BA,1387
+-42.94,-14573,Sebastião Laranjeiras,BA,6378
+-40191,-10463,Senhor do Bonfim,BA,4141
+-41885,-9746,Sento Sé,BA,3010
+-43598,-13572,Serra do Ramalho,BA,7656
+-43.95,-12761,Serra Dourada,BA,2612
+-39332,-12.16,Serra Preta,BA,767
+-39008,-11664,Serrinha,BA,6018
+-40302,-11416,Serrolândia,BA,4157
+-38404,-12784,Simões Filho,BA,5506
+-43465,-13085,Sítio do Mato,BA,8778
+-38217,-10.35,Sítio do Quinto,BA,6925
+-40823,-9455,Sobradinho,BA,144
+-41638,-12089,Souto Soares,BA,3855
+-44007,-12706,Tabocas do Brejo Velho,BA,890
+-41248,-14021,Tanhaçu,BA,9612
+-42491,-13546,Tanque Novo,BA,1523
+-39104,-11979,Tanquinho,BA,6283
+-39099,-13538,Taperoá,BA,3375
+-40791,-11847,Tapiramutá,BA,7165
+-39742,-17535,Teixeira de Freitas,BA,5541
+-38628,-12293,Teodoro Sampaio,BA,1047
+-38998,-11489,Teofilândia,BA,1178
+-39491,-13602,Teolândia,BA,2074
+-38625,-12392,Terra Nova,BA,3278
+-41411,-14976,Tremedal,BA,5887
+-38787,-10963,Tucano,BA,255
+-39482,-9842,Uauá,BA,8619
+-39663,-13268,Ubaíra,BA,1236
+-39323,-14313,Ubaitaba,BA,7548
+-39523,-14214,Ubatã,BA,2370
+-42133,-11337,Uibaí,BA,6509
+-41326,-10733,Umburanas,BA,5595
+-39075,-15293,Una,BA,7137
+-42655,-14771,Urandi,BA,3797
+-39284,-14593,Uruçuca,BA,1307
+-41094,-12082,Utinga,BA,7263
+-39073,-13.37,Valença,BA,2019
+-39462,-11412,Valente,BA,2708
+-40137,-11607,Várzea da Roça,BA,1383
+-40.32,-11529,Várzea do Poço,BA,4733
+-40942,-11259,Várzea Nova,BA,9409
+-39394,-12971,Varzedo,BA,7206
+-38609,-12.96,Vera Cruz,BA,5005
+-40.09,-17223,Vereda,BA,6405
+-40839,-14866,Vitória da Conquista,BA,9030
+-41168,-12287,Wagner,BA,7175
+-43888,-12.12,Wanderley,BA,8959
+-39479,-13687,Wenceslau Guimarães,BA,2256
+-42731,-10822,Xique-Xique,BA,125
+-39046,-7359,Abaiara,CE,6278
+-38708,-4224,Acarapé,CE,679
+-40.12,-2886,Acaraú,CE,9362
+-39453,-6095,Acopiara,CE,5263
+-40124,-6574,Aiuaba,CE,5110
+-40546,-3589,Alcântaras,CE,9371
+-39741,-7002,Altaneira,CE,6041
+-38272,-5521,Alto Santo,CE,2344
+-39579,-3494,Amontada,CE,4692
+-39989,-6775,Antonina do Norte,CE,2523
+-39432,-3949,Apuiarés,CE,794
+-38391,-3901,Aquiraz,CE,3433
+-37.77,-4562,Aracati,CE,9258
+-38814,-4371,Aracoiaba,CE,1158
+-40833,-4753,Ararendá,CE,8335
+-40046,-7213,Araripe,CE,6706
+-39045,-4418,Aratuba,CE,4304
+-40161,-6324,Arneiroz,CE,5772
+-39875,-6874,Assaré,CE,4902
+-38968,-6943,Aurora,CE,4292
+-38717,-6.73,Baixio,CE,8270
+-38921,-5.31,Banabuiú,CE,6912
+-39302,-7305,Barbalha,CE,2322
+-38643,-4287,Barreira,CE,37
+-38782,-7177,Barro,CE,893
+-41137,-3019,Barroquinha,CE,9860
+-38885,-4329,Baturité,CE,4800
+-38131,-4.18,Beberibe,CE,1699
+-40168,-3051,Bela Cruz,CE,7401
+-39732,-5128,Boa Viagem,CE,2088
+-38985,-7493,Brejo Santo,CE,377
+-40841,-2902,Camocim,CE,3404
+-40376,-7074,Campos Sales,CE,7220
+-39312,-4359,Canindé,CE,2382
+-38901,-4.47,Capistrano,CE,7664
+-39193,-4232,Caridade,CE,1087
+-40473,-3951,Cariré,CE,9537
+-39284,-7042,Caririaçu,CE,2134
+-39497,-6537,Cariús,CE,2078
+-40943,-4167,Carnaubal,CE,2094
+-38236,-4131,Cascavel,CE,1849
+-39878,-6131,Catarina,CE,9994
+-40201,-4648,Catunda,CE,7777
+-38656,-3733,Caucaia,CE,4642
+-39062,-6607,Cedro,CE,854
+-41244,-3034,Chaval,CE,2323
+-39141,-4843,Choró,CE,8435
+-38497,-4.3,Chorozinho,CE,4352
+-40657,-3533,Coreaú,CE,397
+-40678,-5178,Crateús,CE,9021
+-39409,-7234,Crato,CE,2922
+-40911,-4.4,Croatá,CE,4302
+-40172,-2918,Cruz,CE,3830
+-39268,-5917,Deputado Irapuan Pinheiro,CE,5575
+-38349,-6032,Ererê,CE,1924
+-38451,-3.89,Eusébio,CE,4451
+-39566,-6931,Farias Brito,CE,9296
+-40261,-3798,Forquilha,CE,2999
+-38543,-3717,Fortaleza,CE,2241
+-37797,-4452,Fortim,CE,3536
+-40816,-3.76,Frecheirinha,CE,9834
+-39454,-4053,General Sampaio,CE,2831
+-40753,-4046,Graça,CE,6744
+-40826,-3.12,Granja,CE,928
+-39218,-6888,Granjeiro,CE,7629
+-40383,-3913,Groaíras,CE,5443
+-38637,-4.04,Guaiúba,CE,3020
+-40748,-4167,Guaraciaba do Norte,CE,3222
+-38933,-4263,Guaramiranga,CE,9518
+-40438,-4408,Hidrolândia,CE,1436
+-38496,-4099,Horizonte,CE,2975
+-38753,-4804,Ibaretama,CE,3996
+-40889,-3923,Ibiapina,CE,6232
+-38639,-4974,Ibicuitinga,CE,3357
+-37355,-4713,Icapuí,CE,9232
+-38862,-6401,Icó,CE,5407
+-39299,-6359,Iguatu,CE,9005
+-40309,-5396,Independência,CE,5451
+-40759,-4.9,Ipaporanga,CE,811
+-38719,-6.79,Ipaumirim,CE,8407
+-40711,-4322,Ipu,CE,7871
+-40719,-4542,Ipueiras,CE,9496
+-38306,-5812,Iracema,CE,1474
+-39783,-3746,Irauçuba,CE,3443
+-37822,-4674,Itaiçaba,CE,4757
+-38528,-3969,Itaitinga,CE,3375
+-39586,-3687,Itapagé,CE,5072
+-39832,-3362,Itapipoca,CE,1073
+-38922,-4564,Itapiúna,CE,9223
+-39915,-2.92,Itarema,CE,8571
+-39622,-4529,Itatira,CE,5829
+-38767,-5613,Jaguaretama,CE,9424
+-38.62,-5658,Jaguaribara,CE,685
+-38622,-5891,Jaguaribe,CE,260
+-37781,-4834,Jaguaruana,CE,1717
+-39298,-7582,Jardim,CE,2063
+-39016,-7686,Jati,CE,9724
+-40513,-2794,Jijoca de Jericoacoara,CE,5755
+-39315,-7213,Juazeiro do Norte,CE,9575
+-39528,-6525,Jucás,CE,4619
+-38972,-6753,Lavras da Mangabeira,CE,2896
+-38098,-5146,Limoeiro do Norte,CE,8226
+-39577,-4857,Madalena,CE,6716
+-38626,-3877,Maracanaú,CE,5258
+-38686,-3.89,Maranguape,CE,8238
+-40147,-3124,Marco,CE,2685
+-40697,-3226,Martinópole,CE,7767
+-40343,-3523,Massapê,CE,1834
+-38774,-7389,Mauriti,CE,6929
+-40455,-3542,Meruoca,CE,9298
+-38946,-7313,Milagres,CE,9343
+-39194,-5675,Milhã,CE,9658
+-39.97,-3569,Miraíma,CE,828
+-39143,-7.25,Missão Velha,CE,329
+-39628,-5743,Mombaça,CE,7330
+-40063,-4789,Monsenhor Tabosa,CE,6761
+-38373,-5107,Morada Nova,CE,2609
+-40681,-3467,Moraújo,CE,9242
+-40125,-3229,Morrinhos,CE,9968
+-40747,-3909,Mucambo,CE,306
+-38996,-4306,Mulungu,CE,5830
+-39681,-7092,Nova Olinda,CE,1807
+-40563,-4707,Nova Russas,CE,8673
+-40774,-5534,Novo Oriente,CE,542
+-38597,-4491,Ocara,CE,9531
+-38914,-6244,Orós,CE,7181
+-38461,-4173,Pacajus,CE,530
+-38.62,-3984,Pacatuba,CE,9981
+-38923,-4225,Pacoti,CE,7056
+-40697,-3988,Pacujá,CE,1814
+-37959,-4745,Palhano,CE,6080
+-38846,-4.15,Palmácia,CE,8177
+-39031,-3.41,Paracuru,CE,9279
+-39148,-3439,Paraipaba,CE,7312
+-40694,-6211,Parambu,CE,8426
+-39239,-4097,Paramoti,CE,2643
+-39717,-5454,Pedra Branca,CE,513
+-39077,-7829,Penaforte,CE,3462
+-39.27,-3793,Pentecoste,CE,291
+-38461,-6045,Pereiro,CE,8168
+-38306,-4028,Pindoretama,CE,5750
+-39418,-5804,Piquet Carneiro,CE,9035
+-40645,-4247,Pires Ferreira,CE,4858
+-40926,-4745,Poranga,CE,8346
+-39118,-7535,Porteiras,CE,5214
+-40027,-7091,Potengi,CE,8864
+-38251,-5668,Potiretama,CE,2135
+-40701,-5843,Quiterianópolis,CE,5837
+-39015,-4971,Quixadá,CE,1021
+-39202,-6254,Quixelô,CE,5575
+-39293,-5199,Quixeramobim,CE,1515
+-37989,-5074,Quixeré,CE,5847
+-38731,-4226,Redenção,CE,3339
+-40582,-4142,Reriutaba,CE,9333
+-37976,-4.94,Russas,CE,8736
+-39907,-6542,Saboeiro,CE,5024
+-40457,-7285,Salitre,CE,3121
+-40157,-4332,Santa Quitéria,CE,7561
+-40212,-3461,Santana do Acaraú,CE,5945
+-39737,-7188,Santana do Cariri,CE,4605
+-40865,-4049,São Benedito,CE,7981
+-38969,-3606,São Gonçalo do Amarante,CE,5806
+-38274,-5271,São João do Jaguaribe,CE,7783
+-39243,-3.67,São Luís do Curu,CE,1228
+-39372,-5588,Senador Pompeu,CE,4604
+-40463,-3351,Senador Sá,CE,8451
+-40.35,-3686,Sobral,CE,776
+-39008,-5733,Solonópole,CE,804
+-38131,-5247,Tabuleiro do Norte,CE,6835
+-40321,-4832,Tamboril,CE,7758
+-39761,-6684,Tarrafas,CE,5337
+-40293,-6003,Tauá,CE,180
+-39581,-3989,Tejuçuoca,CE,7466
+-40992,-3732,Tianguá,CE,3169
+-39269,-3278,Trairi,CE,6667
+-39437,-3581,Tururu,CE,3257
+-40921,-3854,Ubajara,CE,6968
+-38.7,-6648,Umari,CE,6841
+-39.35,-3677,Umirim,CE,6298
+-39508,-3625,Uruburetama,CE,563
+-40557,-3314,Uruoca,CE,8221
+-40477,-4194,Varjota,CE,6390
+-39296,-6789,Várzea Alegre,CE,1976
+-41092,-3562,Viçosa do Ceará,CE,648
+-47.93,-15.78,Brasília,DF,3301
+-41124,-20074,Afonso Cláudio,ES,6402
+-40979,-18547,Água Doce do Norte,ES,1210
+-40.74,-18983,Águia Branca,ES,7389
+-41533,-20764,Alegre,ES,9712
+-40.75,-20635,Alfredo Chaves,ES,6001
+-41017,-19056,Alto Rio Novo,ES,9151
+-40654,-20796,Anchieta,ES,4626
+-41568,-21154,Apiacá,ES,2559
+-40273,-19.82,Aracruz,ES,7194
+-41198,-20914,Atilio Vivacqua,ES,8395
+-41016,-19519,Baixo Guandu,ES,2702
+-40891,-18755,Barra de São Francisco,ES,6257
+-40296,-18.54,Boa Esperança,ES,6259
+-41672,-21114,Bom Jesus do Norte,ES,588
+-41.29,-20146,Brejetuba,ES,6760
+-41113,-20849,Cachoeiro de Itapemirim,ES,2670
+-40.42,-20264,Cariacica,ES,3223
+-41185,-20604,Castelo,ES,7377
+-40631,-19539,Colatina,ES,2121
+-39732,-18593,Conceição da Barra,ES,5172
+-41244,-20368,Conceição do Castelo,ES,166
+-41686,-20.62,Divino de São Lourenço,ES,5111
+-40659,-20363,Domingos Martins,ES,522
+-41845,-20689,Dores do Rio Preto,ES,9462
+-40831,-18373,Ecoporanga,ES,6217
+-40407,-19933,Fundão,ES,3776
+-41679,-20776,Guaçuí,ES,2472
+-40511,-20658,Guarapari,ES,221
+-41511,-20234,Ibatiba,ES,1973
+-40.37,-19832,Ibiraçu,ES,2299
+-41667,-20541,Ibitirama,ES,1431
+-40811,-20793,Iconha,ES,5847
+-41641,-20345,Irupi,ES,6347
+-40856,-19802,Itaguaçu,ES,5944
+-40834,-21011,Itapemirim,ES,3562
+-40875,-19874,Itarana,ES,3331
+-41536,-20346,Iúna,ES,6840
+-40076,-18906,Jaguaré,ES,7600
+-41395,-20789,Jerônimo Monteiro,ES,7073
+-40386,-19758,João Neiva,ES,5748
+-41057,-19899,Laranja da Terra,ES,9288
+-40072,-19391,Linhares,ES,4932
+-41123,-18863,Mantenópolis,ES,9330
+-40824,-21043,Marataízes,ES,4371
+-40683,-20413,Marechal Floriano,ES,1510
+-40542,-19413,Marilândia,ES,3378
+-41366,-21064,Mimoso do Sul,ES,1978
+-40363,-18127,Montanha,ES,7429
+-40516,-18093,Mucurici,ES,5035
+-41413,-20464,Muniz Freire,ES,4205
+-41346,-20952,Muqui,ES,2376
+-40401,-18711,Nova Venécia,ES,584
+-40851,-19225,Pancas,ES,5277
+-40151,-18.03,Pedro Canário,ES,1564
+-40122,-18.38,Pinheiros,ES,8347
+-40729,-20835,Piúma,ES,7016
+-40541,-18124,Ponto Belo,ES,2934
+-41047,-21099,Presidente Kennedy,ES,424
+-40333,-19265,Rio Bananal,ES,427
+-40936,-20863,Rio Novo do Sul,ES,4208
+-40.53,-20101,Santa Leopoldina,ES,5863
+-40746,-20041,Santa Maria de Jetibá,ES,5986
+-40.6,-19936,Santa Teresa,ES,2300
+-40624,-19144,São Domingos do Norte,ES,5473
+-40536,-19017,São Gabriel da Palha,ES,8514
+-41654,-21025,São José do Calçado,ES,2072
+-39859,-18716,São Mateus,ES,3384
+-40657,-19739,São Roque do Canaã,ES,2573
+-40308,-20129,Serra,ES,904
+-40098,-19197,Sooretama,ES,6548
+-41007,-20671,Vargem Alta,ES,2942
+-41135,-20.34,Venda Nova do Imigrante,ES,7760
+-40496,-20.39,Viana,ES,3001
+-40611,-18615,Vila Pavão,ES,380
+-40389,-18998,Vila Valério,ES,6498
+-40292,-20.33,Vila Velha,ES,2784
+-40338,-20319,Vitória,ES,3956
+-49438,-16757,Abadia de Goiás,GO,2984
+-48707,-16204,Abadiânia,GO,6150
+-50377,-17396,Acreúna,GO,7499
+-50166,-16415,Adelândia,GO,6318
+-47784,-14986,Água Fria de Goiás,GO,415
+-48762,-18074,Água Limpa,GO,8521
+-48282,-15762,Águas Lindas de Goiás,GO,7745
+-48507,-16082,Alexânia,GO,780
+-49.48,-17728,Aloândia,GO,485
+-49339,-14196,Alto Horizonte,GO,983
+-47.51,-14133,Alto Paraíso de Goiás,GO,2584
+-46492,-14481,Alvorada do Norte,GO,2966
+-49297,-13926,Amaralina,GO,9106
+-49983,-16255,Americano do Brasil,GO,656
+-51094,-16619,Amorinópolis,GO,3183
+-48953,-16327,Anápolis,GO,2959
+-48219,-18337,Anhanguera,GO,2642
+-49962,-16461,Anicuns,GO,7823
+-49245,-16822,Aparecida de Goiânia,GO,165
+-51145,-18299,Aparecida do Rio Doce,GO,1113
+-51926,-18965,Aporé,GO,9274
+-49681,-16358,Araçu,GO,1831
+-52251,-15898,Aragarças,GO,1312
+-49451,-16912,Aragoiânia,GO,4918
+-50632,-15091,Araguapaz,GO,5620
+-51.56,-16386,Arenópolis,GO,3719
+-51083,-14.92,Aruanã,GO,1502
+-50465,-16682,Aurilândia,GO,4799
+-49758,-16466,Avelinópolis,GO,8067
+-52545,-16196,Baliza,GO,8459
+-48916,-14971,Barro Alto,GO,8127
+-48953,-16973,Bela Vista de Goiás,GO,1491
+-52172,-16.21,Bom Jardim de Goiás,GO,4814
+-49742,-18215,Bom Jesus de Goiás,GO,857
+-48963,-16618,Bonfinópolis,GO,7715
+-49.81,-13636,Bonópolis,GO,5233
+-49389,-16431,Brazabrantes,GO,5110
+-51161,-15241,Britânia,GO,6695
+-49044,-18144,Buriti Alegre,GO,4586
+-50431,-16181,Buriti de Goiás,GO,4428
+-46408,-14479,Buritinópolis,GO,7814
+-46927,-15801,Cabeceiras,GO,2511
+-50942,-18763,Cachoeira Alta,GO,3907
+-50647,-16668,Cachoeira de Goiás,GO,3162
+-49475,-18492,Cachoeira Dourada,GO,1081
+-51131,-18557,Caçu,GO,663
+-51.81,-16957,Caiapônia,GO,8903
+-48626,-17744,Caldas Novas,GO,6624
+-49002,-16714,Caldazinha,GO,9158
+-49694,-16762,Campestre de Goiás,GO,3627
+-48571,-13.79,Campinaçu,GO,2100
+-49152,-14314,Campinorte,GO,5629
+-47782,-17639,Campo Alegre de Goiás,GO,9757
+-46772,-13037,Campos Belos,GO,8265
+-49658,-14258,Campos Verdes,GO,9378
+-49708,-15354,Carmo do Rio Verde,GO,8185
+-50201,-18091,Castelândia,GO,9514
+-47942,-18.17,Catalão,GO,9074
+-49494,-16447,Caturaí,GO,3579
+-47458,-13798,Cavalcante,GO,7404
+-49598,-15308,Ceres,GO,1217
+-49776,-16972,Cezarina,GO,1621
+-52549,-18408,Chapadão do Céu,GO,5383
+-47925,-16077,Cidade Ocidental,GO,6846
+-48776,-15794,Cocalzinho de Goiás,GO,6478
+-48078,-14151,Colinas do Sul,GO,1612
+-50548,-16294,Córrego do Ouro,GO,9143
+-48809,-15924,Corumbá de Goiás,GO,6833
+-48562,-18142,Corumbaíba,GO,9386
+-47614,-16769,Cristalina,GO,6235
+-48704,-17199,Cristianópolis,GO,9134
+-49969,-14549,Crixás,GO,1878
+-49381,-17288,Cromínia,GO,5552
+-48151,-18263,Cumari,GO,5167
+-46177,-14564,Damianópolis,GO,9014
+-49.37,-16253,Damolândia,GO,3944
+-47562,-18153,Davinópolis,GO,3554
+-51256,-16234,Diorama,GO,1277
+-46393,-13295,Divinópolis de Goiás,GO,2220
+-52319,-16.72,Doverlândia,GO,1881
+-49665,-17426,Edealina,GO,3818
+-49931,-17339,Edéia,GO,3374
+-49073,-13868,Estrela do Norte,GO,1225
+-50361,-15446,Faina,GO,9003
+-50.78,-16183,Fazenda Nova,GO,648
+-50305,-16582,Firminópolis,GO,7200
+-47.05,-14449,Flores de Goiás,GO,2688
+-47334,-15537,Formosa,GO,1753
+-48882,-13654,Formoso,GO,3533
+-49024,-16511,Goianápolis,GO,9705
+-48085,-18133,Goiandira,GO,2298
+-49117,-15317,Goianésia,GO,1958
+-49254,-16679,Goiânia,GO,4830
+-49426,-16496,Goianira,GO,3373
+-50.14,-15934,Goiás,GO,306
+-49357,-18013,Goiatuba,GO,5019
+-50066,-18642,Gouvelândia,GO,6008
+-49532,-16831,Guapó,GO,1561
+-50024,-15614,Guaraíta,GO,3982
+-46.48,-13936,Guarani de Goiás,GO,8031
+-49702,-14732,Guarinos,GO,1662
+-49829,-15719,Heitoraí,GO,1526
+-49229,-16962,Hidrolândia,GO,371
+-49465,-14724,Hidrolina,GO,6253
+-46632,-14096,Iaciara,GO,7114
+-49987,-18488,Inaciolândia,GO,3562
+-49987,-17142,Indiara,GO,9203
+-49496,-16358,Inhumas,GO,3495
+-48.16,-17722,Ipameri,GO,8300
+-51118,-16442,Iporá,GO,6864
+-50908,-16318,Israelândia,GO,1589
+-49.81,-16.02,Itaberaí,GO,3017
+-49604,-15919,Itaguari,GO,7790
+-49634,-15758,Itaguaru,GO,4849
+-51544,-19067,Itajá,GO,1352
+-49549,-14951,Itapaci,GO,3313
+-50613,-15823,Itapirapuã,GO,2062
+-49949,-15562,Itapuranga,GO,8418
+-51348,-18769,Itarumã,GO,1946
+-49608,-16201,Itauçu,GO,2069
+-49218,-18.42,Itumbiara,GO,1370
+-50794,-16602,Ivolândia,GO,5805
+-50146,-17049,Jandaia,GO,6951
+-49334,-15757,Jaraguá,GO,7070
+-51714,-17881,Jataí,GO,1525
+-50953,-16178,Jaupaci,GO,5267
+-49374,-15951,Jesúpolis,GO,1785
+-49614,-17805,Joviânia,GO,4848
+-50868,-15865,Jussara,GO,3511
+-48744,-16619,Leopoldo de Bulhões,GO,983
+-47.95,-16253,Luziânia,GO,1681
+-49491,-17299,Mairipotaba,GO,1506
+-46113,-14488,Mambaí,GO,6694
+-49178,-14017,Mara Rosa,GO,3846
+-48641,-17981,Marzagão,GO,7277
+-50746,-15444,Matrinchã,GO,6399
+-50339,-17971,Maurilândia,GO,6663
+-48161,-15056,Mimoso de Goiás,GO,3589
+-48.22,-13533,Minaçu,GO,7446
+-52551,-17569,Mineiros,GO,6116
+-50739,-16546,Moiporá,GO,5951
+-46901,-13256,Monte Alegre de Goiás,GO,2413
+-51397,-16008,Montes Claros de Goiás,GO,8474
+-51175,-17444,Montividiu,GO,1644
+-48607,-13113,Montividiu do Norte,GO,7186
+-49101,-17732,Morrinhos,GO,3455
+-50057,-15321,Morro Agudo de Goiás,GO,2868
+-50215,-16127,Mossâmedes,GO,5064
+-50571,-14745,Mozarlândia,GO,8389
+-50281,-13776,Mundo Novo,GO,5760
+-49275,-13733,Mutunópolis,GO,4419
+-49882,-16582,Nazário,GO,5391
+-49219,-16406,Nerópolis,GO,9512
+-48.46,-14474,Niquelândia,GO,6350
+-49896,-15022,Nova América,GO,486
+-48255,-18059,Nova Aurora,GO,1641
+-50327,-14099,Nova Crixás,GO,719
+-49571,-15143,Nova Glória,GO,7614
+-49389,-14289,Nova Iguaçu de Goiás,GO,2497
+-46.88,-13742,Nova Roma,GO,4909
+-49323,-16371,Nova Veneza,GO,6546
+-50711,-16034,Novo Brasil,GO,6442
+-48039,-16059,Novo Gama,GO,216
+-49504,-13244,Novo Planalto,GO,7084
+-48296,-17031,Orizona,GO,5644
+-49193,-16.22,Ouro Verde de Goiás,GO,5425
+-47839,-18234,Ouvidor,GO,9344
+-48284,-15.16,Padre Bernardo,GO,1831
+-51533,-16733,Palestina de Goiás,GO,3661
+-49926,-16805,Palmeiras de Goiás,GO,5252
+-48424,-17324,Palmelo,GO,2818
+-50165,-16796,Palminópolis,GO,6094
+-49354,-18177,Panamá,GO,7224
+-50654,-18916,Paranaiguara,GO,3278
+-50449,-16948,Paraúna,GO,2792
+-52064,-17529,Perolândia,GO,4392
+-49338,-16095,Petrolina de Goiás,GO,1961
+-49578,-14764,Pilar de Goiás,GO,2541
+-49018,-17303,Piracanjuba,GO,3684
+-51822,-16427,Piranhas,GO,4993
+-48959,-15852,Pirenópolis,GO,8448
+-48.28,-17301,Pires do Rio,GO,9533
+-47614,-15453,Planaltina,GO,3695
+-49449,-17526,Pontalina,GO,8048
+-49149,-13441,Porangatu,GO,7679
+-50164,-17815,Porteirão,GO,3408
+-52679,-17354,Portelândia,GO,4451
+-46369,-14093,Posse,GO,8982
+-49244,-17251,Professor Jamil,GO,1402
+-50452,-18448,Quirinópolis,GO,3655
+-49584,-15315,Rialma,GO,484
+-49.51,-15447,Rianápolis,GO,7236
+-48773,-17774,Rio Quente,GO,2976
+-50928,-17798,Rio Verde,GO,2448
+-49803,-15164,Rubiataba,GO,5213
+-50314,-16198,Sanclerlândia,GO,8503
+-49694,-16574,Santa Bárbara de Goiás,GO,6968
+-48482,-17316,Santa Cruz de Goiás,GO,5997
+-51106,-15769,Santa Fé de Goiás,GO,7334
+-50597,-17814,Santa Helena de Goiás,GO,742
+-49427,-15298,Santa Isabel,GO,3803
+-53205,-17326,Santa Rita do Araguaia,GO,2269
+-49.12,-15135,Santa Rita do Novo Destino,GO,8750
+-49494,-16085,Santa Rosa de Goiás,GO,4288
+-49015,-13714,Santa Tereza de Goiás,GO,2968
+-49706,-14438,Santa Terezinha de Goiás,GO,268
+-50634,-17561,Santo Antônio da Barra,GO,4542
+-49311,-16484,Santo Antônio de Goiás,GO,4267
+-48255,-15.94,Santo Antônio do Descoberto,GO,2293
+-46318,-13398,São Domingos,GO,1294
+-49261,-15931,São Francisco de Goiás,GO,4884
+-47525,-14706,São João d'Aliança,GO,3800
+-50.41,-16815,São João da Paraúna,GO,482
+-50372,-16525,São Luís de Montes Belos,GO,2145
+-49329,-14863,São Luíz do Norte,GO,501
+-50163,-13275,São Miguel do Araguaia,GO,3620
+-48663,-17059,São Miguel do Passa Quatro,GO,3458
+-49818,-15.35,São Patrício,GO,6317
+-50544,-18991,São Simão,GO,7430
+-49093,-16708,Senador Canedo,GO,1800
+-51962,-18306,Serranópolis,GO,2168
+-48608,-16659,Silvânia,GO,2498
+-46483,-14474,Simolândia,GO,3786
+-46253,-14805,Sítio d'Abadia,GO,3706
+-49606,-16054,Taquaral de Goiás,GO,8496
+-47265,-13776,Teresina de Goiás,GO,1772
+-49.08,-16395,Terezópolis de Goiás,GO,9775
+-47783,-18354,Três Ranchos,GO,6288
+-49489,-16649,Trindade,GO,5562
+-48.74,-13509,Trombas,GO,3454
+-50134,-16614,Turvânia,GO,4534
+-50302,-17853,Turvelândia,GO,857
+-49922,-14285,Uirapuru,GO,5288
+-49141,-14525,Uruaçu,GO,3104
+-49688,-15498,Uruana,GO,3186
+-48203,-17464,Urutaí,GO,6631
+-47979,-16066,Valparaíso de Goiás,GO,9540
+-49631,-17045,Varjão,GO,2420
+-48516,-16742,Vianópolis,GO,4885
+-49806,-17735,Vicentinópolis,GO,3740
+-47059,-15038,Vila Boa,GO,6548
+-48889,-15457,Vila Propício,GO,6200
+-47505,-4947,Açailândia,MA,592
+-43324,-4133,Afonso Cunha,MA,513
+-42112,-2841,Água Doce do Maranhão,MA,9399
+-44415,-2409,Alcântara,MA,1893
+-43471,-4628,Aldeias Altas,MA,3482
+-45.47,-4165,Altamira do Maranhão,MA,1152
+-44446,-4213,Alto Alegre do Maranhão,MA,5176
+-45903,-3.69,Alto Alegre do Pindaré,MA,7668
+-45.93,-9111,Alto Parnaíba,MA,8513
+-45.93,-1568,Amapá do Maranhão,MA,1802
+-46742,-5567,Amarante do Maranhão,MA,5518
+-44.62,-3264,Anajatuba,MA,1794
+-43116,-3672,Anapurus,MA,3001
+-45103,-1461,Apicum-Açu,MA,6212
+-45665,-2953,Araguanã,MA,2973
+-41903,-2.89,Araioses,MA,7966
+-45908,-4733,Arame,MA,923
+-44.78,-3454,Arari,MA,8810
+-44053,-2837,Axixá,MA,7311
+-44.78,-4225,Bacabal,MA,3272
+-44316,-2971,Bacabeira,MA,1159
+-45134,-1703,Bacuri,MA,6997
+-44738,-2706,Bacurituba,MA,3643
+-46036,-7533,Balsas,MA,4526
+-43024,-6756,Barão de Grajaú,MA,9671
+-45243,-5506,Barra do Corda,MA,5191
+-42826,-2747,Barreirinhas,MA,3163
+-45315,-3731,Bela Vista do Maranhão,MA,2758
+-43.51,-3155,Belágua,MA,5325
+-44558,-7223,Benedito Leite,MA,8269
+-44783,-2449,Bequimão,MA,1178
+-44764,-4584,Bernardo do Mearim,MA,3103
+-46303,-1788,Boa Vista do Gurupi,MA,8012
+-45994,-3565,Bom Jardim,MA,7834
+-46765,-4.42,Bom Jesus das Selvas,MA,2779
+-45039,-4.22,Bom Lugar,MA,5443
+-42.75,-3684,Brejo,MA,1815
+-45495,-4084,Brejo de Areia,MA,6431
+-42925,-3942,Buriti,MA,5908
+-43834,-5837,Buriti Bravo,MA,6743
+-46401,-4346,Buriticupu,MA,7250
+-47018,-5593,Buritirana,MA,9917
+-44058,-2927,Cachoeira Grande,MA,7721
+-44675,-2881,Cajapió,MA,6950
+-45011,-3321,Cajari,MA,1069
+-47364,-6172,Campestre do Maranhão,MA,7705
+-45717,-1447,Cândido Mendes,MA,1263
+-44377,-3633,Cantanhede,MA,5849
+-44327,-4728,Capinzal do Norte,MA,8292
+-47469,-7333,Carolina,MA,6461
+-46.02,-1195,Carutapera,MA,2433
+-43356,-4859,Caxias,MA,6003
+-44536,-2,Cedral,MA,6125
+-44826,-2199,Central do Maranhão,MA,6188
+-46002,-2369,Centro do Guilherme,MA,9246
+-46128,-2107,Centro Novo do Maranhão,MA,3468
+-43.36,-3742,Chapadinha,MA,6935
+-47782,-5174,Cidelândia,MA,531
+-43886,-4455,Codó,MA,6062
+-43013,-4257,Coelho Neto,MA,6660
+-44249,-6026,Colinas,MA,3441
+-44893,-3834,Conceição do Lago-Açu,MA,2816
+-44124,-4.13,Coroatá,MA,9555
+-44868,-1828,Cururupu,MA,1466
+-47426,-5558,Davinópolis,MA,4404
+-44436,-5033,Dom Pedro,MA,4744
+-42944,-4156,Duque Bacelar,MA,72
+-44688,-4883,Esperantinópolis,MA,1237
+-47451,-6561,Estreito,MA,1845
+-46686,-6.96,Feira Nova do Maranhão,MA,526
+-44893,-6152,Fernando Falcão,MA,3853
+-46191,-6435,Formosa da Serra Negra,MA,2895
+-46177,-6964,Fortaleza dos Nogueiras,MA,2304
+-44158,-5733,Fortuna,MA,9280
+-45.78,-1403,Godofredo Viana,MA,4553
+-44299,-5151,Gonçalves Dias,MA,3983
+-44271,-5022,Governador Archer,MA,5431
+-47361,-5749,Governador Edison Lobão,MA,3164
+-44247,-5323,Governador Eugênio Barros,MA,6838
+-44074,-5469,Governador Luiz Rocha,MA,2259
+-45676,-3426,Governador Newton Bello,MA,9669
+-45885,-2126,Governador Nunes Freire,MA,6927
+-44334,-5.41,Graça Aranha,MA,5827
+-46139,-5819,Grajaú,MA,8142
+-44601,-2133,Guimarães,MA,3098
+-43461,-2598,Humberto de Campos,MA,1496
+-44066,-2776,Icatu,MA,1159
+-45227,-3661,Igarapé do Meio,MA,6763
+-44853,-4585,Igarapé Grande,MA,9858
+-47476,-5526,Imperatriz,MA,7533
+-45791,-5145,Itaipava do Grajaú,MA,1484
+-44359,-3393,Itapecuru Mirim,MA,8775
+-47526,-4.45,Itinga do Maranhão,MA,2413
+-44223,-5817,Jatobá,MA,3542
+-45636,-5371,Jenipapo dos Vieiras,MA,5419
+-47401,-5448,João Lisboa,MA,5600
+-44.7,-4967,Joselândia,MA,4818
+-46092,-1844,Junco do Maranhão,MA,4328
+-45.24,-4287,Lago da Pedra,MA,8009
+-44937,-4442,Lago do Junco,MA,7357
+-44899,-4498,Lago dos Rodrigues,MA,417
+-44822,-3957,Lago Verde,MA,4479
+-43526,-6047,Lagoa do Mato,MA,5356
+-45.33,-4813,Lagoa Grande do Maranhão,MA,4320
+-47035,-6189,Lajeado Novo,MA,5188
+-44467,-4.52,Lima Campos,MA,372
+-45141,-7084,Loreto,MA,422
+-45873,-1268,Luís Domingues,MA,6885
+-42204,-3396,Magalhães de Almeida,MA,7905
+-45959,-2043,Maracaçumé,MA,659
+-45577,-4599,Marajá do Sena,MA,263
+-45842,-2.31,Maranhãozinho,MA,6475
+-43111,-3625,Mata Roma,MA,1729
+-45034,-3101,Matinha,MA,6756
+-43199,-5519,Matões,MA,6972
+-44556,-3632,Matões do Norte,MA,1220
+-42609,-3581,Milagres do Maranhão,MA,5898
+-44363,-6371,Mirador,MA,2851
+-44584,-3569,Miranda do Norte,MA,3730
+-44784,-2065,Mirinzal,MA,9026
+-45251,-3492,Monção,MA,9306
+-47067,-5831,Montes Altos,MA,8059
+-44039,-2864,Morros,MA,5088
+-43905,-3466,Nina Rodrigues,MA,8951
+-46257,-7116,Nova Colinas,MA,5476
+-44044,-6734,Nova Iorque,MA,7565
+-45695,-2847,Nova Olinda do Maranhão,MA,3076
+-45116,-3948,Olho d'Água das Cunhãs,MA,1293
+-44997,-2998,Olinda Nova do Maranhão,MA,6518
+-44108,-2532,Paço do Lumiar,MA,493
+-44895,-2645,Palmeirândia,MA,2660
+-43984,-6433,Paraibano,MA,5714
+-43093,-5682,Parnarama,MA,3266
+-43784,-6.18,Passagem Franca,MA,5359
+-44077,-6602,Pastos Bons,MA,3198
+-42533,-2719,Paulino Neves,MA,3025
+-45205,-4187,Paulo Ramos,MA,3516
+-44593,-4561,Pedreiras,MA,1775
+-45349,-2973,Pedro do Rosário,MA,9051
+-45174,-3294,Penalva,MA,2966
+-44854,-2578,Peri Mirim,MA,6413
+-44333,-4383,Peritoró,MA,1748
+-45343,-3608,Pindaré-Mirim,MA,9279
+-45083,-2521,Pinheiro,MA,6158
+-45285,-3875,Pio XII,MA,5543
+-44223,-3727,Pirapemas,MA,5363
+-44892,-4675,Poção de Pedras,MA,1998
+-47399,-6338,Porto Franco,MA,5599
+-44605,-1893,Porto Rico do Maranhão,MA,9270
+-44.49,-5.29,Presidente Dutra,MA,2231
+-44065,-2928,Presidente Juscelino,MA,6865
+-45.82,-2387,Presidente Médici,MA,7382
+-45364,-2591,Presidente Sarney,MA,3670
+-44024,-3407,Presidente Vargas,MA,3923
+-43438,-2.51,Primeira Cruz,MA,9018
+-44103,-2423,Raposa,MA,8948
+-46617,-7362,Riachão,MA,7546
+-47384,-5.93,Ribamar Fiquene,MA,4659
+-44235,-2934,Rosário,MA,7406
+-45346,-7.14,Sambaíba,MA,2585
+-44561,-5501,Santa Filomena do Maranhão,MA,988
+-45.3,-2231,Santa Helena,MA,1797
+-45.38,-3667,Santa Inês,MA,3855
+-45.69,-4069,Santa Luzia,MA,1854
+-45773,-2629,Santa Luzia do Paruá,MA,3803
+-42547,-3516,Santa Quitéria do Maranhão,MA,3831
+-44326,-3144,Santa Rita,MA,8060
+-42412,-3116,Santana do Maranhão,MA,706
+-43254,-2.5,Santo Amaro do Maranhão,MA,957
+-44.36,-4869,Santo Antônio dos Lopes,MA,3213
+-43528,-3334,São Benedito do Rio Preto,MA,2005
+-44821,-2696,São Bento,MA,4027
+-42418,-3361,São Bernardo,MA,3679
+-44645,-6.81,São Domingos do Azeitão,MA,3833
+-44385,-5576,São Domingos do Maranhão,MA,2976
+-44813,-7083,São Félix de Balsas,MA,674
+-47386,-5123,São Francisco do Brejão,MA,6418
+-42856,-6251,São Francisco do Maranhão,MA,3600
+-44807,-2955,São João Batista,MA,3377
+-46256,-3554,São João do Carú,MA,716
+-47058,-6461,São João do Paraíso,MA,5810
+-43.81,-5114,São João do Soter,MA,7424
+-43702,-6495,São João dos Patos,MA,4493
+-44054,-2562,São José de Ribamar,MA,9950
+-44584,-5051,São José dos Basílios,MA,5141
+-44303,-2.53,São Luís,MA,8611
+-44.67,-4.38,São Luís Gonzaga do Maranhão,MA,2453
+-44.47,-4.04,São Mateus do Maranhão,MA,1715
+-48429,-5085,São Pedro da Água Branca,MA,3796
+-46532,-6826,São Pedro dos Crentes,MA,1949
+-45481,-7022,São Raimundo das Mangabeiras,MA,4044
+-45077,-5105,São Raimundo do Doca Bezerra,MA,9232
+-44991,-5021,São Roberto,MA,5455
+-44.88,-2894,São Vicente Ferrer,MA,6420
+-45165,-3846,Satubinha,MA,8923
+-44056,-5256,Senador Alexandre Costa,MA,5080
+-47291,-5443,Senador La Rocque,MA,1614
+-45123,-1856,Serrano do Maranhão,MA,3659
+-46699,-5878,Sítio Novo,MA,6207
+-44192,-6477,Sucupira do Norte,MA,3744
+-43546,-6411,Sucupira do Riachão,MA,9160
+-45743,-8475,Tasso Fragoso,MA,9519
+-43941,-4255,Timbiras,MA,2114
+-42837,-5094,Timon,MA,5162
+-44628,-4538,Trizidela do Vale,MA,1223
+-45554,-3729,Tufilândia,MA,8582
+-44649,-5258,Tuntum,MA,9089
+-45372,-1663,Turiaçu,MA,6722
+-45343,-2201,Turilândia,MA,1102
+-42274,-2762,Tutóia,MA,6027
+-43404,-3208,Urbano Santos,MA,948
+-43916,-3543,Vargem Grande,MA,5148
+-45004,-3.22,Viana,MA,9752
+-47993,-4987,Vila Nova dos Martírios,MA,2181
+-44871,-3462,Vitória do Mearim,MA,9447
+-45238,-4044,Vitorino Freire,MA,7307
+-45824,-3243,Zé Doca,MA,6772
+-47403,-18486,Abadia dos Dourados,MG,7572
+-45446,-19.16,Abaeté,MG,6167
+-42478,-20301,Abre Campo,MG,154
+-43145,-20363,Acaiaca,MG,7172
+-42546,-19073,Açucena,MG,8053
+-42389,-17996,Água Boa,MG,2269
+-48109,-20056,Água Comprida,MG,9824
+-45393,-20943,Aguanil,MG,9489
+-40936,-17082,Águas Formosas,MG,5615
+-41.46,-15747,Águas Vermelhas,MG,5469
+-41064,-19496,Aimorés,MG,7121
+-44603,-21976,Aiuruoca,MG,671
+-44642,-22171,Alagoa,MG,1862
+-46616,-22201,Albertina,MG,5416
+-42704,-21888,Além Paraíba,MG,5303
+-45947,-21429,Alfenas,MG,3779
+-43777,-21145,Alfredo Vasconcelos,MG,4645
+-40694,-16184,Almenara,MG,9418
+-41.97,-18974,Alpercata,MG,5848
+-46388,-20864,Alpinópolis,MG,9968
+-46143,-21249,Alterosa,MG,1637
+-41899,-20524,Alto Caparaó,MG,991
+-41966,-20424,Alto Jequitibá,MG,4081
+-43411,-21026,Alto Rio Doce,MG,5206
+-41729,-19417,Alvarenga,MG,216
+-43049,-20107,Alvinópolis,MG,1070
+-43365,-18736,Alvorada de Minas,MG,4510
+-42803,-20507,Amparo do Serra,MG,4760
+-46569,-22068,Andradas,MG,1261
+-44309,-21.74,Andrelândia,MG,6704
+-42163,-17602,Angelândia,MG,9286
+-43747,-21318,Antônio Carlos,MG,1636
+-42872,-19653,Antônio Dias,MG,5893
+-42109,-21016,Antônio Prado de Minas,MG,6044
+-44248,-19199,Araçaí,MG,9914
+-43378,-21343,Aracitaba,MG,9333
+-42.07,-16.85,Araçuaí,MG,6889
+-48187,-18649,Araguari,MG,77
+-44256,-21911,Arantina,MG,5437
+-42521,-20667,Araponga,MG,6215
+-49187,-18437,Araporã,MG,6240
+-46156,-19034,Arapuá,MG,3360
+-45166,-19948,Araújos,MG,9610
+-46941,-19593,Araxá,MG,2918
+-46.94,-21364,Arceburgo,MG,5927
+-45539,-20282,Arcos,MG,2111
+-46146,-21359,Areado,MG,5049
+-42836,-21.61,Argirita,MG,448
+-42557,-17867,Aricanduva,MG,9088
+-46106,-15917,Arinos,MG,8770
+-42862,-21315,Astolfo Dutra,MG,7092
+-41.11,-18044,Ataléia,MG,5135
+-44267,-18109,Augusto de Lima,MG,1149
+-44.89,-21959,Baependi,MG,2241
+-43957,-19288,Baldim,MG,5319
+-45977,-20006,Bambuí,MG,3305
+-40559,-15885,Bandeira,MG,6264
+-46386,-21728,Bandeira do Sul,MG,9430
+-43487,-19946,Barão de Cocais,MG,5243
+-42238,-21245,Barão de Monte Alto,MG,8919
+-43774,-21226,Barbacena,MG,2031
+-43041,-20283,Barra Longa,MG,1755
+-43976,-21187,Barroso,MG,590
+-43091,-19.83,Bela Vista de Minas,MG,3553
+-43415,-21949,Belmiro Braga,MG,9054
+-43956,-19817,Belo Horizonte,MG,5438
+-42484,-19.22,Belo Oriente,MG,6644
+-44024,-20408,Belo Vale,MG,4094
+-42466,-16952,Berilo,MG,1249
+-41745,-15613,Berizal,MG,8625
+-40574,-17063,Bertópolis,MG,6826
+-44198,-19968,Betim,MG,1205
+-43757,-21606,Bias Fortes,MG,532
+-43059,-21725,Bicas,MG,5136
+-45502,-18783,Biquinhas,MG,8172
+-45566,-21.09,Boa Esperança,MG,8311
+-44395,-22168,Bocaina de Minas,MG,6384
+-43815,-17108,Bocaiúva,MG,7602
+-45252,-19736,Bom Despacho,MG,9306
+-44191,-21947,Bom Jardim de Minas,MG,3363
+-46523,-21017,Bom Jesus da Penha,MG,720
+-43474,-19704,Bom Jesus do Amparo,MG,9707
+-42316,-19829,Bom Jesus do Galho,MG,6482
+-46145,-22471,Bom Repouso,MG,9876
+-44758,-21033,Bom Sucesso,MG,160
+-44239,-20327,Bonfim,MG,8500
+-45.99,-16567,Bonfinópolis de Minas,MG,6160
+-44754,-15323,Bonito de Minas,MG,9345
+-46165,-22274,Borda da Mata,MG,5249
+-46395,-21633,Botelhos,MG,9682
+-43011,-16872,Botumirim,MG,5617
+-43242,-20921,Brás Pires,MG,8683
+-46009,-17.01,Brasilândia de Minas,MG,4418
+-44429,-16208,Brasília de Minas,MG,4864
+-45608,-22474,Brasópolis,MG,2897
+-42716,-19056,Braúnas,MG,1231
+-44.2,-20143,Brumadinho,MG,1781
+-46351,-22441,Bueno Brandão,MG,5632
+-44.18,-17873,Buenópolis,MG,6403
+-42244,-19426,Bugre,MG,9559
+-46423,-15618,Buritis,MG,8954
+-44962,-17351,Buritizeiro,MG,595
+-47091,-16.03,Cabeceira Grande,MG,6890
+-46396,-21472,Cabo Verde,MG,3568
+-44454,-19525,Cachoeira da Prata,MG,8128
+-45779,-22355,Cachoeira de Minas,MG,4988
+-41498,-15966,Cachoeira de Pajeú,MG,3854
+-49501,-18515,Cachoeira Dourada,MG,1987
+-44419,-19295,Caetanópolis,MG,7056
+-43.67,-19.88,Caeté,MG,5608
+-41925,-20696,Caiana,MG,4824
+-42797,-20791,Cajuri,MG,5078
+-46386,-21924,Caldas,MG,4455
+-45157,-20625,Camacho,MG,2013
+-46145,-22755,Camanducaia,MG,1400
+-46058,-22612,Cambuí,MG,8946
+-45296,-21852,Cambuquira,MG,7218
+-41748,-18239,Campanário,MG,8510
+-45401,-21836,Campanha,MG,9568
+-46246,-21711,Campestre,MG,9089
+-49486,-19536,Campina Verde,MG,6478
+-44811,-16504,Campo Azul,MG,3608
+-45277,-20897,Campo Belo,MG,2820
+-45.83,-21107,Campo do Meio,MG,5032
+-48572,-19761,Campo Florido,MG,7095
+-46171,-19696,Campos Altos,MG,1536
+-45759,-21235,Campos Gerais,MG,133
+-45182,-21021,Cana Verde,MG,8335
+-42.62,-20686,Canaã,MG,4394
+-49204,-18725,Canápolis,MG,5844
+-45276,-20767,Candeias,MG,5799
+-42627,-18526,Cantagalo,MG,7538
+-41868,-20434,Caparaó,MG,7122
+-43618,-20923,Capela Nova,MG,3647
+-42516,-17691,Capelinha,MG,1177
+-47054,-20616,Capetinga,MG,9468
+-44117,-19549,Capim Branco,MG,3685
+-49.57,-18682,Capinópolis,MG,7469
+-41858,-19067,Capitão Andrade,MG,5303
+-43711,-16324,Capitão Enéas,MG,9740
+-46.05,-20615,Capitólio,MG,2068
+-42271,-20172,Caputira,MG,3014
+-41695,-17189,Caraí,MG,4757
+-43739,-20876,Caranaíba,MG,9662
+-43806,-20954,Carandaí,MG,1785
+-42029,-20733,Carangola,MG,8585
+-42139,-19.79,Caratinga,MG,8722
+-43016,-17527,Carbonita,MG,4604
+-45699,-22043,Careaçu,MG,2237
+-40766,-17703,Carlos Chagas,MG,1549
+-43142,-19089,Carmésia,MG,7099
+-45224,-21461,Carmo da Cachoeira,MG,7576
+-44871,-20558,Carmo da Mata,MG,2324
+-45129,-22122,Carmo de Minas,MG,46
+-44771,-20184,Carmo do Cajuru,MG,6096
+-46316,-19001,Carmo do Paranaíba,MG,4284
+-46119,-20972,Carmo do Rio Claro,MG,3186
+-44635,-20541,Carmópolis de Minas,MG,9472
+-50688,-19698,Carneirinho,MG,7050
+-44643,-21488,Carrancas,MG,1308
+-45841,-21778,Carvalhópolis,MG,642
+-44461,-22001,Carvalhos,MG,1777
+-43.93,-20793,Casa Grande,MG,5048
+-47877,-18576,Cascalho Rico,MG,1306
+-46922,-20583,Cássia,MG,9116
+-42697,-21389,Cataguases,MG,7526
+-43408,-20075,Catas Altas,MG,9797
+-43498,-20.69,Catas Altas da Noruega,MG,5618
+-41517,-17312,Catuji,MG,4212
+-42963,-15358,Catuti,MG,842
+-44933,-21977,Caxambu,MG,9850
+-45711,-19148,Cedro do Abaeté,MG,9910
+-41306,-18762,Central de Minas,MG,1768
+-49199,-18584,Centralina,MG,3553
+-43222,-21672,Chácara,MG,7979
+-41688,-20044,Chalé,MG,8694
+-42535,-17087,Chapada do Norte,MG,9981
+-45618,-15306,Chapada Gaúcha,MG,3532
+-43058,-22003,Chiador,MG,7659
+-43366,-20905,Cipotânea,MG,6374
+-47267,-20399,Claraval,MG,7735
+-44209,-17.08,Claro dos Poções,MG,8318
+-44766,-20443,Cláudio,MG,7916
+-42803,-20857,Coimbra,MG,2721
+-42.84,-18234,Coluna,MG,9850
+-49081,-19698,Comendador Gomes,MG,3474
+-41793,-16296,Comercinho,MG,6030
+-46204,-21094,Conceição da Aparecida,MG,4232
+-44472,-21129,Conceição da Barra de Minas,MG,6733
+-48388,-19915,Conceição das Alagoas,MG,6916
+-45455,-22.16,Conceição das Pedras,MG,8398
+-41694,-19928,Conceição de Ipanema,MG,2833
+-43425,-19037,Conceição do Mato Dentro,MG,1991
+-44897,-19753,Conceição do Pará,MG,9365
+-45085,-21881,Conceição do Rio Verde,MG,475
+-45798,-22413,Conceição dos Ouros,MG,3234
+-44418,-15294,Cônego Marinho,MG,6518
+-43983,-19633,Confins,MG,542
+-46039,-22153,Congonhal,MG,8069
+-43858,-20.5,Congonhas,MG,8028
+-43681,-18807,Congonhas do Norte,MG,1380
+-47542,-19937,Conquista,MG,2762
+-43786,-20.66,Conselheiro Lafaiete,MG,4549
+-41472,-19172,Conselheiro Pena,MG,3888
+-45921,-22551,Consolação,MG,4417
+-44054,-19932,Contagem,MG,7975
+-45441,-21189,Coqueiral,MG,6555
+-44365,-16685,Coração de Jesus,MG,4951
+-44321,-19125,Cordisburgo,MG,1261
+-45701,-21793,Cordislândia,MG,8142
+-44456,-18381,Corinto,MG,2712
+-42286,-18622,Coroaci,MG,9431
+-47.2,-18473,Coromandel,MG,689
+-42629,-19519,Coronel Fabriciano,MG,5039
+-42182,-16619,Coronel Murta,MG,1453
+-43266,-21588,Coronel Pacheco,MG,2511
+-44223,-21024,Coronel Xavier Chaves,MG,4853
+-45904,-19824,Córrego Danta,MG,9459
+-46.02,-22.63,Córrego do Bom Jesus,MG,988
+-45555,-20449,Córrego Fundo,MG,2144
+-42396,-19832,Córrego Novo,MG,4376
+-43471,-18071,Couto de Magalhães de Minas,MG,7239
+-40912,-17237,Crisólita,MG,7901
+-45519,-20876,Cristais,MG,9970
+-42862,-16.8,Cristália,MG,931
+-43806,-20832,Cristiano Otoni,MG,8578
+-45264,-22212,Cristina,MG,7287
+-44337,-20384,Crucilândia,MG,1882
+-46674,-18946,Cruzeiro da Fortaleza,MG,5753
+-44808,-21839,Cruzília,MG,4209
+-41099,-18969,Cuparaque,MG,3022
+-41844,-15938,Curral de Dentro,MG,6000
+-44431,-18756,Curvelo,MG,7989
+-43656,-18446,Datas,MG,2324
+-45.28,-22509,Delfim Moreira,MG,9907
+-46854,-20344,Delfinópolis,MG,5877
+-47771,-19977,Delta,MG,8176
+-42968,-21.46,Descoberto,MG,2542
+-44333,-20.66,Desterro de Entre Rios,MG,8728
+-43518,-21147,Desterro do Melo,MG,1219
+-43.6,-18249,Diamantina,MG,7137
+-43198,-20488,Diogo de Vasconcelos,MG,7708
+-42777,-19843,Dionísio,MG,6273
+-43004,-20.99,Divinésia,MG,7537
+-42149,-20614,Divino,MG,5616
+-41.48,-18778,Divino das Laranjeiras,MG,3960
+-42598,-18804,Divinolândia de Minas,MG,4390
+-44884,-20139,Divinópolis,MG,3967
+-41345,-15726,Divisa Alegre,MG,8907
+-46196,-21511,Divisa Nova,MG,8238
+-41,-15726,Divisópolis,MG,9529
+-46271,-16652,Dom Bosco,MG,5307
+-42106,-19374,Dom Cavati,MG,9312
+-43256,-18967,Dom Joaquim,MG,9462
+-42968,-20.16,Dom Silvério,MG,7457
+-45161,-22254,Dom Viçoso,MG,7576
+-42811,-21316,Dona Eusébia,MG,9123
+-44023,-21109,Dores de Campos,MG,3583
+-42929,-19058,Dores de Guanhães,MG,6627
+-45602,-19463,Dores do Indaiá,MG,5731
+-43189,-20976,Dores do Turvo,MG,5068
+-45903,-20287,Doresópolis,MG,7786
+-47609,-18431,Douradoquara,MG,9522
+-41798,-20203,Durandé,MG,6432
+-45565,-21.61,Elói Mendes,MG,7333
+-42046,-19219,Engenheiro Caldas,MG,2033
+-43.95,-17.28,Engenheiro Navarro,MG,6259
+-42231,-19625,Entre Folhas,MG,356
+-44066,-20671,Entre Rios de Minas,MG,9776
+-42657,-20.84,Ervália,MG,5282
+-44314,-19763,Esmeraldas,MG,8915
+-41907,-20.65,Espera Feliz,MG,328
+-42819,-14926,Espinosa,MG,6829
+-45951,-22046,Espírito Santo do Dourado,MG,1367
+-46017,-22463,Estiva,MG,8619
+-42461,-21742,Estrela Dalva,MG,3958
+-45788,-19522,Estrela do Indaiá,MG,9083
+-47693,-18746,Estrela do Sul,MG,2497
+-42187,-21099,Eugenópolis,MG,9811
+-43.51,-21551,Ewbank da Câmara,MG,752
+-46318,-22855,Extrema,MG,2328
+-45829,-21406,Fama,MG,9979
+-42.03,-20808,Faria Lemos,MG,8115
+-43247,-18077,Felício dos Santos,MG,9468
+-40761,-16639,Felisburgo,MG,5235
+-44899,-18758,Felixlândia,MG,8604
+-42082,-19154,Fernandes Tourinho,MG,7241
+-43023,-19232,Ferros,MG,4465
+-42279,-20726,Fervedouro,MG,5980
+-44433,-19889,Florestal,MG,3491
+-45426,-20464,Formiga,MG,6776
+-46232,-14947,Formoso,MG,5626
+-46718,-20849,Fortaleza de Minas,MG,10
+-44447,-19561,Fortuna de Minas,MG,4197
+-42352,-16993,Francisco Badaró,MG,5952
+-44234,-17315,Francisco Dumont,MG,5721
+-43488,-16476,Francisco Sá,MG,2202
+-42009,-17.96,Franciscópolis,MG,2879
+-41429,-18066,Frei Gaspar,MG,7793
+-41922,-18545,Frei Inocêncio,MG,8409
+-42766,-18168,Frei Lagonegro,MG,2832
+-49199,-20268,Fronteira,MG,4866
+-40925,-16891,Fronteira dos Vales,MG,5488
+-42533,-16131,Fruta de Leite,MG,7781
+-48941,-20025,Frutal,MG,1859
+-44056,-19368,Funilândia,MG,5227
+-41538,-18999,Galiléia,MG,4383
+-43124,-15082,Gameleiras,MG,4349
+-43697,-16.85,Glaucilândia,MG,5251
+-41223,-18982,Goiabeira,MG,8971
+-43202,-21537,Goianá,MG,1350
+-45856,-22659,Gonçalves,MG,382
+-42479,-18822,Gonzaga,MG,6418
+-43741,-18454,Gouveia,MG,812
+-41949,-18851,Governador Valadares,MG,2074
+-42.89,-16559,Grão Mogol,MG,5006
+-47722,-18494,Grupiara,MG,1813
+-42933,-18775,Guanhães,MG,9183
+-45918,-20762,Guapé,MG,4080
+-43008,-20571,Guaraciaba,MG,9301
+-43673,-17014,Guaraciama,MG,6922
+-46803,-21299,Guaranésia,MG,9677
+-43047,-21352,Guarani,MG,5238
+-43038,-21732,Guarará,MG,807
+-47098,-17771,Guarda-Mor,MG,737
+-46713,-21305,Guaxupé,MG,5197
+-42797,-21152,Guidoval,MG,144
+-46793,-18844,Guimarânia,MG,9706
+-42718,-21008,Guiricema,MG,6826
+-49786,-19213,Gurinhatã,MG,6403
+-45542,-22067,Heliodora,MG,587
+-42218,-19437,Iapu,MG,548
+-43963,-21.43,Ibertioga,MG,6426
+-46539,-19478,Ibiá,MG,5713
+-44914,-16861,Ibiaí,MG,7066
+-44164,-15664,Ibiracatu,MG,4032
+-47122,-20462,Ibiraci,MG,3732
+-44059,-20022,Ibirité,MG,475
+-46.44,-22061,Ibitiúra de Minas,MG,4019
+-44748,-21153,Ibituruna,MG,6395
+-44906,-16217,Icaraí de Minas,MG,6931
+-44302,-20.07,Igarapé,MG,7174
+-44709,-19955,Igaratinga,MG,2887
+-45711,-20174,Iguatama,MG,932
+-44925,-21.17,Ijaci,MG,7246
+-45833,-20936,Ilicínea,MG,6106
+-41971,-19597,Imbé de Minas,MG,742
+-46328,-22317,Inconfidentes,MG,2669
+-42197,-15492,Indaiabira,MG,6723
+-47917,-19039,Indianópolis,MG,8033
+-44917,-21401,Ingaí,MG,3458
+-42.12,-19549,Inhapim,MG,9561
+-44.39,-19491,Inhaúma,MG,4601
+-44361,-18729,Inimutaba,MG,5224
+-42419,-19414,Ipaba,MG,7004
+-41713,-19801,Ipanema,MG,4232
+-42537,-19468,Ipatinga,MG,9367
+-49943,-18692,Ipiaçu,MG,6175
+-46.19,-22099,Ipuiúna,MG,6253
+-47461,-18984,Iraí de Minas,MG,1488
+-43227,-19619,Itabira,MG,8644
+-41233,-18566,Itabirinha de Mantena,MG,6743
+-43801,-20253,Itabirito,MG,3387
+-43309,-17065,Itacambira,MG,2269
+-44092,-15102,Itacarambi,MG,4685
+-44488,-20392,Itaguara,MG,3955
+-41669,-17402,Itaipé,MG,9378
+-45453,-22426,Itajubá,MG,1323
+-42859,-17857,Itamarandiba,MG,1488
+-42818,-21416,Itamarati de Minas,MG,3888
+-41685,-18031,Itambacuri,MG,8466
+-43321,-19414,Itambé do Mato Dentro,MG,2655
+-47048,-21078,Itamogi,MG,2200
+-44.87,-22284,Itamonte,MG,9895
+-44935,-22296,Itanhandu,MG,609
+-41865,-19172,Itanhomi,MG,4729
+-41503,-16562,Itaobim,MG,6434
+-49381,-19909,Itapagipe,MG,10000
+-45126,-20473,Itapecerica,MG,1668
+-46221,-22768,Itapeva,MG,5411
+-44421,-20197,Itatiaiuçu,MG,3316
+-46752,-20739,Itaú de Minas,MG,7208
+-44576,-20075,Itaúna,MG,5303
+-43.61,-20678,Itaverava,MG,9006
+-41765,-16613,Itinga,MG,2192
+-41.17,-19394,Itueta,MG,4065
+-49465,-18969,Ituiutaba,MG,9499
+-44871,-21317,Itumirim,MG,1697
+-50196,-19728,Iturama,MG,1684
+-44658,-21298,Itutinga,MG,7539
+-43745,-19514,Jaboticatubas,MG,4334
+-40293,-16144,Jacinto,MG,2456
+-46741,-21017,Jacuí,MG,8625
+-46612,-22286,Jacutinga,MG,7259
+-42.75,-19649,Jaguaraçu,MG,7082
+-43674,-15338,Jaíba,MG,7149
+-41804,-18463,Jampruca,MG,4027
+-43309,-15803,Janaúba,MG,8789
+-44362,-15488,Januária,MG,4005
+-45503,-20141,Japaraíba,MG,6155
+-44.27,-15995,Japonvar,MG,6104
+-43983,-20535,Jeceaba,MG,635
+-42258,-17083,Jenipapo de Minas,MG,7370
+-42666,-20456,Jequeri,MG,539
+-44446,-17236,Jequitaí,MG,4056
+-44028,-19236,Jequitibá,MG,6055
+-41003,-16434,Jequitinhonha,MG,8021
+-45291,-21998,Jesuânia,MG,1892
+-41031,-16654,Joaíma,MG,1180
+-42679,-19172,Joanésia,MG,2180
+-43174,-19.81,João Monlevade,MG,5736
+-46173,-17743,João Pinheiro,MG,9017
+-44172,-17758,Joaquim Felício,MG,3268
+-40178,-15.9,Jordânia,MG,6106
+-42604,-16907,José Gonçalves de Minas,MG,2704
+-42499,-18219,José Raydan,MG,2490
+-42515,-16547,Josenópolis,MG,3594
+-44343,-19952,Juatuba,MG,5068
+-43.35,-21764,Juiz de Fora,MG,9631
+-43587,-16848,Juramento,MG,303
+-46577,-21253,Juruaia,MG,3292
+-44.16,-14263,Juvenília,MG,6831
+-41738,-17632,Ladainha,MG,2119
+-46808,-18178,Lagamar,MG,3835
+-45544,-20023,Lagoa da Prata,MG,8290
+-44582,-16983,Lagoa dos Patos,MG,8534
+-44078,-20914,Lagoa Dourada,MG,3603
+-46408,-18779,Lagoa Formosa,MG,4073
+-46514,-17835,Lagoa Grande,MG,2329
+-43.89,-19627,Lagoa Santa,MG,3455
+-41623,-20151,Lajinha,MG,4300
+-45.35,-21976,Lambari,MG,4436
+-43474,-20.79,Lamim,MG,2316
+-42477,-21374,Laranjal,MG,5467
+-44578,-17887,Lassance,MG,1902
+-45,-21245,Lavras,MG,1701
+-45025,-19718,Leandro Ferreira,MG,2832
+-42693,-17083,Leme do Prado,MG,8090
+-42643,-21532,Leopoldina,MG,7928
+-44.32,-22029,Liberdade,MG,1582
+-43793,-21843,Lima Duarte,MG,4425
+-50581,-19551,Limeira do Oeste,MG,9965
+-44305,-15903,Lontra,MG,844
+-42103,-20.44,Luisburgo,MG,5370
+-44589,-16118,Luislândia,MG,8703
+-44903,-21511,Luminárias,MG,9751
+-45686,-19801,Luz,MG,7864
+-40716,-17077,Machacalis,MG,7833
+-45.92,-21675,Machado,MG,7869
+-44.33,-21483,Madre de Deus de Minas,MG,3848
+-42077,-17842,Malacacheta,MG,414
+-42949,-15.05,Mamonas,MG,7244
+-43932,-14756,Manga,MG,1969
+-42034,-20258,Manhuaçu,MG,6965
+-41958,-20358,Manhumirim,MG,4605
+-40.98,-18782,Mantena,MG,502
+-43.01,-21867,Mar de Espanha,MG,8606
+-44676,-19516,Maravilhas,MG,3958
+-45375,-22308,Maria da Fé,MG,3064
+-43416,-20378,Mariana,MG,2817
+-42084,-18508,Marilac,MG,3841
+-44188,-20056,Mário Campos,MG,467
+-42959,-21698,Maripá de Minas,MG,4960
+-42732,-19712,Marliéria,MG,1154
+-45165,-22449,Marmelópolis,MG,1869
+-45237,-19332,Martinho Campos,MG,9796
+-41877,-20257,Martins Soares,MG,3798
+-40741,-15686,Mata Verde,MG,6970
+-43.06,-18474,Materlândia,MG,5935
+-44428,-19986,Mateus Leme,MG,9073
+-41908,-18592,Mathias Lobato,MG,3570
+-43319,-21869,Matias Barbosa,MG,5561
+-43922,-14855,Matias Cardoso,MG,8889
+-42341,-20284,Matipó,MG,67
+-42866,-15397,Mato Verde,MG,1053
+-44081,-19558,Matozinhos,MG,7055
+-45969,-19223,Matutina,MG,1637
+-46226,-19996,Medeiros,MG,3511
+-41477,-16223,Medina,MG,9946
+-41405,-18661,Mendes Pimentel,MG,7819
+-43341,-21194,Mercês,MG,311
+-42607,-19223,Mesquita,MG,4101
+-42.59,-17219,Minas Novas,MG,3843
+-44604,-21682,Minduri,MG,9749
+-44164,-16263,Mirabela,MG,9106
+-42343,-20891,Miradouro,MG,1191
+-42614,-21195,Miraí,MG,9242
+-44404,-14741,Miravânia,MG,3544
+-44053,-20333,Moeda,MG,7210
+-45411,-19843,Moema,MG,1782
+-44119,-18325,Monjolos,MG,9534
+-45541,-21758,Monsenhor Paulo,MG,8126
+-44366,-14423,Montalvânia,MG,7085
+-48881,-18871,Monte Alegre de Minas,MG,7682
+-42875,-15155,Monte Azul,MG,8890
+-46368,-21326,Monte Belo,MG,9790
+-47499,-18725,Monte Carmelo,MG,7484
+-41255,-16866,Monte Formoso,MG,6624
+-46.98,-21.19,Monte Santo de Minas,MG,9861
+-46573,-22433,Monte Sião,MG,6514
+-43862,-16735,Montes Claros,MG,8702
+-42497,-15172,Montezuma,MG,3176
+-45357,-18604,Morada Nova de Minas,MG,1356
+-44603,-18547,Morro da Garça,MG,957
+-43376,-19216,Morro do Pilar,MG,8506
+-46361,-22613,Munhoz,MG,9857
+-42366,-21131,Muriaé,MG,7135
+-41438,-19.8,Mutum,MG,3109
+-46526,-21376,Muzambinho,MG,4973
+-42249,-18459,Nacip Raydan,MG,5778
+-40354,-17839,Nanuque,MG,5647
+-42328,-19.23,Naque,MG,8958
+-46493,-16504,Natalândia,MG,5330
+-45512,-22.12,Natércia,MG,2656
+-44611,-21216,Nazareno,MG,1276
+-45236,-21236,Nepomuceno,MG,1146
+-41754,-15321,Ninheira,MG,8565
+-41017,-18475,Nova Belém,MG,2045
+-43038,-19.75,Nova Era,MG,5595
+-43847,-19986,Nova Lima,MG,835
+-41501,-18437,Nova Módica,MG,3290
+-47683,-19136,Nova Ponte,MG,1889
+-43301,-15803,Nova Porteirinha,MG,893
+-46.42,-21126,Nova Resende,MG,2280
+-44984,-19876,Nova Serrana,MG,1518
+-43.58,-19.69,Nova União,MG,5887
+-41875,-17468,Novo Cruzeiro,MG,1688
+-41215,-17415,Novo Oriente de Minas,MG,7910
+-42408,-16017,Novorizonte,MG,898
+-43937,-21861,Olaria,MG,1102
+-43573,-17397,Olhos-d'Água,MG,1962
+-45264,-22068,Olímpio Noronha,MG,7171
+-44827,-20696,Oliveira,MG,3541
+-43456,-21339,Oliveira Fortes,MG,8494
+-44807,-19.73,Onça de Pitangui,MG,6664
+-42806,-20431,Oratórios,MG,7665
+-42.21,-20506,Orizânia,MG,3804
+-43692,-20521,Ouro Branco,MG,2228
+-46369,-22283,Ouro Fino,MG,6056
+-43508,-20288,Ouro Preto,MG,4377
+-41.27,-18071,Ouro Verde de Minas,MG,466
+-42515,-16364,Padre Carvalho,MG,5242
+-41524,-17072,Padre Paraíso,MG,9939
+-43065,-15517,Pai Pedro,MG,2978
+-45532,-18908,Paineiras,MG,1402
+-45661,-20371,Pains,MG,2806
+-43416,-21289,Paiva,MG,4126
+-42314,-21375,Palma,MG,4798
+-40.42,-16735,Palmópolis,MG,2926
+-44748,-19449,Papagaios,MG,2114
+-44608,-19.86,Pará de Minas,MG,9855
+-46875,-17222,Paracatu,MG,6673
+-45738,-21547,Paraguaçu,MG,2602
+-45.78,-22554,Paraisópolis,MG,1484
+-44404,-19274,Paraopeba,MG,6840
+-44967,-22.39,Passa Quatro,MG,3843
+-44496,-20651,Passa Tempo,MG,2078
+-44234,-22209,Passa-Vinte,MG,5328
+-43136,-19353,Passabém,MG,6189
+-46.61,-20719,Passos,MG,5606
+-44082,-16076,Patis,MG,4199
+-46518,-18579,Patos de Minas,MG,4615
+-46993,-18944,Patrocínio,MG,4839
+-42215,-21153,Patrocínio do Muriaé,MG,903
+-42.98,-20874,Paula Cândido,MG,2449
+-42868,-18427,Paulistas,MG,1571
+-40999,-17428,Pavão,MG,771
+-42557,-18549,Peçanha,MG,8340
+-41297,-16005,Pedra Azul,MG,9349
+-42.33,-20521,Pedra Bonita,MG,2846
+-42714,-20597,Pedra do Anta,MG,3955
+-45209,-20258,Pedra do Indaiá,MG,7191
+-42154,-20.83,Pedra Dourada,MG,7983
+-45466,-22243,Pedralva,MG,7828
+-44391,-15607,Pedras de Maria da Cruz,MG,2096
+-47462,-19228,Pedrinópolis,MG,9331
+-44043,-19618,Pedro Leopoldo,MG,3144
+-43746,-21706,Pedro Teixeira,MG,6582
+-43121,-21834,Pequeri,MG,2258
+-44659,-19633,Pequi,MG,3338
+-45084,-19953,Perdigão,MG,3788
+-47293,-19353,Perdizes,MG,8046
+-45091,-21091,Perdões,MG,4608
+-42234,-19158,Periquito,MG,3730
+-41598,-18357,Pescador,MG,3270
+-43323,-21509,Piau,MG,4291
+-42076,-19759,Piedade de Caratinga,MG,156
+-42734,-20245,Piedade de Ponte Nova,MG,9768
+-44196,-21469,Piedade do Rio Grande,MG,69
+-44227,-20471,Piedade dos Gerais,MG,6426
+-45799,-20484,Pimenta,MG,9410
+-42408,-19727,Pingo-d'Água,MG,1392
+-45156,-16059,Pintópolis,MG,4994
+-44483,-20508,Piracema,MG,3064
+-48701,-19907,Pirajuba,MG,1637
+-43.3,-20685,Piranga,MG,2838
+-45495,-22528,Piranguçu,MG,4572
+-45532,-22401,Piranguinho,MG,6724
+-42346,-21656,Pirapetinga,MG,9019
+-44942,-17345,Pirapora,MG,7755
+-43026,-21276,Piraúba,MG,3672
+-44.89,-19683,Pitangui,MG,8825
+-45958,-20465,Piumhi,MG,4151
+-48702,-20138,Planura,MG,3036
+-45965,-21781,Poço Fundo,MG,9629
+-46561,-21788,Poços de Caldas,MG,8578
+-41637,-19.62,Pocrane,MG,5529
+-44935,-19224,Pompéu,MG,1659
+-42909,-20416,Ponte Nova,MG,5978
+-45066,-16631,Ponto Chique,MG,241
+-41504,-16753,Ponto dos Volantes,MG,4778
+-43028,-15743,Porteirinha,MG,8634
+-43084,-20673,Porto Firme,MG,3106
+-41786,-17807,Poté,MG,2206
+-45936,-22.23,Pouso Alegre,MG,1667
+-44973,-22194,Pouso Alto,MG,1095
+-44.08,-21058,Prados,MG,8524
+-48924,-19307,Prata,MG,9257
+-46861,-20745,Pratápolis,MG,7230
+-46378,-19751,Pratinha,MG,4447
+-43188,-20769,Presidente Bernardes,MG,5854
+-44058,-18637,Presidente Juscelino,MG,6689
+-43562,-18614,Presidente Kubitschek,MG,9508
+-46418,-18418,Presidente Olegário,MG,1135
+-44155,-19482,Prudente de Morais,MG,6576
+-45557,-19274,Quartel Geral,MG,7256
+-43884,-20.74,Queluzito,MG,9788
+-43804,-19967,Raposos,MG,6352
+-42453,-20102,Raul Soares,MG,5940
+-42469,-21525,Recreio,MG,8907
+-41983,-20219,Reduto,MG,4348
+-44238,-20922,Resende Costa,MG,5688
+-41255,-19326,Resplendor,MG,7722
+-43763,-21063,Ressaquinha,MG,6125
+-45992,-16.23,Riachinho,MG,7041
+-43049,-16006,Riacho dos Machados,MG,819
+-44087,-19767,Ribeirão das Neves,MG,720
+-45062,-21191,Ribeirão Vermelho,MG,1757
+-43789,-20088,Rio Acima,MG,2955
+-42651,-20226,Rio Casca,MG,7549
+-40.57,-16608,Rio do Prado,MG,3230
+-42907,-20242,Rio Doce,MG,6601
+-43474,-20855,Rio Espera,MG,1832
+-44308,-20265,Rio Manso,MG,2551
+-43125,-21458,Rio Novo,MG,5157
+-46247,-19194,Rio Paranaíba,MG,6758
+-42.54,-15.61,Rio Pardo de Minas,MG,1586
+-43174,-19929,Rio Piracicaba,MG,4517
+-43179,-21275,Rio Pomba,MG,4786
+-43828,-22089,Rio Preto,MG,3436
+-43009,-18294,Rio Vermelho,MG,4890
+-44318,-21022,Ritápolis,MG,3496
+-43.02,-21.63,Rochedo de Minas,MG,1799
+-42865,-21.2,Rodeiro,MG,7830
+-47586,-18883,Romaria,MG,4094
+-42512,-20979,Rosário da Limeira,MG,1473
+-42263,-16408,Rubelita,MG,8261
+-40538,-16375,Rubim,MG,6809
+-43807,-19886,Sabará,MG,93
+-43084,-18666,Sabinópolis,MG,3979
+-47.44,-19865,Sacramento,MG,2066
+-42.29,-16.17,Salinas,MG,1566
+-39947,-16003,Salto da Divisa,MG,4512
+-43415,-19959,Santa Bárbara,MG,5082
+-42.14,-19978,Santa Bárbara do Leste,MG,5500
+-43702,-21959,Santa Bárbara do Monte Verde,MG,9720
+-43559,-21246,Santa Bárbara do Tugúrio,MG,4840
+-44223,-21.12,Santa Cruz de Minas,MG,3010
+-41746,-16098,Santa Cruz de Salinas,MG,4123
+-42814,-20236,Santa Cruz do Escalvado,MG,5241
+-42448,-18827,Santa Efigênia de Minas,MG,3823
+-45414,-16.69,Santa Fé de Minas,MG,8116
+-40686,-16983,Santa Helena de Minas,MG,2930
+-47525,-19309,Santa Juliana,MG,9832
+-43851,-19.77,Santa Luzia,MG,2499
+-42251,-20384,Santa Margarida,MG,3631
+-43113,-19449,Santa Maria de Itabira,MG,7065
+-40149,-16249,Santa Maria do Salto,MG,7711
+-42414,-18.19,Santa Maria do Suaçuí,MG,1897
+-46337,-22029,Santa Rita de Caldas,MG,1408
+-43915,-21563,Santa Rita de Ibitipoca,MG,1327
+-44095,-22149,Santa Rita de Jacutinga,MG,3422
+-42132,-19875,Santa Rita de Minas,MG,3292
+-41.38,-19.36,Santa Rita do Itueto,MG,8785
+-45703,-22252,Santa Rita do Sapucaí,MG,5818
+-45966,-19.53,Santa Rosa da Serra,MG,8156
+-50121,-18839,Santa Vitória,MG,5278
+-45507,-21249,Santana da Vargem,MG,4473
+-42557,-21287,Santana de Cataguases,MG,4177
+-44043,-19006,Santana de Pirapama,MG,44
+-43166,-21.95,Santana do Deserto,MG,2414
+-44104,-21601,Santana do Garambéu,MG,7970
+-45131,-20898,Santana do Jacaré,MG,7248
+-41925,-20108,Santana do Manhuaçu,MG,3334
+-42569,-19364,Santana do Paraíso,MG,7495
+-43714,-19169,Santana do Riacho,MG,4939
+-43692,-20788,Santana dos Montes,MG,8186
+-44919,-20946,Santo Antônio do Amparo,MG,4513
+-42816,-21758,Santo Antônio do Aventureiro,MG,4805
+-42609,-20314,Santo Antônio do Grama,MG,7599
+-43307,-18466,Santo Antônio do Itambé,MG,6358
+-40176,-16534,Santo Antônio do Jacinto,MG,4800
+-45294,-20087,Santo Antônio do Monte,MG,4772
+-42624,-15339,Santo Antônio do Retiro,MG,2922
+-43254,-19228,Santo Antônio do Rio Abaixo,MG,7317
+-44223,-18297,Santo Hipólito,MG,1482
+-43553,-21457,Santos Dumont,MG,521
+-45076,-21582,São Bento Abade,MG,9936
+-43949,-20625,São Brás do Suaçuí,MG,278
+-42011,-19527,São Domingos das Dores,MG,6478
+-42968,-19865,São Domingos do Prata,MG,5516
+-41486,-18591,São Félix de Minas,MG,9925
+-44864,-15949,São Francisco,MG,3559
+-44985,-20.71,São Francisco de Paula,MG,1191
+-49774,-19863,São Francisco de Sales,MG,9254
+-42268,-20789,São Francisco do Glória,MG,2560
+-42834,-20923,São Geraldo,MG,1273
+-42288,-18836,São Geraldo da Piedade,MG,4213
+-41.36,-18.9,São Geraldo do Baixio,MG,4384
+-45833,-18338,São Gonçalo do Abaeté,MG,4287
+-44859,-19983,São Gonçalo do Pará,MG,9773
+-43362,-19826,São Gonçalo do Rio Abaixo,MG,1465
+-43391,-18004,São Gonçalo do Rio Preto,MG,2129
+-45595,-21892,São Gonçalo do Sapucaí,MG,1769
+-46049,-19311,São Gotardo,MG,2644
+-46506,-20641,São João Batista do Glória,MG,9928
+-44352,-16853,São João da Lagoa,MG,9915
+-45929,-21.93,São João da Mata,MG,6195
+-44008,-15929,São João da Ponte,MG,8666
+-44091,-14884,São João das Missões,MG,2272
+-44262,-21136,São João del Rei,MG,7829
+-42151,-20394,São João do Manhuaçu,MG,9865
+-41.16,-18721,São João do Manteninha,MG,164
+-42158,-19339,São João do Oriente,MG,9943
+-44516,-16542,São João do Pacuí,MG,1446
+-42014,-15314,São João do Paraíso,MG,7557
+-42763,-18548,São João Evangelista,MG,7964
+-43011,-21.54,São João Nepomuceno,MG,3724
+-44274,-20049,São Joaquim de Bicas,MG,7190
+-46311,-20718,São José da Barra,MG,1266
+-43955,-19701,São José da Lapa,MG,8785
+-42143,-18324,São José da Safira,MG,31
+-44557,-19.71,São José da Varginha,MG,1337
+-45526,-22329,São José do Alegre,MG,962
+-41389,-18479,São José do Divino,MG,2876
+-42705,-19929,São José do Goiabal,MG,7668
+-42.67,-18275,São José do Jacuri,MG,8927
+-41745,-20005,São José do Mantimento,MG,7315
+-45054,-22116,São Lourenço,MG,3323
+-42719,-20707,São Miguel do Anta,MG,3655
+-46615,-21127,São Pedro da União,MG,7122
+-42603,-18366,São Pedro do Suaçuí,MG,7581
+-42524,-20.17,São Pedro dos Ferros,MG,4724
+-45069,-16369,São Romão,MG,1134
+-46366,-20245,São Roque de Minas,MG,4331
+-45754,-22159,São Sebastião da Bela Vista,MG,2971
+-42636,-21072,São Sebastião da Vargem Alegre,MG,9037
+-41984,-19498,São Sebastião do Anta,MG,2539
+-42571,-18084,São Sebastião do Maranhão,MG,2561
+-45005,-20276,São Sebastião do Oeste,MG,1100
+-46991,-20917,São Sebastião do Paraíso,MG,2741
+-43174,-19292,São Sebastião do Rio Preto,MG,9798
+-44976,-22218,São Sebastião do Rio Verde,MG,418
+-44985,-21722,São Thomé das Letras,MG,3855
+-44509,-20913,São Tiago,MG,6971
+-47098,-20784,São Tomás de Aquino,MG,5466
+-44444,-21713,São Vicente de Minas,MG,8389
+-45743,-22748,Sapucaí-Mirim,MG,9478
+-42365,-18784,Sardoá,MG,9341
+-44145,-20035,Sarzedo,MG,3498
+-42839,-20109,Sem-Peixe,MG,7509
+-46177,-22587,Senador Amaral,MG,5366
+-42946,-21801,Senador Cortes,MG,8393
+-43097,-20912,Senador Firmino,MG,3756
+-46179,-22164,Senador José Bento,MG,6556
+-43225,-17947,Senador Modestino Gonçalves,MG,7434
+-43344,-20794,Senhora de Oliveira,MG,7828
+-43084,-18892,Senhora do Porto,MG,474
+-43583,-21028,Senhora dos Remédios,MG,208
+-42482,-20474,Sericita,MG,825
+-44519,-21909,Seritinga,MG,8562
+-43.17,-18362,Serra Azul de Minas,MG,9945
+-45796,-19438,Serra da Saudade,MG,1649
+-46.69,-19111,Serra do Salitre,MG,3573
+-40248,-17783,Serra dos Aimorés,MG,163
+-46.04,-21548,Serrania,MG,233
+-42871,-15829,Serranópolis de Minas,MG,5044
+-44.51,-21.89,Serranos,MG,3739
+-43379,-18605,Serro,MG,8060
+-44247,-19466,Sete Lagoas,MG,8755
+-42273,-17726,Setubinha,MG,8980
+-43215,-21159,Silveirânia,MG,5111
+-45835,-22029,Silvianópolis,MG,6094
+-43312,-21964,Simão Pereira,MG,4136
+-42001,-20124,Simonésia,MG,1341
+-42098,-19235,Sobrália,MG,8209
+-45045,-22.06,Soledade de Minas,MG,8581
+-43248,-21359,Tabuleiro,MG,3452
+-42233,-15808,Taiobeiras,MG,6623
+-41616,-19759,Taparuba,MG,9348
+-46823,-19922,Tapira,MG,8526
+-46.02,-19888,Tapiraí,MG,1578
+-43687,-19.67,Taquaraçu de Minas,MG,8244
+-42007,-19281,Tarumirim,MG,6129
+-42857,-20651,Teixeiras,MG,7423
+-41505,-17858,Teófilo Otoni,MG,7378
+-42644,-19583,Timóteo,MG,1906
+-44178,-21.11,Tiradentes,MG,2750
+-45964,-19004,Tiros,MG,9142
+-43018,-21175,Tocantins,MG,107
+-46096,-22371,Tocos do Moji,MG,8897
+-46372,-22743,Toledo,MG,5614
+-42023,-20905,Tombos,MG,4245
+-45253,-21697,Três Corações,MG,670
+-45242,-18206,Três Marias,MG,5240
+-45513,-21367,Três Pontas,MG,5408
+-41645,-18979,Tumiritinga,MG,794
+-48705,-18593,Tupaciguara,MG,3318
+-42.73,-17286,Turmalina,MG,2948
+-45787,-21876,Turvolândia,MG,2913
+-42943,-21.12,Ubá,MG,6923
+-44778,-16285,Ubaí,MG,4525
+-42106,-19635,Ubaporanga,MG,6755
+-47932,-19748,Uberaba,MG,1088
+-48277,-18919,Uberlândia,MG,8450
+-40573,-17256,Umburatiba,MG,9695
+-46906,-16358,Unaí,MG,5362
+-50336,-19.53,União de Minas,MG,6818
+-46254,-16064,Uruana de Minas,MG,4374
+-42739,-20351,Urucânia,MG,8335
+-45742,-16133,Urucuia,MG,9846
+-42298,-19608,Vargem Alegre,MG,2652
+-46366,-20327,Vargem Bonita,MG,8723
+-42308,-15403,Vargem Grande do Rio Pardo,MG,3118
+-45.43,-21551,Varginha,MG,7068
+-46032,-18378,Varjão de MInas,MG,3519
+-44731,-17598,Várzea da Palma,MG,3601
+-44028,-15701,Varzelândia,MG,5431
+-46908,-17987,Vazante,MG,7510
+-43603,-15589,Verdelândia,MG,1895
+-42736,-17399,Veredinha,MG,3386
+-48308,-19663,Veríssimo,MG,6947
+-42267,-20036,Vermelho Novo,MG,7900
+-43923,-19692,Vespasiano,MG,9758
+-42882,-20754,Viçosa,MG,8256
+-42244,-20866,Vieiras,MG,2169
+-42343,-16804,Virgem da Lapa,MG,9115
+-45092,-22333,Virgínia,MG,4941
+-42704,-18823,Virginópolis,MG,9443
+-42307,-18476,Virgolândia,MG,6255
+-42841,-21.01,Visconde do Rio Branco,MG,7696
+-42539,-21771,Volta Grande,MG,4822
+-45363,-22534,Wenceslau Braz,MG,5606
+-52878,-20448,Água Clara,MS,4261
+-53706,-18324,Alcinópolis,MS,6820
+-55226,-23104,Amambaí,MS,8431
+-55807,-20484,Anastácio,MS,9177
+-52718,-22188,Anaurilândia,MS,7851
+-53771,-22153,Angélica,MS,4887
+-55948,-22191,Antônio João,MS,7060
+-51094,-20087,Aparecida do Taboado,MS,3966
+-55.787705,-20.471326,Aquidauana,MS,2244
+-55635,-22934,Aral Moreira,MS,6946
+-54364,-19918,Bandeirantes,MS,4739
+-52422,-21714,Bataguassu,MS,5840
+-53271,-22295,Batayporã,MS,4085
+-56521,-22109,Bela Vista,MS,6914
+-56715,-20539,Bodoquena,MS,3114
+-56482,-21121,Bonito,MS,2180
+-52037,-21256,Brasilândia,MS,1663
+-54822,-22634,Caarapó,MS,7875
+-54044,-19531,Camapuã,MS,4854
+-54646,-20443,Campo Grande,MS,40
+-57024,-22014,Caracol,MS,8255
+-51734,-19113,Cassilândia,MS,116
+-52623,-18794,Chapadão do Sul,MS,846
+-54829,-19832,Corguinho,MS,2284
+-55529,-23272,Coronel Sapucaia,MS,4027
+-57653,-19009,Corumbá,MS,7561
+-53129,-18544,Costa Rica,MS,4686
+-54.76,-18507,Coxim,MS,4834
+-54165,-22276,Deodápolis,MS,1232
+-55296,-20.68,Dois Irmãos do Buriti,MS,5404
+-54613,-22.04,Douradina,MS,6136
+-54806,-22221,Dourados,MS,4403
+-54284,-23787,Eldorado,MS,514
+-54514,-22374,Fátima do Sul,MS,2843
+-54233,-22418,Glória de Dourados,MS,273
+-56114,-21458,Guia Lopes da Laguna,MS,8660
+-54561,-23.68,Iguatemi,MS,9628
+-51.93,-19726,Inocência,MS,5652
+-54789,-22079,Itaporã,MS,5639
+-54185,-23474,Itaquiraí,MS,3545
+-53815,-22305,Ivinhema,MS,9278
+-54404,-23891,Japorã,MS,1815
+-54399,-20142,Jaraguari,MS,2962
+-56138,-21.48,Jardim,MS,3136
+-54303,-22482,Jateí,MS,4126
+-54603,-22861,Juti,MS,9229
+-57602,-19005,Ladário,MS,9118
+-55.15,-22546,Laguna Carapã,MS,4617
+-55168,-21614,Maracaju,MS,3006
+-56378,-20241,Miranda,MS,1286
+-54271,-23938,Mundo Novo,MS,3812
+-54191,-23065,Naviraí,MS,9479
+-55.83,-21135,Nioaque,MS,3085
+-54384,-21466,Nova Alvorada do Sul,MS,2398
+-53343,-22233,Nova Andradina,MS,427
+-53.86,-22669,Novo Horizonte do Sul,MS,3982
+-51191,-19677,Paranaíba,MS,1765
+-55431,-23893,Paranhos,MS,4230
+-54552,-18101,Pedro Gomes,MS,2307
+-55726,-22536,Ponta Porã,MS,1709
+-57883,-21699,Porto Murtinho,MS,7787
+-53759,-20443,Ribas do Rio Pardo,MS,1416
+-54546,-21802,Rio Brilhante,MS,981
+-54987,-19449,Rio Negro,MS,2308
+-54844,-18918,Rio Verde de Mato Grosso,MS,2468
+-54893,-19953,Rochedo,MS,6158
+-52831,-21303,Santa Rita do Pardo,MS,6354
+-54566,-19395,São Gabriel do Oeste,MS,4674
+-51419,-20367,Selvíria,MS,4779
+-55036,-23.97,Sete Quedas,MS,2920
+-54961,-20932,Sidrolândia,MS,5118
+-54758,-17577,Sonora,MS,3338
+-55016,-23633,Tacuru,MS,9879
+-53351,-22488,Taquarussu,MS,1689
+-54.86,-20442,Terenos,MS,5101
+-51678,-20751,Três Lagoas,MS,6110
+-54436,-22409,Vicentina,MS,518
+-56366,-15205,Acorizal,MT,1141
+-52159,-14.05,Água Boa,MT,9601
+-56086,-9876,Alta Floresta,MT,1960
+-53215,-17315,Alto Araguaia,MT,2389
+-51388,-11674,Alto Boa Vista,MT,6297
+-53528,-16944,Alto Garças,MT,6014
+-56483,-14514,Alto Paraguai,MT,3194
+-53282,-17826,Alto Taquari,MT,1464
+-57449,-9544,Apiacás,MT,1874
+-51831,-15734,Araguaiana,MT,7496
+-53033,-16856,Araguainha,MT,9593
+-58353,-15471,Araputanga,MT,7881
+-56846,-14.45,Arenápolis,MT,3159
+-59459,-10167,Aripuanã,MT,4923
+-55958,-16279,Barão de Melgaço,MT,9266
+-57181,-15073,Barra do Bugres,MT,190
+-52257,-15.89,Barra do Garças,MT,9737
+-57979,-12155,Brasnorte,MT,268
+-57679,-16071,Cáceres,MT,3287
+-52895,-14516,Campinápolis,MT,7366
+-57892,-13675,Campo Novo do Parecis,MT,8010
+-55169,-15547,Campo Verde,MT,2333
+-59148,-13899,Campos de Júlio,MT,6848
+-51831,-11054,CanaBrava do Norte,MT,6647
+-52166,-13.55,Canarana,MT,3181
+-55832,-9958,Carlinda,MT,7799
+-58603,-11133,Castanheira,MT,4511
+-55.75,-15461,Chapada dos Guimarães,MT,8170
+-54891,-11515,Cláudia,MT,5586
+-50996,-14397,Cocalinho,MT,1414
+-55455,-10813,Colíder,MT,5491
+-59786,-13663,Comodoro,MT,4789
+-51569,-10644,Confresa,MT,8737
+-58414,-9858,Cotriguaçu,MT,2591
+-56097,-15596,Cuiabá,MT,3800
+-57054,-14.74,Denise,MT,9214
+-56446,-14409,Diamantino,MT,2257
+-54918,-15811,Dom Aquino,MT,6066
+-54.92,-12386,Feliz Natal,MT,8502
+-58.74,-15445,Figueirópolis d'Oeste,MT,8366
+-53.08,-13242,Gaúcha do Norte,MT,4992
+-52755,-15711,General Carneiro,MT,8416
+-58356,-15768,Glória d'Oeste,MT,8809
+-54.91,-9788,Guarantã do Norte,MT,7831
+-53758,-16349,Guiratinga,MT,7387
+-58573,-15494,Indiavaí,MT,1945
+-55276,-11062,Itaúba,MT,2224
+-54.15,-17209,Itiquira,MT,6529
+-54968,-15965,Jaciara,MT,7775
+-56489,-15236,Jangada,MT,1134
+-58866,-15342,Jauru,MT,1885
+-57.52,-11255,Juara,MT,7033
+-58741,-11378,Juína,MT,2408
+-58359,-10318,Juruena,MT,6695
+-54884,-16051,Juscimeira,MT,9817
+-58004,-15323,Lambari d'Oeste,MT,5254
+-55911,-13.05,Lucas do Rio Verde,MT,6017
+-50669,-11222,Luciára,MT,3667
+-54597,-11133,Marcelândia,MT,4452
+-54933,-10057,Matupá,MT,5477
+-58096,-15675,Mirassol d'Oeste,MT,1516
+-56328,-14.72,Nobres,MT,7434
+-56803,-14455,Nortelândia,MT,5499
+-56346,-15775,Nossa Senhora do Livramento,MT,7792
+-57862,-9814,Nova Bandeirantes,MT,8030
+-54966,-14957,Nova Brasilândia,MT,7716
+-55953,-10558,Nova Canaã do Norte,MT,6301
+-55.41,-10316,Nova Guarita,MT,3754
+-59609,-14476,Nova Lacerda,MT,810
+-56969,-14364,Nova Marilândia,MT,8613
+-57074,-13026,Nova Maringá,MT,6862
+-57535,-9982,Nova Monte Verde,MT,3126
+-56084,-13838,Nova Mutum,MT,9063
+-57288,-14797,Nova Olímpia,MT,7684
+-55255,-12991,Nova Ubiratã,MT,3418
+-52353,-14673,Nova Xavantina,MT,6342
+-57352,-11413,Novo Horizonte do Norte,MT,7269
+-55198,-9.95,Novo Mundo,MT,4946
+-53018,-14906,Novo São Joaquim,MT,7853
+-56477,-9665,Paranaíta,MT,3958
+-54051,-14432,Paranatinga,MT,2589
+-54474,-16623,Pedra Preta,MT,5227
+-54983,-10229,Peixoto de Azevedo,MT,7514
+-54774,-14658,Planalto da Serra,MT,1016
+-56623,-16257,Poconé,MT,7146
+-52317,-15934,Pontal do Araguaia,MT,8016
+-52833,-16764,Ponte Branca,MT,5281
+-59335,-15226,Pontes e Lacerda,MT,5309
+-51633,-10878,Porto Alegre do Norte,MT,993
+-57414,-11535,Porto dos Gaúchos,MT,3937
+-58.46,-15853,Porto Esperidião,MT,2896
+-57228,-15324,Porto Estrela,MT,453
+-54389,-15837,Poxoréo,MT,4841
+-54346,-15528,Primavera do Leste,MT,8580
+-52378,-12476,Querência,MT,4790
+-58466,-15.08,Reserva do Cabaçal,MT,3359
+-51824,-12942,Ribeirão Cascalheira,MT,1472
+-52692,-16485,Ribeirãozinho,MT,3651
+-58116,-15241,Rio Branco,MT,521
+-54636,-16471,Rondonópolis,MT,7959
+-56428,-14836,Rosário Oeste,MT,9536
+-58127,-15.13,Salto do Céu,MT,2135
+-55226,-11913,Santa Carmem,MT,6102
+-50503,-10.47,Santa Terezinha,MT,7718
+-57002,-14498,Santo Afonso,MT,8517
+-56077,-15866,Santo Antônio do Leverger,MT,3994
+-50669,-11617,São Félix do Araguaia,MT,2158
+-54255,-16465,São José do Povo,MT,2425
+-56721,-13447,São José do Rio Claro,MT,3174
+-52744,-10804,São José do Xingu,MT,5516
+-58176,-15621,São José dos Quatro Marcos,MT,1669
+-54921,-16001,São Pedro da Cipa,MT,5790
+-58764,-12989,Sapezal,MT,9208
+-55504,-11864,Sinop,MT,1786
+-55711,-12545,Sorriso,MT,9846
+-56.62,-10807,Tabaporã,MT,3770
+-57486,-14619,Tangará da Serra,MT,833
+-56554,-12772,Tapurah,MT,9014
+-55231,-10517,Terra Nova do Norte,MT,8013
+-53553,-16079,Tesouro,MT,19
+-52556,-16199,Torixoréu,MT,190
+-54353,-11533,União do Sul,MT,8181
+-56133,-15647,Várzea Grande,MT,227
+-55317,-12306,Vera,MT,2920
+-59951,-15008,Vila Bela da Santíssima Trindade,MT,6512
+-51116,-10012,Vila Rica,MT,4775
+-48883,-1718,Abaetetuba,PA,3483
+-48393,-4954,Abel Figueiredo,PA,458
+-48197,-1961,Acará,PA,5867
+-50387,-157,Afuá,PA,4257
+-50467,-6791,Água Azul do Norte,PA,8000
+-54738,-1942,Alenquer,PA,8519
+-52582,-1523,Almeirim,PA,1237
+-52206,-3203,Altamira,PA,5491
+-49.94,-987,Anajás,PA,5354
+-48372,-1366,Ananindeua,PA,1687
+-51198,-3472,Anapu,PA,178
+-46645,-1022,Augusto Corrêa,PA,9031
+-47563,-2134,Aurora do Pará,PA,5900
+-55332,-3606,Aveiro,PA,2087
+-50164,-1.9,Bagre,PA,1231
+-49672,-2791,Baião,PA,631
+-50396,-7348,Bannach,PA,3453
+-48626,-1506,Barcarena,PA,2733
+-48504,-1456,Belém,PA,8279
+-54937,-2636,Belterra,PA,1523
+-48245,-1361,Benevides,PA,1147
+-48609,-5051,Bom Jesus do Tocantins,PA,9094
+-47307,-1363,Bonito,PA,5019
+-46773,-1063,Bragança,PA,6289
+-52668,-3262,Brasil Novo,PA,9369
+-48413,-5699,Brejo Grande do Araguaia,PA,7718
+-49461,-4009,Breu Branco,PA,4083
+-50.48,-1682,Breves,PA,4607
+-48045,-1515,Bujaru,PA,2350
+-48963,-1011,Cachoeira do Arari,PA,5857
+-46529,-1671,Cachoeira do Piriá,PA,3307
+-49496,-2244,Cametá,PA,6163
+-49878,-6497,Canaã dos Carajás,PA,7964
+-47181,-1196,Capanema,PA,2227
+-47065,-1745,Capitão Poço,PA,2756
+-47922,-1297,Castanhal,PA,3430
+-49988,-0.16,Chaves,PA,7304
+-48282,-937,Colares,PA,4922
+-49265,-8258,Conceição do Araguaia,PA,5971
+-47949,-1991,Concórdia do Pará,PA,2909
+-50773,-7825,Cumaru do Norte,PA,5238
+-49541,-6091,Curionópolis,PA,5040
+-49795,-1814,Curralinho,PA,2254
+-55117,-1888,Curuá,PA,4548
+-47855,-734,Curuçá,PA,4552
+-47505,-4285,Dom Eliseu,PA,7542
+-49355,-6104,Eldorado dos Carajás,PA,3356
+-56745,-2171,Faro,PA,5144
+-49713,-7554,Floresta do Araguaia,PA,6799
+-47053,-1934,Garrafão do Norte,PA,8060
+-49097,-3843,Goianésia do Pará,PA,781
+-51.64,-1405,Gurupá,PA,7005
+-47618,-1127,Igarapé-Açu,PA,2390
+-48.96,-1975,Igarapé-Miri,PA,7944
+-47917,-1.43,Inhangapi,PA,3577
+-47494,-2558,Ipixuna do Pará,PA,682
+-47439,-1769,Irituia,PA,5830
+-55984,-4276,Itaituba,PA,7514
+-49327,-5135,Itupiranga,PA,9148
+-57754,-6224,Jacareacanga,PA,6825
+-49116,-4451,Jacundá,PA,5775
+-56092,-2152,Juruti,PA,8709
+-49381,-1895,Limoeiro do Ajuru,PA,3644
+-47553,-2.06,Mãe do Rio,PA,7912
+-47598,-795,Magalhães Barata,PA,3853
+-49118,-5369,Marabá,PA,9788
+-47.45,-765,Maracanã,PA,493
+-47694,-714,Marapanim,PA,5002
+-48342,-1355,Marituba,PA,6365
+-52889,-3446,Medicilândia,PA,5364
+-50712,-1804,Melgaço,PA,7110
+-49507,-2584,Mocajuba,PA,7298
+-48769,-1884,Moju,PA,9536
+-54069,-2008,Monte Alegre,PA,1848
+-49217,-1528,Muaná,PA,5345
+-46966,-2269,Nova Esperança do Piriá,PA,7846
+-49077,-4921,Nova Ipixuna,PA,1872
+-47386,-1206,Nova Timboteua,PA,4882
+-55382,-7147,Novo Progresso,PA,8537
+-49796,-4331,Novo Repartimento,PA,121
+-55518,-1918,Óbidos,PA,7806
+-49854,-2003,Oeiras do Pará,PA,2634
+-55866,-1766,Oriximiná,PA,4884
+-47119,-1548,Ourém,PA,9939
+-51084,-6755,Ourilândia do Norte,PA,2480
+-50638,-3838,Pacajá,PA,9801
+-48317,-5742,Palestina do Pará,PA,4967
+-47353,-2995,Paragominas,PA,7355
+-49902,-6068,Parauapebas,PA,2891
+-50044,-7833,Pau d'Arco,PA,2932
+-47314,-1192,Peixe-Boi,PA,9234
+-48872,-6438,Piçarra,PA,8747
+-54.22,-3868,Placas,PA,9465
+-48871,-1.39,Ponta de Pedras,PA,2855
+-50821,-1936,Portel,PA,3436
+-52238,-1748,Porto de Moz,PA,2879
+-53.48,-1.8,Prainha,PA,3879
+-47116,-943,Primavera,PA,2151
+-47006,-901,Quatipuru,PA,4591
+-50031,-8029,Redenção,PA,416
+-50048,-7311,Rio Maria,PA,8791
+-48067,-4776,Rondon do Pará,PA,6432
+-54.91,-4096,Rurópolis,PA,6641
+-47356,-629,Salinópolis,PA,3111
+-48517,-753,Salvaterra,PA,2755
+-48294,-1224,Santa Bárbara do Pará,PA,2774
+-49175,-663,Santa Cruz do Arari,PA,9738
+-48161,-1299,Santa Isabel do Pará,PA,7548
+-46942,-1517,Santa Luzia do Pará,PA,9824
+-49722,-8855,Santa Maria das Barreiras,PA,4877
+-47576,-1352,Santa Maria do Pará,PA,1327
+-50625,-9505,Santana do Araguaia,PA,4652
+-54708,-2443,Santarém,PA,200
+-47397,-929,Santarém Novo,PA,3702
+-48129,-1152,Santo Antônio do Tauá,PA,3655
+-48.02,-0.75,São Caetano de Odivelas,PA,6651
+-48733,-5538,São Domingos do Araguaia,PA,9180
+-47775,-1675,São Domingos do Capim,PA,2540
+-51995,-6645,São Félix do Xingu,PA,2477
+-47795,-1169,São Francisco do Pará,PA,4995
+-48555,-6401,São Geraldo do Araguaia,PA,8745
+-47.92,-0.85,São João da Ponta,PA,5599
+-47174,-769,São João de Pirabas,PA,3747
+-48791,-5358,São João do Araguaia,PA,6086
+-47483,-1627,São Miguel do Guamá,PA,1278
+-49541,-1718,São Sebastião da Boa Vista,PA,3553
+-49682,-6947,Sapucaia,PA,1346
+-51954,-2591,Senador José Porfírio,PA,6629
+-48523,-717,Soure,PA,1437
+-48953,-2947,Tailândia,PA,3802
+-47908,-1038,Terra Alta,PA,7545
+-56487,-2104,Terra Santa,PA,5090
+-48152,-2419,Tomé-Açu,PA,8844
+-46897,-1072,Tracuateua,PA,6656
+-55944,-4574,Trairão,PA,203
+-51161,-6748,Tucumã,PA,5213
+-49673,-3768,Tucuruí,PA,6560
+-47501,-3756,Ulianópolis,PA,6459
+-53737,-3718,Uruará,PA,8619
+-48142,-858,Vigia,PA,8955
+-46.14,-1197,Viseu,PA,7297
+-52.01,-2.88,Vitória do Xingu,PA,5039
+-49946,-7095,Xinguara,PA,3278
+-37641,-7512,Água Branca,PB,4206
+-38171,-7092,Aguiar,PB,4885
+-35635,-7089,Alagoa Grande,PB,2090
+-35758,-7071,Alagoa Nova,PB,6673
+-35545,-6.95,Alagoinha,PB,3276
+-36056,-7744,Alcantil,PB,227
+-35922,-6816,Algodão de Jandaíra,PB,4243
+-34914,-7439,Alhandra,PB,472
+-37064,-7568,Amparo,PB,6521
+-38087,-6784,Aparecida,PB,7700
+-35381,-6853,Araçagi,PB,6543
+-35758,-6828,Arara,PB,4915
+-35742,-6558,Araruna,PB,135
+-35692,-6963,Areia,PB,9186
+-36941,-7123,Areia de Baraúnas,PB,5764
+-35.9,-7.02,Areial,PB,7260
+-35708,-7545,Aroeiras,PB,1941
+-36731,-7074,Assunção,PB,7487
+-34936,-6688,Baía da Traição,PB,875
+-35633,-6.75,Bananeiras,PB,2913
+-36254,-6643,Baraúna,PB,8289
+-36061,-6.72,Barra de Santa Rosa,PB,3348
+-36,-7.52,Barra de Santana,PB,2092
+-36318,-7751,Barra de São Miguel,PB,3656
+-34932,-7125,Bayeux,PB,1728
+-35519,-6747,Belém,PB,601
+-37536,-6189,Belém do Brejo do Cruz,PB,1026
+-38551,-6452,Bernardino Batista,PB,8953
+-38216,-7414,Boa Ventura,PB,4414
+-36.24,-7259,Boa Vista,PB,839
+-38.65,-6817,Bom Jesus,PB,5795
+-37929,-6445,Bom Sucesso,PB,2799
+-38515,-7313,Bonito de Santa Fé,PB,5982
+-36135,-7482,Boqueirão,PB,9131
+-35626,-6801,Borborema,PB,6410
+-37498,-6349,Brejo do Cruz,PB,9182
+-37825,-6377,Brejo dos Santos,PB,5648
+-34908,-7516,Caaporã,PB,2286
+-36287,-7489,Cabaceiras,PB,3395
+-34834,-6981,Cabedelo,PB,467
+-38674,-6927,Cachoeira dos Índios,PB,6833
+-37157,-7129,Cacimba de Areia,PB,5639
+-35.79,-6642,Cacimba de Dentro,PB,1208
+-37058,-7211,Cacimbas,PB,2901
+-35411,-6554,Caiçara,PB,3212
+-38562,-6.89,Cajazeiras,PB,731
+-37806,-6961,Cajazeirinhas,PB,216
+-35326,-7103,Caldas Brandão,PB,1940
+-36823,-7889,Camalaú,PB,8585
+-35881,-7231,Campina Grande,PB,9263
+-35637,-6488,Campo de Santana,PB,1770
+-35172,-6916,Capim,PB,5378
+-36492,-7727,Caraúbas,PB,3509
+-38344,-7039,Carrapateira,PB,5089
+-35718,-6751,Casserengue,PB,8937
+-37609,-7126,Catingueira,PB,5887
+-37747,-6344,Catolé do Rocha,PB,9245
+-36027,-7.42,Caturité,PB,4641
+-38509,-7562,Conceição,PB,5300
+-37601,-6.91,Condado,PB,1959
+-34908,-7.26,Conde,PB,5590
+-36.66,-7797,Congo,PB,2846
+-37946,-7014,Coremas,PB,6429
+-36606,-7627,Coxixola,PB,89
+-35086,-7.14,Cruz do Espírito Santo,PB,2663
+-36375,-6868,Cubati,PB,1664
+-36157,-6485,Cuité,PB,4677
+-35252,-6915,Cuité de Mamanguape,PB,3293
+-35523,-6893,Cuitegi,PB,6529
+-35269,-6717,Curral de Cima,PB,1552
+-38198,-7581,Curral Velho,PB,7556
+-35898,-6557,Damião,PB,4802
+-37094,-7291,Desterro,PB,9183
+-38264,-7428,Diamante,PB,9844
+-35632,-6618,Dona Inês,PB,7182
+-35418,-6685,Duas Estradas,PB,6679
+-37716,-7108,Emas,PB,4949
+-35.86,-7023,Esperança,PB,2175
+-35775,-7355,Fagundes,PB,6346
+-36456,-6403,Frei Martinho,PB,3793
+-35791,-7583,Gado Bravo,PB,2470
+-35.49,-6855,Guarabira,PB,1763
+-35424,-7124,Gurinhém,PB,5984
+-36489,-7247,Gurjão,PB,8812
+-38405,-7501,Ibiara,PB,2668
+-38149,-7181,Igaracy,PB,1542
+-37509,-7.39,Imaculada,PB,1772
+-35613,-7268,Ingá,PB,9104
+-35333,-7329,Itabaiana,PB,7871
+-38.15,-7304,Itaporanga,PB,3326
+-35247,-6.83,Itapororoca,PB,4779
+-35628,-7375,Itatuba,PB,939
+-35293,-6612,Jacaraú,PB,2470
+-37809,-6554,Jericó,PB,517
+-34863,-7115,João Pessoa,PB,2170
+-35583,-7172,Juarez Távora,PB,750
+-36578,-7068,Juazeirinho,PB,4994
+-36713,-6997,Junco do Seridó,PB,2896
+-35238,-7373,Juripiranga,PB,2227
+-37819,-7537,Juru,PB,232
+-37916,-6571,Lagoa,PB,1947
+-35379,-6673,Lagoa de Dentro,PB,3051
+-35854,-7171,Lagoa Seca,PB,2430
+-38.18,-6516,Lastro,PB,3337
+-36946,-7374,Livramento,PB,1178
+-35443,-6614,Logradouro,PB,1591
+-34869,-6.9,Lucena,PB,815
+-37427,-7259,Mãe d'Água,PB,2856
+-37522,-6904,Malta,PB,5009
+-35126,-6839,Mamanguape,PB,570
+-38154,-7706,Manaíra,PB,2024
+-35015,-6.77,Marcação,PB,6329
+-35319,-7.06,Mari,PB,9741
+-38347,-6842,Marizópolis,PB,8305
+-35789,-7.2,Massaranduba,PB,83
+-35051,-6601,Mataraca,PB,5196
+-35767,-7125,Matinhas,PB,2690
+-37725,-6534,Mato Grosso,PB,6389
+-37351,-7267,Maturéia,PB,1994
+-35479,-7299,Mogeiro,PB,7544
+-35911,-7118,Montadas,PB,2794
+-38586,-7215,Monte Horebe,PB,5770
+-37.12,-7889,Monteiro,PB,686
+-35462,-7024,Mulungu,PB,7470
+-35.55,-7641,Natuba,PB,400
+-38325,-6916,Nazarezinho,PB,6897
+-36203,-6455,Nova Floresta,PB,7857
+-38042,-7.48,Nova Olinda,PB,7211
+-36421,-6678,Nova Palmeira,PB,757
+-37751,-7228,Olho d'Água,PB,7841
+-36244,-6991,Olivedos,PB,3693
+-37152,-7.62,Ouro Velho,PB,1684
+-36656,-7321,Parari,PB,5533
+-37049,-7138,Passagem,PB,6275
+-37.28,-7024,Patos,PB,5265
+-37624,-6594,Paulista,PB,3376
+-38068,-7427,Pedra Branca,PB,7023
+-36.48,-6757,Pedra Lavrada,PB,3474
+-35116,-7402,Pedras de Fogo,PB,4803
+-35297,-6633,Pedro Régis,PB,4025
+-37929,-7198,Piancó,PB,2090
+-36349,-6555,Picuí,PB,4584
+-35.26,-7267,Pilar,PB,8645
+-35623,-6902,Pilões,PB,6193
+-35523,-6857,Pilõezinhos,PB,5333
+-35499,-6.78,Pirpirituba,PB,59
+-34809,-7471,Pitimbu,PB,1255
+-36061,-7077,Pocinhos,PB,6303
+-38495,-6403,Poço Dantas,PB,12
+-38512,-6575,Poço de José de Moura,PB,6163
+-37802,-6.77,Pombal,PB,2933
+-37.08,-7691,Prata,PB,2450
+-37993,-7737,Princesa Isabel,PB,4813
+-35961,-7161,Puxinanã,PB,7376
+-35898,-7358,Queimadas,PB,3194
+-37149,-7031,Quixabá,PB,2323
+-35834,-6903,Remígio,PB,26
+-35646,-6.55,Riachão,PB,5784
+-35666,-7243,Riachão do Bacamarte,PB,6759
+-35258,-7149,Riachão do Poço,PB,2113
+-36157,-7693,Riacho de Santo Antônio,PB,7752
+-37652,-6377,Riacho dos Cavalos,PB,5871
+-35081,-6803,Rio Tinto,PB,7889
+-36845,-7103,Salgadinho,PB,7315
+-35441,-7357,Salgado de São Félix,PB,8963
+-35879,-7739,Santa Cecília,PB,2037
+-38062,-6533,Santa Cruz,PB,3788
+-38638,-6.72,Santa Helena,PB,78
+-38554,-7621,Santa Inês,PB,3294
+-36919,-6872,Santa Luzia,PB,7427
+-34978,-7114,Santa Rita,PB,4837
+-37452,-7116,Santa Teresinha,PB,8545
+-38332,-7555,Santana de Mangueira,PB,4761
+-37986,-7384,Santana dos Garrotes,PB,4308
+-38476,-6.49,Santarém,PB,8936
+-36633,-7218,Santo André,PB,2287
+-37729,-6901,São Bentinho,PB,9360
+-37451,-6486,São Bento,PB,7044
+-37942,-6814,São Domingos de Pombal,PB,1606
+-36433,-7636,São Domingos do Cariri,PB,172
+-38094,-6619,São Francisco,PB,2571
+-36533,-7391,São João do Cariri,PB,7275
+-38449,-6729,São João do Rio do Peixe,PB,8312
+-36848,-8079,São João do Tigre,PB,3919
+-38162,-6941,São José da Lagoa Tapada,PB,8205
+-38301,-7249,São José de Caiana,PB,3761
+-37326,-6847,São José de Espinharas,PB,8047
+-38502,-7121,São José de Piranhas,PB,6100
+-38094,-7738,São José de Princesa,PB,5363
+-37309,-7163,São José do Bonfim,PB,1377
+-37352,-6213,São José do Brejo do Cruz,PB,8020
+-36799,-6776,São José do Sabugi,PB,9268
+-36808,-7391,São José dos Cordeiros,PB,2163
+-35384,-7251,São José dos Ramos,PB,2220
+-37096,-6927,São Mamede,PB,4779
+-35.21,-7.25,São Miguel de Taipu,PB,7062
+-35835,-7083,São Sebastião de Lagoa de Roça,PB,8595
+-37.01,-8152,São Sebastião do Umbuzeiro,PB,3933
+-35233,-7095,Sapé,PB,3328
+-36402,-6934,Seridó,PB,2888
+-36665,-7483,Serra Branca,PB,3300
+-35444,-6687,Serra da Raiz,PB,9792
+-38.37,-7215,Serra Grande,PB,1910
+-35675,-7178,Serra Redonda,PB,6959
+-35623,-6854,Serraria,PB,8313
+-35442,-6751,Sertãozinho,PB,9300
+-35239,-7144,Sobrado,PB,2302
+-35697,-6778,Solânea,PB,9983
+-36363,-7057,Soledade,PB,7765
+-36254,-6769,Sossêgo,PB,951
+-38231,-6761,Sousa,PB,7187
+-36.88,-7672,Sumé,PB,2988
+-36827,-7207,Taperoá,PB,7967
+-37878,-7636,Tavares,PB,7684
+-37254,-7223,Teixeira,PB,3842
+-36629,-6942,Tenório,PB,997
+-38597,-6579,Triunfo,PB,6605
+-38412,-6518,Uiraúna,PB,449
+-35664,-7696,Umbuzeiro,PB,9954
+-36992,-6772,Várzea,PB,6719
+-38256,-6507,Vieirópolis,PB,5568
+-37567,-6738,Vista Serrana,PB,3319
+-37098,-8076,Zabelê,PB,538
+-34903,-7912,Abreu e Lima,PE,6175
+-37639,-7751,Afogados da Ingazeira,PE,9794
+-41005,-8515,Afrânio,PE,5535
+-35945,-8458,Agrestina,PE,3189
+-35531,-8707,Água Preta,PE,6436
+-37123,-9111,Águas Belas,PE,2730
+-36776,-8466,Alagoinha,PE,549
+-35231,-7603,Aliança,PE,5738
+-36059,-8.49,Altinho,PE,1200
+-35453,-8383,Amaraji,PE,1098
+-36286,-8.89,Angelim,PE,8755
+-35091,-7.79,Araçoiaba,PE,4483
+-40498,-7576,Araripina,PE,1916
+-37054,-8419,Arcoverde,PE,5179
+-35658,-8.42,Barra de Guabiraba,PE,2209
+-35186,-8818,Barreiros,PE,4103
+-35809,-8614,Belém de Maria,PE,5212
+-38964,-8758,Belém de São Francisco,PE,8546
+-36424,-8336,Belo Jardim,PE,5344
+-38034,-8276,Betânia,PE,6497
+-35797,-8233,Bezerros,PE,880
+-39941,-7778,Bodocó,PE,1089
+-36.68,-9.17,Bom Conselho,PE,9018
+-35587,-7796,Bom Jardim,PE,5978
+-35729,-8.47,Bonito,PE,4375
+-36569,-9.03,Brejão,PE,2476
+-37286,-7349,Brejinho,PE,8236
+-36371,-8146,Brejo da Madre de Deus,PE,7417
+-35327,-7726,Buenos Aires,PE,7065
+-37156,-8623,Buíque,PE,7838
+-35035,-8287,Cabo de Santo Agostinho,PE,530
+-39307,-8512,Cabrobó,PE,4892
+-36233,-8486,Cachoeirinha,PE,3882
+-36623,-8773,Caetés,PE,7288
+-36334,-8742,Calçado,PE,4722
+-38.15,-7941,Calumbi,PE,6770
+-34981,-8022,Camaragibe,PE,1201
+-35762,-8359,Camocim de São Félix,PE,6057
+-35274,-7407,Camutanga,PE,5499
+-36191,-8882,Canhotinho,PE,5146
+-36627,-8735,Capoeiras,PE,8685
+-37794,-7805,Carnaíba,PE,8118
+-38744,-8322,Carnaubeira da Penha,PE,1030
+-35255,-7851,Carpina,PE,6697
+-35976,-8283,Caruaru,PE,3558
+-35721,-7741,Casinhas,PE,1345
+-35717,-8667,Catende,PE,2182
+-39239,-7722,Cedro,PE,8649
+-35213,-8001,Chã de Alegria,PE,2838
+-35462,-8238,Chã Grande,PE,8932
+-35106,-7586,Condado,PE,7106
+-36.33,-9129,Correntes,PE,2143
+-35541,-8.47,Cortês,PE,7920
+-35697,-8006,Cumaru,PE,5794
+-35.95,-8617,Cupira,PE,8213
+-37643,-8088,Custódia,PE,935
+-40771,-8447,Dormentes,PE,696
+-35224,-8359,Escada,PE,2991
+-39724,-7512,Exu,PE,7592
+-35389,-7951,Feira Nova,PE,7427
+-32411,-3.84,Fernando de Noronha,PE,646
+-35244,-7448,Ferreiros,PE,482
+-37975,-7866,Flores,PE,9413
+-38568,-8601,Floresta,PE,7372
+-35912,-7.94,Frei Miguelinho,PE,3368
+-35387,-8584,Gameleira,PE,8232
+-36493,-8.89,Garanhuns,PE,5447
+-35293,-8002,Glória do Goitá,PE,2627
+-35003,-7561,Goiana,PE,5425
+-39615,-7716,Granito,PE,4270
+-35565,-8201,Gravatá,PE,2771
+-36846,-9046,Iati,PE,5964
+-37.69,-8541,Ibimirim,PE,7471
+-36179,-8581,Ibirajuba,PE,5770
+-34906,-7834,Igarassu,PE,9756
+-37515,-7835,Iguaraci,PE,9768
+-34826,-7748,Ilha de Itamaracá,PE,9505
+-37827,-8903,Inajá,PE,5461
+-37.46,-7676,Ingazeira,PE,7312
+-35064,-8399,Ipojuca,PE,7678
+-40149,-7652,Ipubi,PE,9940
+-38704,-8834,Itacuruba,PE,4942
+-37423,-8948,Itaíba,PE,8282
+-35113,-7.41,Itambé,PE,3241
+-37.19,-7378,Itapetim,PE,2295
+-34892,-7776,Itapissuma,PE,3949
+-35102,-7668,Itaquitinga,PE,6271
+-35015,-8113,Jaboatão dos Guararapes,PE,2457
+-35793,-8727,Jaqueira,PE,8012
+-36496,-7.99,Jataúba,PE,1997
+-38269,-9183,Jatobá,PE,432
+-35588,-7856,João Alfredo,PE,6423
+-35533,-8624,Joaquim Nabuco,PE,5139
+-36489,-8706,Jucati,PE,7851
+-36415,-8712,Jupi,PE,1906
+-36136,-8718,Jurema,PE,8922
+-35.32,-7845,Lagoa do Carro,PE,9066
+-35.29,-7936,Lagoa do Itaenga,PE,3905
+-36458,-9127,Lagoa do Ouro,PE,9464
+-35.9,-8658,Lagoa dos Gatos,PE,3115
+-40272,-8997,Lagoa Grande,PE,1191
+-36.32,-8664,Lajedo,PE,8340
+-35.45,-7875,Limoeiro,PE,4572
+-35453,-7555,Macaparana,PE,4276
+-35522,-7691,Machados,PE,4761
+-37628,-8964,Manari,PE,7905
+-35829,-8803,Maraial,PE,1336
+-38728,-8119,Mirandiba,PE,8829
+-39551,-7631,Moreilândia,PE,1025
+-35092,-8119,Moreno,PE,401
+-35228,-7742,Nazaré da Mata,PE,205
+-34855,-8009,Olinda,PE,3419
+-35602,-7745,Orobó,PE,9126
+-39602,-8.62,Orocó,PE,6226
+-40082,-7883,Ouricuri,PE,6186
+-35592,-8683,Palmares,PE,3353
+-36326,-9004,Palmeirina,PE,1173
+-36006,-8664,Panelas,PE,8880
+-36658,-8921,Paranatama,PE,7419
+-39578,-8091,Parnamirim,PE,3562
+-35581,-7995,Passira,PE,8579
+-35.18,-7897,Paudalho,PE,1316
+-34873,-7941,Paulista,PE,6525
+-36941,-8497,Pedra,PE,9368
+-36696,-8358,Pesqueira,PE,749
+-38303,-9069,Petrolândia,PE,9424
+-40508,-9393,Petrolina,PE,1049
+-36705,-8186,Poção,PE,2058
+-35396,-8141,Pombos,PE,3203
+-35354,-8331,Primavera,PE,8755
+-36012,-8828,Quipapá,PE,3586
+-37848,-7.72,Quixaba,PE,4652
+-34881,-8054,Recife,PE,3883
+-35856,-8134,Riacho das Almas,PE,2525
+-35378,-8514,Ribeirão,PE,5952
+-35159,-8664,Rio Formoso,PE,5127
+-35706,-8328,Sairé,PE,6994
+-35633,-7936,Salgadinho,PE,9420
+-39.12,-8067,Salgueiro,PE,3834
+-36688,-8976,Saloá,PE,1822
+-36566,-8361,Sanharó,PE,6969
+-40336,-8.24,Santa Cruz,PE,4206
+-38153,-7821,Santa Cruz da Baixa Verde,PE,1168
+-36205,-7957,Santa Cruz do Capibaribe,PE,1436
+-40616,-8163,Santa Filomena,PE,4004
+-39825,-8809,Santa Maria da Boa Vista,PE,5515
+-35902,-7.84,Santa Maria do Cambucá,PE,8102
+-37.48,-7378,Santa Terezinha,PE,7431
+-35952,-8808,São Benedito do Sul,PE,9515
+-36444,-8523,São Bento do Una,PE,1262
+-36143,-8326,São Caitano,PE,5858
+-36367,-8876,São João,PE,5153
+-35804,-8432,São Joaquim do Monte,PE,228
+-35148,-8898,São José da Coroa Grande,PE,8516
+-38.76,-7861,São José do Belmonte,PE,3439
+-37274,-7479,São José do Egito,PE,6320
+-35018,-8002,São Lourenço da Mata,PE,1926
+-35491,-7591,São Vicente Ferrer,PE,5613
+-38296,-7986,Serra Talhada,PE,3742
+-39296,-7933,Serrita,PE,2615
+-37264,-8074,Sertânia,PE,2188
+-35116,-8591,Sirinhaém,PE,2210
+-37652,-7.6,Solidão,PE,2946
+-35748,-7815,Surubim,PE,318
+-37539,-7591,Tabira,PE,3203
+-36293,-8316,Tacaimbó,PE,7772
+-38.15,-9106,Tacaratu,PE,3193
+-35105,-8.76,Tamandaré,PE,5936
+-36044,-7903,Taquaritinga do Norte,PE,7392
+-36623,-9056,Terezinha,PE,9646
+-39376,-8.23,Terra Nova,PE,9205
+-35318,-7505,Timbaúba,PE,7043
+-36051,-7999,Toritama,PE,5117
+-35.24,-7805,Tracunhaém,PE,5864
+-40268,-7762,Trindade,PE,49
+-38102,-7838,Triunfo,PE,3494
+-37.34,-8753,Tupanatinga,PE,7720
+-37311,-7602,Tuparetama,PE,9961
+-36874,-8575,Venturosa,PE,6234
+-38972,-7926,Verdejante,PE,2711
+-35.85,-7771,Vertente do Lério,PE,1434
+-35988,-7903,Vertentes,PE,784
+-35327,-7657,Vicência,PE,1515
+-35291,-8118,Vitória de Santo Antão,PE,3421
+-35627,-8802,Xexéu,PE,1363
+-41082,-8215,Acauã,PI,2793
+-42669,-5799,Agricolândia,PI,5289
+-42638,-5.89,Água Branca,PI,7682
+-40939,-7008,Alagoinha do Piauí,PI,9919
+-40858,-7243,Alegrete do Piauí,PI,2782
+-42.21,-5251,Alto Longá,PI,8135
+-42461,-5039,Altos,PI,4331
+-43777,-8424,Alvorada do Gurguéia,PI,8086
+-42855,-6241,Amarante,PI,1293
+-42739,-6086,Angical do Piauí,PI,9728
+-43046,-9189,Anísio de Abreu,PI,8373
+-44198,-7219,Antônio Almeida,PI,6701
+-41793,-6119,Aroazes,PI,5219
+-42532,-6655,Arraial,PI,6367
+-41039,-5866,Assunção do Piauí,PI,6684
+-43949,-10137,Avelino Lopes,PI,2648
+-45214,-7.85,Baixa Grande do Ribeiro,PI,5627
+-42114,-6517,Barra d'Alcântara,PI,6114
+-42296,-4247,Barras,PI,1872
+-45475,-9925,Barreiras do Piauí,PI,4082
+-42513,-5818,Barro Duro,PI,9352
+-42078,-4024,Batalha,PI,8591
+-41868,-7989,Bela Vista do Piauí,PI,2331
+-40972,-7376,Belém do Piauí,PI,4961
+-42.36,-5455,Beneditinos,PI,5731
+-43951,-7641,Bertolínia,PI,9857
+-40796,-8148,Betânia do Piauí,PI,6213
+-42086,-4411,Boa Hora,PI,6684
+-41323,-6943,Bocaina,PI,3303
+-44359,-9074,Bom Jesus,PI,60
+-41645,-3191,Bom Princípio do Piauí,PI,5820
+-42874,-9166,Bonfim do Piauí,PI,8327
+-42074,-4487,Boqueirão do Piauí,PI,9140
+-41782,-4131,Brasileira,PI,8782
+-42826,-8214,Brejo do Piauí,PI,3905
+-41867,-3175,Buriti dos Lopes,PI,1394
+-41098,-5312,Buriti dos Montes,PI,738
+-42309,-4476,Cabeceiras do Piauí,PI,3477
+-42392,-6766,Cajazeiras do Piauí,PI,6923
+-41336,-2928,Cajueiro da Praia,PI,6209
+-40637,-7332,Caldeirão Grande do Piauí,PI,5766
+-41882,-7.66,Campinas do Piauí,PI,3141
+-41836,-8376,Campo Alegre do Fidalgo,PI,2450
+-41036,-7132,Campo Grande do Piauí,PI,9252
+-42629,-3812,Campo Largo do Piauí,PI,5713
+-42169,-4828,Campo Maior,PI,3326
+-43721,-7688,Canavieira,PI,3710
+-42944,-8.11,Canto do Buriti,PI,1661
+-41944,-4457,Capitão de Campos,PI,6555
+-41.82,-8.49,Capitão Gervásio Oliveira,PI,1723
+-43.33,-9279,Caracol,PI,8986
+-41843,-3476,Caraúbas do Piauí,PI,6411
+-40.99,-7733,Caridade do Piauí,PI,3548
+-41553,-5322,Castelo do Piauí,PI,95
+-41896,-3418,Caxingó,PI,2638
+-41555,-3471,Cocal,PI,8288
+-41972,-4559,Cocal de Telha,PI,3410
+-41449,-3729,Cocal dos Alves,PI,2778
+-42368,-5066,Coivaras,PI,5495
+-43792,-8182,Colônia do Gurguéia,PI,8633
+-42178,-7231,Colônia do Piauí,PI,94
+-41597,-7878,Conceição do Canindé,PI,7960
+-42513,-8816,Coronel José Dias,PI,5041
+-45162,-10443,Corrente,PI,469
+-45185,-10653,Cristalândia do Piauí,PI,6591
+-44224,-8818,Cristino Castro,PI,1874
+-44306,-10036,Curimatá,PI,5084
+-44411,-9007,Currais,PI,5133
+-40901,-7832,Curral Novo do Piauí,PI,7493
+-42778,-5583,Curralinhos,PI,1154
+-42676,-5358,Demerval Lobão,PI,4568
+-42428,-9338,Dirceu Arcoverde,PI,8322
+-41641,-6959,Dom Expedito Lopes,PI,5338
+-41974,-9002,Dom Inocêncio,PI,2832
+-41.27,-4254,Domingos Mourão,PI,471
+-42.14,-6202,Elesbão Veloso,PI,5233
+-43664,-8097,Eliseu Martins,PI,3503
+-42234,-3902,Esperantina,PI,1595
+-42791,-9484,Fartura do Piauí,PI,8739
+-42927,-7791,Flores do Piauí,PI,9710
+-41794,-7469,Floresta do Piauí,PI,8176
+-43023,-6767,Floriano,PI,2080
+-42262,-6396,Francinópolis,PI,8522
+-42693,-6623,Francisco Ayres,PI,4013
+-40788,-7331,Francisco Macedo,PI,1729
+-41138,-6993,Francisco Santos,PI,8740
+-40616,-7088,Fronteiras,PI,9559
+-41361,-7158,Geminiano,PI,5824
+-45344,-9832,Gilbués,PI,98
+-43569,-6787,Guadalupe,PI,6371
+-43687,-9398,Guaribas,PI,6248
+-42556,-5989,Hugo Napoleão,PI,20
+-41821,-2858,Ilha Grande,PI,6099
+-41708,-6668,Inhuma,PI,8788
+-41741,-6828,Ipiranga do Piauí,PI,5548
+-41676,-7738,Isaías Coelho,PI,8542
+-41478,-7447,Itainópolis,PI,8848
+-43026,-7603,Itaueira,PI,1400
+-41.21,-7935,Jacobina do Piauí,PI,9882
+-41138,-7359,Jaicós,PI,4520
+-42.63,-6099,Jardim do Mulato,PI,8465
+-41818,-4771,Jatobá do Piauí,PI,3637
+-43.51,-7088,Jerumenha,PI,4893
+-42414,-8511,João Costa,PI,9799
+-42198,-3508,Joaquim Pires,PI,8094
+-42428,-3478,Joca Marques,PI,4458
+-42576,-4756,José de Freitas,PI,4992
+-41703,-5172,Juazeiro do Piauí,PI,4321
+-44238,-10323,Júlio Borges,PI,2934
+-43128,-9231,Jurema,PI,6170
+-42625,-4516,Lagoa Alegre,PI,1781
+-41601,-4392,Lagoa de São Francisco,PI,3718
+-41528,-8475,Lagoa do Barro do Piauí,PI,544
+-42643,-5415,Lagoa do Piauí,PI,8006
+-41584,-6513,Lagoa do Sítio,PI,1479
+-42623,-5831,Lagoinha do Piauí,PI,5026
+-43.93,-7266,Landri Sales,PI,1095
+-41667,-2879,Luís Correia,PI,6615
+-42.37,-3458,Luzilândia,PI,3105
+-42504,-3483,Madeiro,PI,9492
+-43872,-8013,Manoel Emídio,PI,8259
+-40661,-7443,Marcolândia,PI,1245
+-43894,-7121,Marcos Parente,PI,9622
+-41126,-7463,Massapê do Piauí,PI,3202
+-42556,-3716,Matias Olímpio,PI,5958
+-42895,-4166,Miguel Alves,PI,9016
+-42739,-5681,Miguel Leão,PI,7415
+-41422,-4684,Milton Brandão,PI,5382
+-42608,-5564,Monsenhor Gil,PI,8687
+-41.03,-6996,Monsenhor Hipólito,PI,9301
+-45304,-9754,Monte Alegre do Piauí,PI,6156
+-43901,-9725,Morro Cabeça no Tempo,PI,2851
+-42312,-3743,Morro do Chapéu do Piauí,PI,8205
+-42094,-3319,Murici dos Portelas,PI,4323
+-42672,-6973,Nazaré do Piauí,PI,7453
+-42173,-4631,Nossa Senhora de Nazaré,PI,5451
+-42621,-3979,Nossa Senhora dos Remédios,PI,8742
+-42052,-8087,Nova Santa Rita,PI,7043
+-41939,-6449,Novo Oriente do Piauí,PI,9249
+-41933,-5288,Novo Santo Antônio,PI,1860
+-42131,-7025,Oeiras,PI,9532
+-42575,-5841,Olho d'Água do Piauí,PI,9746
+-40904,-7355,Padre Marcos,PI,1950
+-42256,-7778,Paes Landim,PI,8596
+-42822,-7856,Pajeú do Piauí,PI,1999
+-44236,-8727,Palmeira do Piauí,PI,56
+-43063,-5978,Palmeirais,PI,8280
+-41704,-7104,Paquetá,PI,4418
+-44639,-10227,Parnaguá,PI,9314
+-41777,-2905,Parnaíba,PI,9979
+-42.44,-5858,Passagem Franca do Piauí,PI,9660
+-41244,-7668,Patos do Piauí,PI,7416
+-41.15,-8144,Paulistana,PI,312
+-43223,-7966,Pavussu,PI,8284
+-41459,-4425,Pedro II,PI,4598
+-42285,-8068,Pedro Laurentino,PI,7933
+-41467,-7077,Picos,PI,2244
+-41419,-6245,Pimenteiras,PI,9602
+-40579,-6838,Pio IX,PI,9917
+-41709,-3928,Piracuruca,PI,7193
+-41777,-4273,Piripiri,PI,9037
+-42.71,-3893,Porto,PI,9204
+-44182,-6967,Porto Alegre do Piauí,PI,3809
+-42207,-5667,Prata do Piauí,PI,348
+-41419,-8579,Queimada Nova,PI,4774
+-44586,-9487,Redenção do Gurguéia,PI,3673
+-42688,-6238,Regeneração,PI,3499
+-44953,-10125,Riacho Frio,PI,3551
+-42713,-7691,Ribeira do Piauí,PI,713
+-45242,-7558,Ribeiro Gonçalves,PI,6288
+-43142,-7775,Rio Grande do Piauí,PI,4531
+-41768,-7185,Santa Cruz do Piauí,PI,8575
+-41959,-5.8,Santa Cruz dos Milagres,PI,917
+-45922,-9112,Santa Filomena,PI,663
+-44129,-8954,Santa Luz,PI,7717
+-42288,-6799,Santa Rosa do Piauí,PI,9512
+-41519,-6948,Santana do Piauí,PI,9426
+-41234,-6981,Santo Antônio de Lisboa,PI,1531
+-42.71,-6047,Santo Antônio dos Milagres,PI,2314
+-41911,-7.43,Santo Inácio do Piauí,PI,4615
+-43004,-8962,São Braz do Piauí,PI,2235
+-42114,-5933,São Félix do Piauí,PI,7601
+-41686,-8238,São Francisco de Assis do Piauí,PI,1819
+-42543,-7251,São Francisco do Piauí,PI,9753
+-45303,-10.03,São Gonçalo do Gurguéia,PI,8185
+-42703,-5993,São Gonçalo do Piauí,PI,4322
+-41343,-6817,São João da Canabrava,PI,3742
+-41258,-3956,São João da Fronteira,PI,2268
+-41899,-5514,São João da Serra,PI,1412
+-41.89,-6942,São João da Varjota,PI,8762
+-42446,-3819,São João do Arraial,PI,5889
+-42247,-8358,São João do Piauí,PI,4173
+-41833,-3811,São José do Divino,PI,4007
+-42564,-7494,São José do Peixe,PI,4829
+-41475,-6872,São José do Piauí,PI,8199
+-40826,-7085,São Julião,PI,8341
+-42545,-9169,São Lourenço do Piauí,PI,598
+-41324,-6825,São Luis do Piauí,PI,5350
+-42186,-5864,São Miguel da Baixa Grande,PI,371
+-42.37,-7586,São Miguel do Fidalgo,PI,746
+-41323,-5504,São Miguel do Tapuio,PI,1223
+-42719,-5929,São Pedro do Piauí,PI,6714
+-42699,-9015,São Raimundo Nonato,PI,4905
+-44834,-10817,Sebastião Barros,PI,9512
+-44064,-7566,Sebastião Leal,PI,999
+-41732,-4918,Sigefredo Pacheco,PI,878
+-40818,-7599,Simões,PI,4495
+-41.91,-7854,Simplício Mendes,PI,5615
+-42491,-7866,Socorro do Piauí,PI,6301
+-41384,-7043,Sussuapara,PI,4329
+-42914,-8.4,Tamboril do Piauí,PI,7184
+-42282,-6.6,Tanque do Piauí,PI,351
+-42802,-5089,Teresina,PI,7792
+-42864,-4586,União,PI,9115
+-44556,-7229,Uruçuí,PI,2535
+-41746,-6408,Valença do Piauí,PI,5242
+-42964,-9239,Várzea Branca,PI,7238
+-42246,-6545,Várzea Grande,PI,1575
+-41483,-7603,Vera Mendes,PI,6884
+-40.94,-7136,Vila Nova do Piauí,PI,8274
+-41.91,-7233,Wall Ferraz,PI,8327
+-50313,-23304,Abatiá,PR,3184
+-48991,-24657,Adrianópolis,PR,1905
+-49335,-25993,Agudos do Sul,PR,9972
+-49.31,-25325,Almirante Tamandaré,PR,888
+-52713,-24798,Altamira do Paraná,PR,6635
+-52319,-23129,Alto Paraná,PR,3076
+-53441,-24028,Alto Piquiri,PR,4866
+-53902,-23874,Altônia,PR,6013
+-51231,-22.78,Alvorada do Sul,PR,9315
+-52788,-23096,Amaporã,PR,3733
+-53473,-25915,Ampére,PR,5977
+-53084,-24717,Anahy,PR,2681
+-50229,-23051,Andirá,PR,4478
+-51915,-23195,Ângulo,PR,4023
+-48712,-25429,Antonina,PR,7458
+-50197,-25986,Antônio Olinto,PR,487
+-51461,-23551,Apucarana,PR,4778
+-51424,-23419,Arapongas,PR,8921
+-49827,-24158,Arapoti,PR,3180
+-51787,-24316,Arapuã,PR,1273
+-52496,-23932,Araruna,PR,2166
+-49.41,-25593,Araucária,PR,3047
+-51585,-24386,Ariranha do Ivaí,PR,1065
+-50841,-23373,Assaí,PR,2034
+-53521,-24.42,Assis Chateaubriand,PR,3984
+-51666,-23233,Astorga,PR,8884
+-52054,-23151,Atalaia,PR,292
+-49636,-25584,Balsa Nova,PR,2959
+-50368,-23.11,Bandeirantes,PR,8023
+-52012,-24.03,Barbosa Ferraz,PR,8974
+-50181,-23115,Barra do Jacaré,PR,9764
+-53633,-26254,Barracão,PR,2027
+-53665,-25881,Bela Vista da Caroba,PR,456
+-51191,-22997,Bela Vista do Paraíso,PR,8715
+-51553,-26161,Bituruna,PR,7736
+-52789,-24242,Boa Esperança,PR,5772
+-53212,-25636,Boa Esperança do Iguaçu,PR,5401
+-51628,-24869,Boa Ventura de São Roque,PR,3688
+-53408,-25436,Boa Vista da Aparecida,PR,8304
+-49115,-25206,Bocaiúva do Sul,PR,1185
+-53597,-26193,Bom Jesus do Sul,PR,715
+-51764,-23.71,Bom Sucesso,PR,3127
+-52834,-26076,Bom Sucesso do Sul,PR,6235
+-51588,-23941,Borrazópolis,PR,1729
+-53122,-24816,Braganey,PR,7043
+-53525,-24197,Brasilândia do Sul,PR,7046
+-51716,-22793,Cafeara,PR,8034
+-53.32,-24618,Cafelândia,PR,6639
+-53513,-23902,Cafezal do Sul,PR,7088
+-51355,-23.65,Califórnia,PR,2765
+-50074,-23046,Cambará,PR,2553
+-51278,-23276,Cambé,PR,5738
+-51578,-23583,Cambira,PR,8900
+-52799,-24592,Campina da Lagoa,PR,9774
+-51827,-25079,Campina do Simão,PR,1673
+-49055,-25306,Campina Grande do Sul,PR,5867
+-52993,-25031,Campo Bonito,PR,6825
+-49683,-25978,Campo do Tenente,PR,9029
+-49528,-25459,Campo Largo,PR,6416
+-49451,-25369,Campo Magro,PR,9403
+-52383,-24046,Campo Mourão,PR,8033
+-51333,-24567,Cândido de Abreu,PR,9898
+-52126,-25663,Candói,PR,2330
+-52126,-25374,Cantagalo,PR,9070
+-53809,-25672,Capanema,PR,5432
+-53614,-25479,Capitão Leônidas Marques,PR,2
+-50097,-24918,Carambeí,PR,8962
+-49721,-23425,Carlópolis,PR,2069
+-53455,-24956,Cascavel,PR,1584
+-50012,-24791,Castro,PR,969
+-53157,-25203,Catanduvas,PR,3064
+-51595,-22821,Centenário do Sul,PR,7119
+-49261,-24824,Cerro Azul,PR,2242
+-53849,-25147,Céu Azul,PR,767
+-52523,-25856,Chopinzinho,PR,6808
+-52605,-23663,Cianorte,PR,6256
+-52945,-23.38,Cidade Gaúcha,PR,9559
+-52471,-26396,Clevelândia,PR,3006
+-49224,-25292,Colombo,PR,9366
+-51973,-22838,Colorado,PR,9583
+-50554,-23551,Congonhinhas,PR,6701
+-50169,-23.63,Conselheiro Mairinck,PR,1791
+-49535,-25676,Contenda,PR,8753
+-53307,-24799,Corbélia,PR,5261
+-50647,-23181,Cornélio Procópio,PR,4888
+-52032,-26228,Coronel Domingos Soares,PR,5058
+-52568,-25.98,Coronel Vivida,PR,1926
+-52.12,-24101,Corumbataí do Sul,PR,7108
+-51347,-26017,Cruz Machado,PR,7198
+-53128,-25616,Cruzeiro do Iguaçu,PR,7799
+-53073,-23785,Cruzeiro do Oeste,PR,9464
+-52161,-22962,Cruzeiro do Sul,PR,5283
+-51459,-24013,Cruzmaltina,PR,973
+-49273,-25428,Curitiba,PR,6306
+-50458,-24033,Curiúva,PR,3518
+-54103,-24943,Diamante d'Oeste,PR,7984
+-52.86,-22656,Diamante do Norte,PR,1490
+-52.68,-25043,Diamante do Sul,PR,4643
+-53057,-25734,Dois Vizinhos,PR,4032
+-53292,-23381,Douradina,PR,8669
+-52218,-23556,Doutor Camargo,PR,8212
+-49.42,-24568,Doutor Ulysses,PR,8694
+-53164,-25942,Enéas Marques,PR,893
+-52269,-23797,Engenheiro Beltrão,PR,7273
+-54234,-24704,Entre Rios do Oeste,PR,3687
+-53811,-23724,Esperança Nova,PR,4894
+-52836,-25424,Espigão Alto do Iguaçu,PR,5830
+-52623,-24.1,Farol,PR,2774
+-51.32,-24001,Faxinal,PR,9438
+-49308,-25658,Fazenda Rio Grande,PR,1935
+-51979,-23916,Fênix,PR,3337
+-50548,-25413,Fernandes Pinheiro,PR,3386
+-50403,-23849,Figueira,PR,9802
+-53304,-26.26,Flor da Serra do Sul,PR,9711
+-52304,-23317,Floraí,PR,1860
+-52081,-23599,Floresta,PR,1794
+-51387,-22863,Florestópolis,PR,9382
+-51954,-23087,Flórida,PR,232
+-53313,-24293,Formosa do Oeste,PR,266
+-54588,-25548,Foz do Iguaçu,PR,7571
+-52103,-25642,Foz do Jordão,PR,1314
+-53848,-24066,Francisco Alves,PR,6696
+-53055,-26081,Francisco Beltrão,PR,6072
+-51316,-26428,General Carneiro,PR,5967
+-51924,-24177,Godoy Moreira,PR,4191
+-53028,-24185,Goioerê,PR,2288
+-51993,-25195,Goioxim,PR,3409
+-51506,-24146,Grandes Rios,PR,1312
+-54256,-24.08,Guaíra,PR,1830
+-52686,-22934,Guairaçá,PR,3676
+-50805,-25191,Guamiranga,PR,5797
+-50.04,-23516,Guapirama,PR,6361
+-52779,-23343,Guaporema,PR,4420
+-51.65,-22973,Guaraci,PR,2326
+-52878,-25101,Guaraniaçu,PR,3183
+-51458,-25395,Guarapuava,PR,2225
+-48329,-25307,Guaraqueçaba,PR,4531
+-48575,-25883,Guaratuba,PR,2929
+-52387,-26141,Honório Serpa,PR,5674
+-50188,-23849,Ibaiti,PR,4987
+-53012,-25106,Ibema,PR,8439
+-51048,-23269,Ibiporã,PR,63
+-53614,-23396,Icaraíma,PR,385
+-51828,-23197,Iguaraçu,PR,2295
+-53135,-24644,Iguatu,PR,2208
+-50761,-24445,Imbaú,PR,5125
+-50604,-25.23,Imbituva,PR,2649
+-51079,-25571,Inácio Martins,PR,5498
+-52198,-22749,Inajá,PR,1474
+-52696,-23476,Indianópolis,PR,1880
+-50584,-25024,Ipiranga,PR,1945
+-53704,-24003,Iporã,PR,9215
+-53355,-24428,Iracema do Oeste,PR,4426
+-50651,-25467,Irati,PR,7024
+-52106,-24424,Iretama,PR,8143
+-51966,-22618,Itaguajé,PR,7192
+-54302,-25137,Itaipulândia,PR,5269
+-50406,-23018,Itambaracá,PR,6074
+-51.99,-23661,Itambé,PR,7369
+-52816,-25965,Itapejara d'Oeste,PR,6248
+-49348,-25.22,Itaperuçu,PR,2684
+-52887,-22731,Itaúna do Sul,PR,3498
+-50859,-25011,Ivaí,PR,6025
+-51685,-24248,Ivaiporã,PR,5746
+-53369,-23409,Ivaté,PR,7339
+-52221,-23619,Ivatuba,PR,5986
+-50076,-23743,Jaboti,PR,3621
+-49969,-23161,Jacarezinho,PR,1366
+-51532,-23113,Jaguapitã,PR,6930
+-49706,-24251,Jaguariaíva,PR,3335
+-51643,-23603,Jandaia do Sul,PR,4516
+-52782,-24142,Janiópolis,PR,1986
+-50139,-23813,Japira,PR,2761
+-52553,-23.47,Japurá,PR,8840
+-51692,-24179,Jardim Alegre,PR,4263
+-52061,-22549,Jardim Olinda,PR,7278
+-50.98,-23254,Jataizinho,PR,5860
+-53388,-24385,Jesuítas,PR,6496
+-49905,-23499,Joaquim Távora,PR,8255
+-50248,-23437,Jundiaí do Sul,PR,6072
+-52843,-24.42,Juranda,PR,9912
+-52469,-23621,Jussara,PR,7887
+-51668,-23817,Kaloré,PR,1475
+-49716,-25.77,Lapa,PR,7953
+-52469,-24887,Laranjal,PR,1243
+-52416,-25408,Laranjeiras do Sul,PR,6085
+-50751,-23.08,Leópolis,PR,229
+-51653,-24109,Lidianópolis,PR,8116
+-53576,-25.26,Lindoeste,PR,9291
+-53137,-22923,Loanda,PR,1497
+-51951,-23008,Lobato,PR,8444
+-51163,-23.31,Londrina,PR,7039
+-52276,-24286,Luiziana,PR,6438
+-51738,-24079,Lunardelli,PR,1770
+-51657,-22755,Lupionópolis,PR,1173
+-50821,-25878,Mallet,PR,1412
+-52.53,-24319,Mamborê,PR,3299
+-52095,-23347,Mandaguaçu,PR,5522
+-51671,-23548,Mandaguari,PR,2261
+-49326,-25779,Mandirituba,PR,6264
+-53311,-26144,Manfrinópolis,PR,265
+-52176,-25941,Mangueirinha,PR,2834
+-51668,-24516,Manoel Ribas,PR,6912
+-54057,-24556,Marechal Cândido Rondon,PR,8888
+-53205,-23616,Maria Helena,PR,8480
+-51792,-23485,Marialva,PR,6349
+-51308,-23745,Marilândia do Sul,PR,1971
+-53.04,-22736,Marilena,PR,9517
+-53146,-24002,Mariluz,PR,2841
+-51939,-23425,Maringá,PR,5478
+-52559,-26355,Mariópolis,PR,5581
+-53.83,-24418,Maripá,PR,5715
+-53026,-26149,Marmeleiro,PR,1609
+-52254,-25113,Marquinho,PR,8318
+-51639,-23706,Marumbi,PR,1222
+-53996,-25241,Matelândia,PR,5073
+-48543,-25818,Matinhos,PR,2833
+-52146,-24705,Mato Rico,PR,6643
+-51229,-23901,Mauá da Serra,PR,5410
+-54094,-25295,Medianeira,PR,3344
+-54162,-24454,Mercedes,PR,8867
+-52776,-23258,Mirador,PR,9717
+-51455,-22966,Miraselva,PR,9492
+-54248,-25092,Missal,PR,9007
+-53007,-24062,Moreira Sales,PR,7616
+-48834,-25477,Morretes,PR,3212
+-51774,-23148,Munhoz de Melo,PR,4360
+-51794,-22914,Nossa Senhora das Graças,PR,4111
+-52602,-23177,Nova Aliança do Ivaí,PR,961
+-50718,-23331,Nova América da Colina,PR,3180
+-53256,-24529,Nova Aurora,PR,7002
+-52569,-24673,Nova Cantu,PR,4939
+-52205,-23184,Nova Esperança,PR,1576
+-53263,-25907,Nova Esperança do Sudoeste,PR,539
+-50564,-23432,Nova Fátima,PR,9450
+-52541,-25307,Nova Laranjeiras,PR,4814
+-52985,-22766,Nova Londrina,PR,8921
+-53089,-23472,Nova Olímpia,PR,406
+-53347,-25633,Nova Prata do Iguaçu,PR,6872
+-50724,-23597,Nova Santa Bárbara,PR,6415
+-53953,-24466,Nova Santa Rosa,PR,5064
+-51945,-24438,Nova Tebas,PR,2738
+-51507,-23764,Novo Itacolomi,PR,6932
+-50949,-24208,Ortigueira,PR,1645
+-52199,-23405,Ourizona,PR,2907
+-53903,-24805,Ouro Verde do Oeste,PR,139
+-52049,-23458,Paiçandu,PR,5375
+-51991,-26484,Palmas,PR,541
+-50006,-25429,Palmeira,PR,8382
+-52203,-24893,Palmital,PR,6804
+-53.84,-24284,Palotina,PR,1129
+-52602,-23281,Paraíso do Norte,PR,3586
+-52151,-22.93,Paranacity,PR,1896
+-48509,-25.52,Paranaguá,PR,4713
+-52098,-22634,Paranapoema,PR,2820
+-52465,-23073,Paranavaí,PR,5302
+-54225,-24626,Pato Bragado,PR,3723
+-52671,-26229,Pato Branco,PR,2589
+-50938,-26208,Paula Freitas,PR,4537
+-50836,-26.04,Paulo Frontin,PR,8829
+-52343,-23913,Peabiru,PR,9740
+-53.41,-23896,Perobal,PR,1145
+-53684,-23805,Pérola,PR,7962
+-53.74,-25824,Pérola d'Oeste,PR,9978
+-49429,-26098,Piên,PR,4346
+-49193,-25445,Pinhais,PR,6119
+-53483,-26.03,Pinhal de São Bento,PR,8366
+-50056,-23793,Pinhalão,PR,3277
+-51.66,-25696,Pinhão,PR,8831
+-49949,-24526,Piraí do Sul,PR,9356
+-49063,-25442,Piraquara,PR,1721
+-51761,-24757,Pitanga,PR,6960
+-51586,-23231,Pitangueiras,PR,1173
+-52914,-23007,Planaltina do Paraná,PR,6283
+-53766,-25716,Planalto,PR,6961
+-50162,-25095,Ponta Grossa,PR,8636
+-48511,-25674,Pontal do Paraná,PR,4424
+-51379,-22756,Porecatu,PR,9026
+-49.89,-25545,Porto Amazonas,PR,6799
+-52408,-25547,Porto Barreiro,PR,2477
+-53267,-22772,Porto Rico,PR,885
+-51232,-26161,Porto Vitória,PR,5712
+-51442,-23039,Prado Ferreira,PR,9498
+-53.74,-26.02,Pranchita,PR,1474
+-52152,-23278,Presidente Castelo Branco,PR,3750
+-51028,-22851,Primeiro de Maio,PR,8490
+-50978,-25213,Prudentópolis,PR,5948
+-53076,-24279,Quarto Centenário,PR,7801
+-49914,-23567,Quatiguá,PR,3441
+-49077,-25366,Quatro Barras,PR,4126
+-53977,-24575,Quatro Pontes,PR,7548
+-52908,-25.45,Quedas do Iguaçu,PR,5411
+-53484,-23084,Querência do Norte,PR,2434
+-52.13,-23852,Quinta do Sol,PR,2539
+-49498,-25872,Quitandinha,PR,8297
+-54025,-25.12,Ramilândia,PR,7297
+-50913,-23.07,Rancho Alegre,PR,1641
+-52954,-24307,Rancho Alegre d'Oeste,PR,7429
+-53527,-25767,Realeza,PR,5598
+-50693,-25621,Rebouças,PR,4364
+-52969,-26158,Renascença,PR,5374
+-50851,-24.65,Reserva,PR,4277
+-52028,-25839,Reserva do Iguaçu,PR,8504
+-49758,-23194,Ribeirão Claro,PR,6608
+-50357,-23408,Ribeirão do Pinhal,PR,4931
+-50796,-25733,Rio Azul,PR,9160
+-51411,-23762,Rio Bom,PR,9726
+-52526,-25491,Rio Bonito do Iguaçu,PR,5317
+-51313,-24324,Rio Branco do Ivaí,PR,8836
+-49314,-25.19,Rio Branco do Sul,PR,9614
+-49798,-26106,Rio Negro,PR,7274
+-51369,-23.31,Rolândia,PR,1504
+-52275,-24603,Roncador,PR,2375
+-52761,-23411,Rondon,PR,3355
+-51275,-24278,Rosário do Ivaí,PR,5446
+-51553,-23318,Sabáudia,PR,2948
+-53361,-26.17,Salgado Filho,PR,2686
+-49626,-23601,Salto do Itararé,PR,7590
+-53309,-25784,Salto do Lontra,PR,8468
+-50424,-23266,Santa Amélia,PR,2148
+-50784,-23517,Santa Cecília do Pavão,PR,9571
+-53297,-22953,Santa Cruz de Monte Castelo,PR,8271
+-51805,-23038,Santa Fé,PR,5909
+-54333,-24.86,Santa Helena,PR,4400
+-51903,-22638,Santa Inês,PR,7778
+-53197,-23003,Santa Isabel do Ivaí,PR,7796
+-53484,-25821,Santa Izabel do Oeste,PR,6659
+-53566,-25407,Santa Lúcia,PR,6500
+-51863,-24939,Santa Maria do Oeste,PR,4242
+-50519,-23151,Santa Mariana,PR,6856
+-53109,-23108,Santa Mônica,PR,8883
+-53633,-25052,Santa Tereza do Oeste,PR,7992
+-54488,-25362,Santa Terezinha de Itaipu,PR,9271
+-49629,-23755,Santana do Itararé,PR,8089
+-50077,-23295,Santo Antônio da Platina,PR,7844
+-52342,-22735,Santo Antônio do Caiuá,PR,8941
+-50646,-23494,Santo Antônio do Paraíso,PR,8970
+-53723,-26.07,Santo Antônio do Sudoeste,PR,3803
+-51794,-22698,Santo Inácio,PR,9639
+-52476,-23315,São Carlos do Ivaí,PR,1028
+-50741,-23728,São Jerônimo da Serra,PR,5772
+-52725,-25828,São João,PR,7352
+-52337,-22852,São João do Caiuá,PR,7648
+-51818,-23.98,São João do Ivaí,PR,2050
+-50297,-25683,São João do Triunfo,PR,6441
+-52918,-25706,São Jorge d'Oeste,PR,4869
+-52293,-23433,São Jorge do Ivaí,PR,1722
+-53927,-23741,São Jorge do Patrocínio,PR,9388
+-49652,-23916,São José da Boa Vista,PR,9469
+-54064,-24838,São José das Palmeiras,PR,6809
+-49206,-25535,São José dos Pinhais,PR,7172
+-52644,-23403,São Manoel do Paraná,PR,8113
+-50383,-25874,São Mateus do Sul,PR,2220
+-54238,-25348,São Miguel do Iguaçu,PR,6999
+-53855,-24936,São Pedro do Iguaçu,PR,1293
+-51856,-23865,São Pedro do Ivaí,PR,5772
+-53.22,-22824,São Pedro do Paraná,PR,8401
+-50761,-23465,São Sebastião da Amoreira,PR,1039
+-52591,-23538,São Tomé,PR,4388
+-50.58,-23911,Sapopema,PR,9917
+-51874,-23444,Sarandi,PR,6568
+-52619,-25694,Saudade do Iguaçu,PR,2659
+-49464,-24113,Sengés,PR,4849
+-54052,-25.38,Serranópolis do Iguaçu,PR,2363
+-50838,-23037,Sertaneja,PR,5273
+-51036,-23059,Sertanópolis,PR,4470
+-49834,-23689,Siqueira Campos,PR,1846
+-52722,-25702,Sulina,PR,2244
+-51097,-23723,Tamarana,PR,2742
+-52469,-23.2,Tamboara,PR,4756
+-52873,-23733,Tapejara,PR,8624
+-53068,-23323,Tapira,PR,8086
+-50461,-25368,Teixeira Soares,PR,9867
+-50616,-24324,Telêmaco Borba,PR,9721
+-52444,-23768,Terra Boa,PR,2699
+-52617,-22709,Terra Rica,PR,3461
+-54097,-24157,Terra Roxa,PR,1415
+-50414,-24509,Tibagi,PR,1877
+-49199,-25928,Tijucas do Sul,PR,3296
+-53743,-24714,Toledo,PR,5564
+-49.95,-23778,Tomazina,PR,7528
+-53181,-25419,Três Barras do Paraná,PR,5308
+-49086,-24974,Tunas do Paraná,PR,6942
+-52876,-23871,Tuneiras do Oeste,PR,3019
+-53512,-24588,Tupãssi,PR,7482
+-51.53,-25043,Turvo,PR,8523
+-52988,-24545,Ubiratã,PR,7947
+-53325,-23766,Umuarama,PR,4792
+-51086,-26.23,União da Vitória,PR,4526
+-52157,-23087,Uniflor,PR,2328
+-50796,-23198,Uraí,PR,6468
+-50243,-24246,Ventania,PR,6712
+-53877,-25058,Vera Cruz do Oeste,PR,3942
+-52908,-25881,Verê,PR,7575
+-53728,-23508,Vila Alta,PR,4773
+-52199,-25381,Virmond,PR,1236
+-52784,-26277,Vitorino,PR,5843
+-49803,-23874,Wenceslau Braz,PR,4989
+-53.49,-23736,Xambrê,PR,7885
+-44318,-23007,Angra dos Reis,RJ,7011
+-42103,-21621,Aperibé,RJ,1132
+-42343,-22873,Araruama,RJ,1079
+-43106,-22231,Areal,RJ,695
+-41882,-22747,Armação dos Búzios,RJ,4632
+-42028,-22966,Arraial do Cabo,RJ,9403
+-43826,-22.47,Barra do Piraí,RJ,3393
+-44171,-22544,Barra Mansa,RJ,5375
+-43399,-22764,Belford Roxo,RJ,6199
+-42419,-22152,Bom Jardim,RJ,3095
+-41.68,-21134,Bom Jesus do Itabapoana,RJ,7449
+-42019,-22879,Cabo Frio,RJ,4306
+-42653,-22463,Cachoeiras de Macacu,RJ,3534
+-41911,-21575,Cambuci,RJ,961
+-41324,-21754,Campos dos Goytacazes,RJ,4232
+-42368,-21981,Cantagalo,RJ,5137
+-41661,-22187,Carapebus,RJ,3157
+-41616,-21488,Cardoso Moreira,RJ,3067
+-42609,-21934,Carmo,RJ,4119
+-42204,-22481,Casimiro de Abreu,RJ,3966
+-43205,-22029,Comendador Levy Gasparian,RJ,7732
+-41868,-22085,Conceição de Macabu,RJ,1328
+-42361,-22029,Cordeiro,RJ,6758
+-42522,-22051,Duas Barras,RJ,8283
+-43312,-22786,Duque de Caxias,RJ,9908
+-43678,-22.55,Engenheiro Paulo de Frontin,RJ,6347
+-42982,-22537,Guapimirim,RJ,2334
+-42229,-22839,Iguaba Grande,RJ,2362
+-42859,-22744,Itaboraí,RJ,8448
+-43775,-22852,Itaguaí,RJ,6496
+-41691,-21421,Italva,RJ,4295
+-42082,-21679,Itaocara,RJ,8474
+-41888,-21205,Itaperuna,RJ,4799
+-44563,-22496,Itatiaia,RJ,3849
+-43653,-22643,Japeri,RJ,7498
+-42123,-21206,Laje do Muriaé,RJ,4948
+-41787,-22371,Macaé,RJ,7412
+-42253,-21984,Macuco,RJ,8389
+-43041,-22653,Magé,RJ,3453
+-44041,-22.96,Mangaratiba,RJ,669
+-42819,-22919,Maricá,RJ,9883
+-43733,-22527,Mendes,RJ,1455
+-43469,-22454,Miguel Pereira,RJ,9154
+-42197,-21412,Miracema,RJ,5081
+-41973,-21042,Natividade,RJ,5247
+-43414,-22808,Nilópolis,RJ,8286
+-43104,-22883,Niterói,RJ,4948
+-42531,-22282,Nova Friburgo,RJ,6117
+-43451,-22759,Nova Iguaçu,RJ,3568
+-43709,-22611,Paracambi,RJ,1109
+-43293,-22162,Paraíba do Sul,RJ,5754
+-44713,-23218,Parati,RJ,2831
+-43419,-22429,Paty do Alferes,RJ,6512
+-43179,-22505,Petrópolis,RJ,3456
+-44001,-22513,Pinheiral,RJ,7915
+-43898,-22629,Piraí,RJ,4687
+-42041,-20963,Porciúncula,RJ,5515
+-44.29,-22.42,Porto Real,RJ,9573
+-44258,-22407,Quatis,RJ,1778
+-43555,-22716,Queimados,RJ,1455
+-41472,-22107,Quissamã,RJ,8213
+-44447,-22469,Resende,RJ,9422
+-42626,-22708,Rio Bonito,RJ,6151
+-44136,-22723,Rio Claro,RJ,9781
+-43586,-22168,Rio das Flores,RJ,5349
+-41945,-22527,Rio das Ostras,RJ,9947
+-43208,-22903,Rio de Janeiro,RJ,1644
+-42008,-21955,Santa Maria Madalena,RJ,4803
+-42.18,-21539,Santo Antônio de Pádua,RJ,3426
+-41747,-21646,São Fidélis,RJ,1502
+-40961,-21302,São Francisco de Itabapoana,RJ,374
+-43054,-22827,São Gonçalo,RJ,7899
+-41051,-21.64,São João da Barra,RJ,7935
+-43372,-22804,São João de Meriti,RJ,1842
+-41943,-21358,São José de Ubá,RJ,8272
+-42924,-22151,São José do Vale do Rio Preto,RJ,9442
+-42103,-22839,São Pedro da Aldeia,RJ,130
+-42135,-21957,São Sebastião do Alto,RJ,9569
+-42914,-21995,Sapucaia,RJ,6643
+-42.51,-22.92,Saquarema,RJ,7631
+-43708,-22744,Seropédica,RJ,1797
+-42392,-22651,Silva Jardim,RJ,1598
+-42675,-22.05,Sumidouro,RJ,2959
+-42714,-22.73,Tanguá,RJ,8987
+-42966,-22412,Teresópolis,RJ,7721
+-42066,-22063,Trajano de Morais,RJ,8514
+-43209,-22117,Três Rios,RJ,7665
+-43.7,-22246,Valença,RJ,5737
+-41869,-20931,Varre-Sai,RJ,2734
+-43663,-22404,Vassouras,RJ,7474
+-44104,-22523,Volta Redonda,RJ,3749
+-36639,-6436,Acari,RN,8211
+-36909,-5577,Açu,RN,5620
+-36506,-5498,Afonso Bezerra,RN,801
+-38297,-6209,Água Nova,RN,489
+-38016,-6413,Alexandria,RN,6087
+-37766,-6152,Almino Afonso,RN,315
+-36762,-5288,Alto do Rodrigues,RN,3167
+-36601,-5666,Angicos,RN,330
+-37906,-6213,Antônio Martins,RN,1423
+-37799,-5664,Apodi,RN,2900
+-37137,-4956,Areia Branca,RN,3126
+-35.16,-6194,Arês,RN,5088
+-37.31,-5864,Augusto Severo,RN,4286
+-35008,-6369,Baía Formosa,RN,309
+-37617,-5.08,Baraúna,RN,7645
+-35926,-5951,Barcelona,RN,1116
+-35.82,-5694,Bento Fernandes,RN,8010
+-36413,-5988,Bodó,RN,9103
+-35581,-5984,Bom Jesus,RN,7590
+-35357,-6191,Brejinho,RN,7960
+-35959,-5093,Caiçara do Norte,RN,5267
+-35998,-5.76,Caiçara do Rio do Vento,RN,8497
+-37098,-6458,Caicó,RN,4867
+-36183,-6243,Campo Redondo,RN,6919
+-35129,-6.38,Canguaretama,RN,2227
+-37557,-5793,Caraúbas,RN,5461
+-36595,-6556,Carnaúba dos Dantas,RN,3485
+-36834,-5348,Carnaubais,RN,5888
+-35426,-5634,Ceará-Mirim,RN,5618
+-36346,-6046,Cerro Corá,RN,1594
+-36215,-6383,Coronel Ezequiel,RN,9430
+-38444,-6.26,Coronel João Pessoa,RN,8769
+-36.79,-6412,Cruzeta,RN,9503
+-36515,-6261,Currais Novos,RN,6504
+-38375,-6094,Doutor Severiano,RN,245
+-38306,-6111,Encanto,RN,1363
+-36718,-6945,Equador,RN,5207
+-35309,-6332,Espírito Santo,RN,8032
+-35307,-5706,Extremoz,RN,5547
+-37689,-5603,Felipe Guerra,RN,9173
+-36531,-5697,Fernando Pedroza,RN,3053
+-36818,-6127,Florânia,RN,2312
+-38119,-6078,Francisco Dantas,RN,1606
+-37.84,-6158,Frutuoso Gomes,RN,9664
+-36275,-5091,Galinhos,RN,9240
+-35.21,-6267,Goianinha,RN,1399
+-37521,-5459,Governador Dix-Sept Rosado,RN,7772
+-37155,-4.98,Grossos,RN,2839
+-36.32,-5108,Guamaré,RN,8423
+-35553,-5824,Ielmo Marinho,RN,3729
+-36855,-5498,Ipanguaçu,RN,7930
+-37199,-6814,Ipueira,RN,4618
+-36871,-5644,Itajá,RN,6475
+-37993,-5.84,Itaú,RN,2663
+-36205,-6426,Jaçanã,RN,7466
+-36128,-5356,Jandaíra,RN,5681
+-37409,-6016,Janduís,RN,6224
+-35601,-6158,Januário Cicco,RN,1868
+-35947,-6465,Japi,RN,9106
+-35969,-5654,Jardim de Angicos,RN,896
+-37352,-6379,Jardim de Piranhas,RN,1440
+-36774,-6584,Jardim do Seridó,RN,2505
+-35.82,-5538,João Câmara,RN,2132
+-37796,-6274,João Dias,RN,3851
+-38281,-6317,José da Penha,RN,1685
+-37.02,-6034,Jucurutu,RN,8447
+-35598,-6391,Lagoa d'Anta,RN,4364
+-35438,-6149,Lagoa de Pedras,RN,3485
+-35872,-6004,Lagoa de Velhos,RN,1748
+-36469,-6096,Lagoa Nova,RN,2525
+-35494,-6134,Lagoa Salgada,RN,8
+-36245,-5.7,Lajes,RN,7497
+-36117,-6.15,Lajes Pintadas,RN,3247
+-37816,-6.12,Lucrécia,RN,9175
+-38389,-6414,Luís Gomes,RN,6036
+-35354,-5858,Macaíba,RN,9048
+-36634,-5115,Macau,RN,5272
+-38324,-6406,Major Sales,RN,6935
+-38167,-6294,Marcelino Vieira,RN,6324
+-37911,-6088,Martins,RN,1731
+-35262,-5516,Maxaranguape,RN,9524
+-37514,-6079,Messias Targino,RN,4955
+-35288,-6486,Montanhas,RN,3821
+-35332,-6068,Monte Alegre,RN,3553
+-35783,-6441,Monte das Gameleiras,RN,3384
+-37344,-5188,Mossoró,RN,9819
+-35209,-5795,Natal,RN,6847
+-35209,-6091,Nísia Floresta,RN,7616
+-35434,-6478,Nova Cruz,RN,6494
+-37706,-5956,Olho-d'Água do Borges,RN,8921
+-36946,-6701,Ouro Branco,RN,5543
+-38313,-6486,Paraná,RN,4118
+-37101,-5774,Paraú,RN,8408
+-35838,-5223,Parazinho,RN,9850
+-36658,-6688,Parelhas,RN,1927
+-35263,-5916,Parnamirim,RN,2816
+-35643,-6436,Passa e Fica,RN,2466
+-35378,-6279,Passagem,RN,9496
+-37637,-6.11,Patu,RN,9480
+-38209,-6111,Pau dos Ferros,RN,697
+-35879,-5.15,Pedra Grande,RN,1486
+-36105,-5583,Pedra Preta,RN,3729
+-36388,-5522,Pedro Avelino,RN,1494
+-35221,-6439,Pedro Velho,RN,4305
+-36722,-5.26,Pendências,RN,9437
+-38043,-6269,Pilões,RN,3862
+-35663,-5623,Poço Branco,RN,7012
+-37988,-6024,Portalegre,RN,5611
+-36782,-5068,Porto do Mangue,RN,4843
+-35713,-6106,Presidente Juscelino,RN,969
+-35556,-5467,Pureza,RN,5283
+-38226,-6195,Rafael Fernandes,RN,2321
+-37717,-6076,Rafael Godeiro,RN,3820
+-37946,-5936,Riacho da Cruz,RN,5252
+-38316,-6263,Riacho de Santana,RN,5764
+-35825,-5815,Riachuelo,RN,6375
+-35383,-5273,Rio do Fogo,RN,6683
+-38.06,-5788,Rodolfo Fernandes,RN,7920
+-35935,-5881,Ruy Barbosa,RN,2782
+-36023,-6229,Santa Cruz,RN,1029
+-35695,-5.84,Santa Maria,RN,7512
+-36656,-5958,Santana do Matos,RN,4324
+-36733,-6771,Santana do Seridó,RN,6110
+-35479,-6311,Santo Antônio,RN,7897
+-36068,-5078,São Bento do Norte,RN,6077
+-36087,-6342,São Bento do Trairí,RN,227
+-37184,-6376,São Fernando,RN,1382
+-38152,-5975,São Francisco do Oeste,RN,6835
+-35329,-5793,São Gonçalo do Amarante,RN,2393
+-37201,-6718,São João do Sabugi,RN,3122
+-35238,-6075,São José de Mipibu,RN,6641
+-35714,-6316,São José do Campestre,RN,7190
+-36878,-6449,São José do Seridó,RN,383
+-38497,-6212,São Miguel,RN,2211
+-35639,-5125,São Miguel de Touros,RN,998
+-35763,-5895,São Paulo do Potengi,RN,9330
+-35634,-5898,São Pedro,RN,6588
+-36921,-5799,São Rafael,RN,2170
+-36075,-5973,São Tomé,RN,308
+-36684,-6216,São Vicente,RN,7556
+-35693,-6036,Senador Elói de Souza,RN,2548
+-35123,-6163,Senador Georgino Avelino,RN,8821
+-35704,-6417,Serra de São Bento,RN,2515
+-37029,-5.17,Serra do Mel,RN,499
+-37397,-6666,Serra Negra do Norte,RN,5972
+-35499,-6276,Serrinha,RN,3448
+-37956,-6.11,Serrinha dos Pintos,RN,3099
+-37958,-5777,Severiano Melo,RN,6083
+-35911,-6104,Sítio Novo,RN,3268
+-38045,-5.93,Taboleiro Grande,RN,811
+-35597,-5622,Taipu,RN,9830
+-35802,-6199,Tangará,RN,3475
+-38.18,-6465,Tenente Ananias,RN,6581
+-36719,-6148,Tenente Laurentino Cruz,RN,6604
+-37253,-4837,Tibau,RN,1643
+-35092,-6187,Tibau do Sul,RN,3060
+-37274,-6465,Timbaúba dos Batistas,RN,2795
+-35461,-5199,Touros,RN,8707
+-37189,-5867,Triunfo Potiguar,RN,1894
+-37814,-5991,Umarizal,RN,1417
+-37258,-5642,Upanema,RN,3341
+-35376,-6348,Várzea,RN,3024
+-38484,-6326,Venha-Ver,RN,1504
+-35428,-6044,Vera Cruz,RN,9900
+-37944,-5994,Viçosa,RN,3570
+-35077,-6314,Vila Flor,RN,9856
+-61907,-11944,Alta Floresta d'Oeste,RO,5992
+-61851,-12128,Alto Alegre dos Parecis,RO,9949
+-63321,-9713,Alto Paraíso,RO,6054
+-62389,-11408,Alvorada d'Oeste,RO,6560
+-63041,-9913,Ariquemes,RO,6197
+-63829,-10212,Buritis,RO,5045
+-60554,-13498,Cabixi,RO,9730
+-62896,-10.34,Cacaulândia,RO,5685
+-61448,-11438,Cacoal,RO,4518
+-63612,-10598,Campo Novo de Rondônia,RO,8456
+-63696,-8.81,Candeias do Jamari,RO,9319
+-61957,-11418,Castanheiras,RO,8020
+-60812,-13189,Cerejeiras,RO,338
+-60.9,-12552,Chupinguaia,RO,7088
+-60542,-13117,Colorado do Oeste,RO,6584
+-60887,-12962,Corumbiara,RO,1988
+-64227,-12445,Costa Marques,RO,9550
+-62585,-9363,Cujubim,RO,5890
+-61013,-11525,Espigão d'Oeste,RO,5846
+-62644,-10526,Governador Jorge Teixeira,RO,5032
+-65339,-10783,Guajará-Mirim,RO,2242
+-63.18,-9205,Itapuã do Oeste,RO,9186
+-62466,-10439,Jaru,RO,8335
+-61944,-10882,Ji-Paraná,RO,31
+-61981,-9444,Machadinho d'Oeste,RO,4318
+-61517,-11075,Ministro Andreazza,RO,8647
+-62675,-11.03,Mirante da Serra,RO,339
+-63324,-10295,Monte Negro,RO,4146
+-62268,-11.71,Nova Brasilândia d'Oeste,RO,4046
+-65331,-10411,Nova Mamoré,RO,93
+-62561,-10904,Nova União,RO,445
+-61995,-11696,Novo Horizonte do Oeste,RO,2527
+-62248,-10716,Ouro Preto do Oeste,RO,4037
+-61601,-12196,Parecis,RO,9894
+-61193,-11673,Pimenta Bueno,RO,817
+-61047,-13483,Pimenteiras do Oeste,RO,6880
+-63904,-8762,Porto Velho,RO,641
+-61901,-11176,Presidente Médici,RO,2799
+-61323,-11817,Primavera de Rondônia,RO,4771
+-62.9,-9705,Rio Crespo,RO,3391
+-61783,-11672,Rolim de Moura,RO,66
+-61782,-11872,Santa Luzia d'Oeste,RO,6085
+-61502,-11903,São Felipe d'Oeste,RO,4616
+-63568,-12052,São Francisco do Guaporé,RO,3371
+-62684,-11681,São Miguel do Guaporé,RO,3746
+-63031,-11798,Seringueiras,RO,9067
+-62249,-10918,Teixeirópolis,RO,9341
+-62358,-10239,Theobroma,RO,1056
+-62361,-11141,Urupá,RO,4247
+-62186,-9863,Vale do Anari,RO,9461
+-62134,-10449,Vale do Paraíso,RO,5619
+-60146,-12741,Vilhena,RO,3690
+-61498,2896,Alto Alegre,RR,470
+-61371,3652,Amajari,RR,6270
+-60673,2.82,Boa Vista,RR,616
+-59833,3.36,Bonfim,RR,3794
+-60597,2.61,Cantá,RR,6994
+-61128,1816,Caracaraí,RR,116
+-59696,884,Caroebe,RR,8553
+-61041,2182,Iracema,RR,5172
+-60.9,2.43,Mucajaí,RR,7240
+-59623,3881,Normandia,RR,1351
+-61146,4431,Pacaraima,RR,4171
+-60418,946,Rorainópolis,RR,5946
+-59911,951,São João da Baliza,RR,8724
+-60159,1005,São Luiz,RR,2693
+-60168,4596,Uiramutã,RR,1296
+-52034,-28177,Água Santa,RS,8788
+-53.24,-29645,Agudo,RS,6095
+-53771,-28239,Ajuricaba,RS,8524
+-54764,-27655,Alecrim,RS,3379
+-55792,-29783,Alegrete,RS,564
+-54057,-27827,Alegria,RS,7701
+-53035,-27249,Alpestre,RS,6579
+-52.99,-28773,Alto Alegre,RS,1463
+-51312,-29392,Alto Feliz,RS,8368
+-51084,-29.99,Alvorada,RS,6661
+-52253,-30875,Amaral Ferrador,RS,4314
+-53182,-27361,Ametista do Sul,RS,4898
+-51571,-28631,André da Rocha,RS,9847
+-52005,-28.97,Anta Gorda,RS,284
+-51283,-28858,Antônio Prado,RS,4427
+-51498,-30915,Arambaré,RS,8006
+-50925,-29614,Araricá,RS,4187
+-52.3,-27394,Aratiba,RS,5699
+-51945,-29401,Arroio do Meio,RS,160
+-49889,-29551,Arroio do Sal,RS,4157
+-53093,-29333,Arroio do Tigre,RS,3742
+-51729,-30077,Arroio dos Ratos,RS,5400
+-53087,-32238,Arroio Grande,RS,893
+-52175,-28872,Arvorezinha,RS,7046
+-53992,-28517,Augusto Pestana,RS,7909
+-52049,-27698,Áurea,RS,7990
+-54107,-31331,Bagé,RS,5755
+-50233,-30247,Balneário Pinhal,RS,4513
+-51496,-29377,Barão,RS,3935
+-52.38,-27621,Barão de Cotegipe,RS,4690
+-51734,-30388,Barão do Triunfo,RS,9578
+-53.71,-27192,Barra do Guarita,RS,7205
+-57555,-30207,Barra do Quaraí,RS,8333
+-51301,-30291,Barra do Ribeiro,RS,4526
+-52.41,-27409,Barra do Rio Azul,RS,6244
+-53039,-27923,Barra Funda,RS,411
+-51461,-27672,Barracão,RS,8654
+-52583,-29093,Barros Cassal,RS,5718
+-52598,-27.51,Benjamin Constant do Sul,RS,7485
+-51519,-29171,Bento Gonçalves,RS,9613
+-53314,-27663,Boa Vista das Missões,RS,9405
+-54.11,-27669,Boa Vista do Buricá,RS,4070
+-51676,-29351,Boa Vista do Sul,RS,2773
+-50417,-28668,Bom Jesus,RS,9713
+-51353,-29489,Bom Princípio,RS,8496
+-53866,-27544,Bom Progresso,RS,9867
+-51943,-29609,Bom Retiro do Sul,RS,6914
+-52429,-29304,Boqueirão do Leão,RS,8421
+-54.9,-28.73,Bossoroca,RS,9445
+-53739,-27614,Braga,RS,4871
+-51593,-29551,Brochier,RS,8620
+-51962,-30.12,Butiá,RS,1689
+-53491,-30512,Caçapava do Sul,RS,3572
+-54825,-29884,Cacequi,RS,814
+-52894,-30039,Cachoeira do Sul,RS,1441
+-51094,-29951,Cachoeirinha,RS,8644
+-51.66,-27.77,Cacique Doble,RS,8138
+-54638,-28288,Caibaté,RS,4661
+-53432,-27274,Caiçara,RS,1439
+-51812,-30851,Camaquã,RS,7049
+-52202,-28587,Camargo,RS,5632
+-50145,-29048,Cambará do Sul,RS,3520
+-51093,-28795,Campestre da Serra,RS,7720
+-54839,-27989,Campina das Missões,RS,8225
+-52628,-27716,Campinas do Sul,RS,1075
+-51053,-29679,Campo Bom,RS,6807
+-53803,-27675,Campo Novo,RS,9772
+-52999,-28886,Campos Borges,RS,9141
+-52789,-29669,Candelária,RS,9571
+-54752,-27952,Cândido Godói,RS,6158
+-53673,-31558,Candiota,RS,5396
+-50816,-29366,Canela,RS,51
+-52676,-31395,Canguçu,RS,2999
+-51184,-29918,Canoas,RS,1365
+-50.03,-29761,Capão da Canoa,RS,6818
+-52484,-31763,Capão do Leão,RS,2621
+-51325,-29.7,Capela de Santana,RS,3167
+-51989,-29269,Capitão,RS,1526
+-50515,-30145,Capivari do Sul,RS,1843
+-50435,-29.79,Caraá,RS,6740
+-52786,-28284,Carazinho,RS,5309
+-51504,-29298,Carlos Barbosa,RS,5794
+-51914,-27718,Carlos Gomes,RS,144
+-51978,-28561,Casca,RS,708
+-51.69,-28269,Caseiros,RS,8166
+-54012,-28.25,Catuípe,RS,7077
+-51179,-29168,Caxias do Sul,RS,1870
+-51999,-27761,Centenário,RS,9731
+-52813,-31856,Cerrito,RS,8667
+-52934,-29654,Cerro Branco,RS,4975
+-53167,-27606,Cerro Grande,RS,8777
+-51739,-30.59,Cerro Grande do Sul,RS,2425
+-54738,-28149,Cerro Largo,RS,6245
+-53068,-28055,Chapada,RS,1602
+-51625,-29955,Charqueadas,RS,2234
+-52015,-27952,Charrua,RS,3809
+-53941,-27923,Chiapetta,RS,510
+-53457,-33691,Chuí,RS,3302
+-51978,-30758,Chuvisca,RS,1609
+-50234,-30161,Cidreira,RS,4872
+-51876,-28344,Ciríaco,RS,7356
+-51.87,-29388,Colinas,RS,8074
+-52994,-28524,Colorado,RS,1520
+-53487,-28208,Condor,RS,2067
+-52992,-27735,Constantina,RS,3349
+-52783,-28119,Coqueiros do Sul,RS,8115
+-54066,-28383,Coronel Barros,RS,7028
+-53701,-27716,Coronel Bicaco,RS,1302
+-51696,-28994,Cotiporã,RS,7348
+-52296,-28127,Coxilha,RS,7642
+-54101,-27.5,Crissiumal,RS,3397
+-52.05,-31003,Cristal,RS,6523
+-53246,-27454,Cristal do Sul,RS,9240
+-53606,-28639,Cruz Alta,RS,7115
+-51985,-29513,Cruzeiro do Sul,RS,2873
+-51848,-28388,David Canabarro,RS,8672
+-53861,-27265,Derrubadas,RS,5354
+-55068,-28213,Dezesseis de Novembro,RS,5707
+-54208,-29706,Dilermando de Aguiar,RS,2982
+-51085,-29.58,Dois Irmãos,RS,6129
+-53531,-27659,Dois Irmãos das Missões,RS,551
+-51836,-28984,Dois Lajeados,RS,1683
+-52108,-30704,Dom Feliciano,RS,2071
+-54673,-30983,Dom Pedrito,RS,3277
+-49.85,-29369,Dom Pedro de Alcântara,RS,5439
+-53357,-29622,Dona Francisca,RS,7699
+-54361,-27506,Doutor Maurício Cardoso,RS,8497
+-51992,-29086,Doutor Ricardo,RS,7115
+-51616,-30084,Eldorado do Sul,RS,6982
+-51.87,-29236,Encantado,RS,4560
+-52522,-30544,Encruzilhada do Sul,RS,3106
+-52913,-27708,Engenho Velho,RS,6968
+-52733,-27528,Entre Rios do Sul,RS,2715
+-54268,-28.36,Entre-Ijuís,RS,6267
+-52302,-27855,Erebango,RS,9686
+-52274,-27634,Erechim,RS,9298
+-52573,-28499,Ernestina,RS,3951
+-52571,-27391,Erval Grande,RS,366
+-53504,-27549,Erval Seco,RS,826
+-51.19,-28054,Esmeralda,RS,1838
+-53992,-27355,Esperança do Sul,RS,3417
+-52.85,-28725,Espumoso,RS,4230
+-52.26,-27911,Estação,RS,4451
+-51174,-29648,Estância Velha,RS,3386
+-51179,-29861,Esteio,RS,9589
+-51966,-29502,Estrela,RS,7621
+-53159,-29177,Estrela Velha,RS,5470
+-54149,-28525,Eugênio de Castro,RS,6641
+-51698,-28881,Fagundes Varela,RS,5691
+-51348,-29225,Farroupilha,RS,5799
+-53445,-29575,Faxinal do Soturno,RS,2884
+-52673,-27424,Faxinalzinho,RS,2926
+-51825,-29589,Fazenda Vilanova,RS,7063
+-51306,-29451,Feliz,RS,9226
+-51182,-29029,Flores da Cunha,RS,6288
+-52084,-27861,Floriano Peixoto,RS,2292
+-52346,-28983,Fontoura Xavier,RS,8041
+-53499,-30,Formigueiro,RS,1509
+-53223,-28797,Fortaleza dos Valos,RS,76
+-53394,-27359,Frederico Westphalen,RS,3635
+-51534,-29256,Garibaldi,RS,8261
+-55639,-28184,Garruchos,RS,1885
+-52094,-27584,Gaurama,RS,7996
+-51.76,-29905,General Câmara,RS,5338
+-52036,-28.43,Gentil,RS,9778
+-52228,-27.89,Getúlio Vargas,RS,853
+-54.35,-28028,Giruá,RS,3911
+-50767,-29881,Glorinha,RS,853
+-50874,-29379,Gramado,RS,2826
+-52918,-27444,Gramado dos Loureiros,RS,1233
+-52579,-29268,Gramado Xavier,RS,5528
+-50992,-29944,Gravataí,RS,8882
+-51.69,-28541,Guabiju,RS,3195
+-51325,-30114,Guaíba,RS,3945
+-51.89,-28846,Guaporé,RS,4690
+-54558,-28141,Guarani das Missões,RS,1177
+-51426,-29548,Harmonia,RS,5708
+-53396,-32024,Herval,RS,7870
+-52653,-29407,Herveiras,RS,2367
+-54308,-27626,Horizontina,RS,4301
+-53869,-31404,Hulha Negra,RS,7513
+-53974,-27563,Humaitá,RS,1369
+-53135,-29419,Ibarama,RS,3062
+-51855,-28057,Ibiaçá,RS,1989
+-51636,-28.37,Ibiraiaras,RS,1347
+-52511,-28624,Ibirapuitã,RS,1385
+-53.09,-28628,Ibirubá,RS,5975
+-50.79,-29574,Igrejinha,RS,1847
+-53915,-28388,Ijuí,RS,5247
+-52124,-28927,Ilópolis,RS,2236
+-50128,-29975,Imbé,RS,6534
+-51777,-29355,Imigrante,RS,9321
+-54188,-27833,Independência,RS,9423
+-54017,-27883,Inhacorá,RS,9790
+-51279,-28.82,Ipê,RS,6340
+-52426,-27937,Ipiranga do Sul,RS,9793
+-53251,-27194,Iraí,RS,3872
+-53765,-29.61,Itaara,RS,8318
+-55251,-28787,Itacurubi,RS,6587
+-52172,-28.78,Itapuca,RS,6114
+-56553,-29125,Itaqui,RS,7289
+-52453,-27387,Itatiba do Sul,RS,9617
+-53581,-29.52,Ivorá,RS,3342
+-51161,-29591,Ivoti,RS,8303
+-53277,-27631,Jaboticaba,RS,6386
+-52535,-27729,Jacutinga,RS,596
+-53376,-32566,Jaguarão,RS,3400
+-54.69,-29497,Jaguari,RS,3605
+-50358,-28885,Jaquirana,RS,329
+-54224,-29291,Jari,RS,8733
+-54122,-28647,Jóia,RS,967
+-53682,-29227,Júlio de Castilhos,RS,6184
+-52858,-28571,Lagoa dos Três Cantos,RS,2660
+-51526,-28209,Lagoa Vermelha,RS,408
+-52796,-29235,Lagoão,RS,4282
+-51961,-29467,Lajeado,RS,943
+-53182,-27689,Lajeado do Bugre,RS,4356
+-53895,-30813,Lavras do Sul,RS,8333
+-53073,-27.6,Liberato Salzano,RS,9078
+-51209,-29597,Lindolfo Collor,RS,9530
+-51201,-29468,Linha Nova,RS,7305
+-56065,-29143,Maçambara,RS,1944
+-51668,-27567,Machadinho,RS,4004
+-49935,-29211,Mampituba,RS,9256
+-55483,-29589,Manoel Viana,RS,725
+-50207,-29675,Maquiné,RS,7319
+-51554,-29549,Maratá,RS,2273
+-52.2,-28449,Marau,RS,6139
+-51906,-27462,Marcelino Ramos,RS,4586
+-51583,-30353,Mariana Pimentel,RS,6876
+-52147,-27354,Mariano Moro,RS,1204
+-52093,-29328,Marques de Souza,RS,5846
+-54.46,-29566,Mata,RS,5735
+-52192,-28278,Mato Castelhano,RS,9183
+-52129,-29524,Mato Leitão,RS,8107
+-51803,-27632,Maximiliano de Almeida,RS,2746
+-52048,-30127,Minas do Leão,RS,1979
+-53686,-27494,Miraguaí,RS,8128
+-52.07,-28652,Montauri,RS,9721
+-50783,-28683,Monte Alegre dos Campos,RS,7592
+-51632,-29163,Monte Belo do Sul,RS,7512
+-51461,-29689,Montenegro,RS,4284
+-52692,-28692,Mormaço,RS,7686
+-49935,-29365,Morrinhos do Sul,RS,1877
+-52633,-31588,Morro Redondo,RS,9430
+-51081,-29538,Morro Reuter,RS,3547
+-50921,-31107,Mostardas,RS,985
+-51868,-29165,Muçum,RS,686
+-51182,-28314,Muitos Capões,RS,8203
+-51768,-28329,Muliterno,RS,5150
+-52821,-28459,Não-Me-Toque,RS,8307
+-52464,-28536,Nicolau Vergueiro,RS,167
+-52771,-27362,Nonoai,RS,1226
+-52166,-28678,Nova Alvorada,RS,9477
+-51745,-28659,Nova Araçá,RS,6551
+-51705,-28724,Nova Bassano,RS,6263
+-52979,-27994,Nova Boa Vista,RS,3437
+-52028,-29214,Nova Bréscia,RS,9565
+-54107,-27607,Nova Candelária,RS,3198
+-54829,-29.41,Nova Esperança do Sul,RS,6023
+-50902,-29583,Nova Hartz,RS,2351
+-51307,-29029,Nova Pádua,RS,260
+-53469,-29472,Nova Palma,RS,226
+-51114,-29376,Nova Petrópolis,RS,4134
+-51.61,-28784,Nova Prata,RS,7773
+-53697,-28064,Nova Ramada,RS,1354
+-51408,-28.99,Nova Roma do Sul,RS,1100
+-51274,-29857,Nova Santa Rita,RS,3479
+-53108,-27909,Novo Barreiro,RS,3659
+-52948,-29735,Novo Cabrais,RS,1826
+-51131,-29678,Novo Hamburgo,RS,4974
+-54505,-27574,Novo Machado,RS,7415
+-53182,-27563,Novo Tiradentes,RS,8268
+-50.27,-29887,Osório,RS,291
+-51761,-27711,Paim Filho,RS,5491
+-50.51,-30258,Palmares do Sul,RS,4545
+-53314,-27899,Palmeira das Missões,RS,4429
+-53555,-27355,Palmitinho,RS,8945
+-53502,-28293,Panambi,RS,4064
+-52374,-30191,Pantano Grande,RS,5651
+-51786,-28594,Paraí,RS,4333
+-53149,-29669,Paraíso do Sul,RS,5613
+-51398,-29638,Pareci Novo,RS,2789
+-50835,-29629,Parobé,RS,2114
+-52961,-29453,Passa Sete,RS,1391
+-52275,-29748,Passo do Sobrado,RS,2544
+-52407,-28263,Passo Fundo,RS,8871
+-51733,-29552,Paverama,RS,7335
+-52823,-31864,Pedro Osório,RS,1006
+-53656,-28423,Pejuçara,RS,2715
+-52343,-31772,Pelotas,RS,7986
+-51136,-29444,Picada Café,RS,7646
+-53215,-27511,Pinhal,RS,9150
+-53307,-29346,Pinhal Grande,RS,1908
+-53612,-27.21,Pinheirinho do Vale,RS,2674
+-53381,-31578,Pinheiro Machado,RS,9412
+-55199,-28045,Pirapó,RS,2210
+-53104,-31448,Piratini,RS,1524
+-53059,-27329,Planalto,RS,8415
+-51671,-29.45,Poço das Antas,RS,407
+-52677,-28059,Pontão,RS,2307
+-52488,-27654,Ponte Preta,RS,6079
+-51242,-29702,Portão,RS,30
+-51.23,-30033,Porto Alegre,RS,2054
+-55016,-27856,Porto Lucena,RS,7106
+-54668,-27575,Porto Mauá,RS,8278
+-54901,-27736,Porto Vera Cruz,RS,9507
+-55138,-27906,Porto Xavier,RS,8679
+-52208,-29171,Pouso Novo,RS,7546
+-51178,-29519,Presidente Lucena,RS,8708
+-52312,-29244,Progresso,RS,8688
+-51473,-28757,Protásio Alves,RS,4970
+-52154,-29002,Putinga,RS,6026
+-56451,-30388,Quaraí,RS,8190
+-54072,-29353,Quevedos,RS,1472
+-53095,-28742,Quinze de Novembro,RS,7820
+-53638,-27664,Redentora,RS,4575
+-52072,-29111,Relvado,RS,5246
+-53375,-29813,Restinga Seca,RS,4162
+-52841,-27.3,Rio dos Índios,RS,253
+-52099,-32035,Rio Grande,RS,6485
+-52378,-29.99,Rio Pardo,RS,1995
+-50453,-29641,Riozinho,RS,4718
+-51868,-29284,Roca Sales,RS,899
+-53169,-27471,Rodeio Bonito,RS,7132
+-50576,-29651,Rolante,RS,3660
+-52802,-27767,Ronda Alta,RS,775
+-52.91,-27828,Rondinha,RS,1086
+-55026,-28131,Roque Gonzales,RS,987
+-54914,-30258,Rosário do Sul,RS,1657
+-53136,-27707,Sagrada Família,RS,6823
+-53095,-28393,Saldanha Marinho,RS,1899
+-53213,-29088,Salto do Jacuí,RS,3625
+-54835,-28126,Salvador das Missões,RS,7600
+-51511,-29438,Salvador do Sul,RS,6020
+-51807,-27.95,Sananduva,RS,1450
+-53247,-28358,Santa Bárbara do Sul,RS,6201
+-52088,-29469,Santa Clara do Sul,RS,2823
+-52426,-29718,Santa Cruz do Sul,RS,9329
+-53807,-29684,Santa Maria,RS,3774
+-50993,-29498,Santa Maria do Herval,RS,1995
+-54481,-27871,Santa Rosa,RS,9930
+-51735,-29169,Santa Tereza,RS,7094
+-53368,-33519,Santa Vitória do Palmar,RS,5442
+-53115,-30872,Santana da Boa Vista,RS,172
+-55533,-30891,Santana do Livramento,RS,4747
+-54867,-29192,Santiago,RS,1773
+-54263,-28299,Santo Ângelo,RS,9989
+-50.52,-29818,Santo Antônio da Patrulha,RS,4364
+-55228,-28511,Santo Antônio das Missões,RS,5637
+-52025,-28497,Santo Antônio do Palma,RS,7
+-52691,-28396,Santo Antônio do Planalto,RS,7531
+-53777,-27851,Santo Augusto,RS,2977
+-54663,-27824,Santo Cristo,RS,1871
+-51645,-27908,Santo Expedito do Sul,RS,7255
+-56004,-28661,São Borja,RS,5746
+-51888,-28531,São Domingos do Sul,RS,3766
+-55131,-29.55,São Francisco de Assis,RS,422
+-50584,-29448,São Francisco de Paula,RS,8276
+-54.32,-30336,São Gabriel,RS,5428
+-51722,-29959,São Jerônimo,RS,6944
+-51828,-27.82,São João da Urtiga,RS,480
+-53446,-29614,São João do Polêsine,RS,8380
+-51703,-28499,São Jorge,RS,5332
+-53122,-27.78,São José das Missões,RS,3836
+-52296,-29044,São José do Herval,RS,2369
+-51251,-29528,São José do Hortêncio,RS,1974
+-54129,-27725,São José do Inhacorá,RS,3442
+-52042,-32015,São José do Norte,RS,9902
+-51594,-27769,São José do Ouro,RS,5437
+-50066,-28748,São José dos Ausentes,RS,9762
+-51147,-29.76,São Leopoldo,RS,9622
+-51978,-31365,São Lourenço do Sul,RS,4623
+-54961,-28408,São Luiz Gonzaga,RS,7648
+-51068,-28971,São Marcos,RS,9389
+-53969,-27707,São Martinho,RS,283
+-53855,-29538,São Martinho da Serra,RS,8327
+-54554,-28563,São Miguel das Missões,RS,7144
+-55267,-28183,São Nicolau,RS,146
+-54936,-28021,São Paulo das Missões,RS,1786
+-51513,-29421,São Pedro da Serra,RS,5413
+-54887,-28124,São Pedro do Butiá,RS,1613
+-54179,-29621,São Pedro do Sul,RS,4972
+-51376,-29587,São Sebastião do Caí,RS,5042
+-53565,-30161,São Sepé,RS,5882
+-52524,-27558,São Valentim,RS,4237
+-51765,-29047,São Valentim do Sul,RS,80
+-53937,-27787,São Valério do Sul,RS,2194
+-51377,-29369,São Vendelino,RS,463
+-54679,-29692,São Vicente do Sul,RS,3292
+-51007,-29638,Sapiranga,RS,2536
+-51144,-29839,Sapucaia do Sul,RS,226
+-52923,-27944,Sarandi,RS,7958
+-53403,-27478,Seberi,RS,9538
+-53946,-27635,Sede Nova,RS,5646
+-53012,-29269,Segredo,RS,2078
+-52953,-28629,Selbach,RS,4168
+-54543,-28031,Senador Salgado Filho,RS,7314
+-51579,-30611,Sentinela do Sul,RS,7538
+-51935,-28712,Serafina Corrêa,RS,832
+-52269,-29383,Sério,RS,7535
+-52.26,-27.98,Sertão,RS,5516
+-51603,-30.46,Sertão Santana,RS,6018
+-54463,-28131,Sete de Setembro,RS,1307
+-52116,-27433,Severiano de Almeida,RS,7669
+-53586,-29642,Silveira Martins,RS,6003
+-52522,-29539,Sinimbu,RS,9099
+-53029,-29421,Sobradinho,RS,3127
+-52.51,-28818,Soledade,RS,802
+-51682,-29643,Tabaí,RS,5384
+-52014,-28068,Tapejara,RS,5537
+-52.87,-28626,Tapera,RS,3091
+-51396,-30673,Tapes,RS,2724
+-50781,-29651,Taquara,RS,7292
+-51864,-29.8,Taquari,RS,8994
+-53467,-27.4,Taquaruçu do Sul,RS,273
+-51094,-31287,Tavares,RS,5903
+-53758,-27371,Tenente Portela,RS,6537
+-50071,-29585,Terra de Areia,RS,5272
+-51806,-29448,Teutônia,RS,7933
+-54084,-27398,Tiradentes do Sul,RS,8344
+-54228,-29478,Toropi,RS,746
+-49727,-29335,Torres,RS,7515
+-50134,-29985,Tramandaí,RS,9794
+-52055,-29294,Travesseiro,RS,8097
+-52147,-27499,Três Arroios,RS,8537
+-49924,-29456,Três Cachoeiras,RS,6997
+-50778,-29517,Três Coroas,RS,1351
+-54.24,-27773,Três de Maio,RS,1619
+-50064,-29537,Três Forquilhas,RS,3499
+-52841,-27615,Três Palmeiras,RS,9148
+-53932,-27456,Três Passos,RS,9406
+-52894,-27522,Trindade do Sul,RS,5148
+-51718,-29943,Triunfo,RS,6184
+-54.44,-27657,Tucunduva,RS,1962
+-52956,-29103,Tunas,RS,5931
+-51536,-27925,Tupanci do Sul,RS,7756
+-53836,-29081,Tupanciretã,RS,8755
+-51421,-29476,Tupandi,RS,7493
+-54482,-27756,Tuparendi,RS,9445
+-52178,-31422,Turuçu,RS,48
+-54681,-28046,Ubiretama,RS,8370
+-52037,-28795,União da Serra,RS,7179
+-55.15,-29047,Unistalda,RS,8201
+-57088,-29755,Uruguaiana,RS,9847
+-50934,-28512,Vacaria,RS,1086
+-52683,-29604,Vale do Sol,RS,3590
+-51254,-29398,Vale Real,RS,2067
+-52184,-29787,Vale Verde,RS,5628
+-51845,-28478,Vanini,RS,6234
+-52192,-29606,Venâncio Aires,RS,4192
+-52506,-29715,Vera Cruz,RS,1700
+-51549,-28936,Veranópolis,RS,1671
+-51859,-29068,Vespasiano Correa,RS,5352
+-52.02,-27569,Viadutos,RS,7713
+-51023,-30081,Viamão,RS,8048
+-53405,-27162,Vicente Dutra,RS,7683
+-52748,-28.56,Victor Graeff,RS,4728
+-51533,-28863,Vila Flores,RS,9821
+-52144,-28107,Vila Lângaro,RS,8067
+-52154,-28535,Vila Maria,RS,704
+-53883,-30344,Vila Nova do Sul,RS,975
+-53.49,-27367,Vista Alegre,RS,9178
+-51.79,-28809,Vista Alegre do Prata,RS,8686
+-53702,-27291,Vista Gaúcha,RS,9136
+-54496,-28351,Vitória das Missões,RS,8806
+-50044,-29801,Xangri-lá,RS,3078
+-51023,-27611,Abdon Batista,SC,4387
+-52328,-26565,Abelardo Luz,SC,3502
+-49826,-27412,Agrolândia,SC,8593
+-49711,-27265,Agronômica,SC,4641
+-51556,-26998,Água Doce,SC,6438
+-52987,-27.07,Águas de Chapecó,SC,3583
+-52859,-26.88,Águas Frias,SC,2039
+-48824,-27694,Águas Mornas,SC,7129
+-49334,-27.7,Alfredo Wagner,SC,3917
+-51879,-27458,Alto Bela Vista,SC,1671
+-53331,-26534,Anchieta,SC,7284
+-48985,-27569,Angelina,SC,2641
+-51.13,-27689,Anita Garibaldi,SC,3948
+-49129,-27902,Anitápolis,SC,1412
+-48768,-27517,Antônio Carlos,SC,8013
+-49.39,-27036,Apiúna,SC,9048
+-52142,-27.16,Arabutã,SC,5932
+-48722,-26.37,Araquari,SC,3770
+-49486,-28935,Araranguá,SC,519
+-49018,-28262,Armazém,SC,4530
+-51339,-26933,Arroio Trinta,SC,7924
+-52456,-27074,Arvoredo,SC,3081
+-49376,-26955,Ascurra,SC,4270
+-49781,-27.42,Atalanta,SC,6921
+-49638,-27315,Aurora,SC,5058
+-49413,-28984,Balneário Arroio do Silva,SC,6239
+-48612,-26456,Balneário Barra do Sul,SC,3801
+-48635,-26991,Balneário Camboriú,SC,2921
+-49579,-29157,Balneário Gaivota,SC,9247
+-53638,-26769,Bandeirante,SC,513
+-53.44,-26654,Barra Bonita,SC,3236
+-48685,-26632,Barra Velha,SC,3760
+-50464,-26273,Bela Vista do Toldo,SC,9548
+-53576,-26841,Belmonte,SC,3759
+-49364,-26783,Benedito Novo,SC,4372
+-48656,-27494,Biguaçu,SC,1001
+-49066,-26919,Blumenau,SC,3886
+-49944,-27744,Bocaina do Sul,SC,3218
+-49625,-28337,Bom Jardim da Serra,SC,6871
+-52394,-26734,Bom Jesus,SC,2383
+-53098,-26.69,Bom Jesus do Oeste,SC,611
+-49489,-27797,Bom Retiro,SC,2863
+-48517,-27138,Bombinhas,SC,1986
+-49075,-27199,Botuverá,SC,3710
+-49166,-28275,Braço do Norte,SC,7269
+-49886,-27358,Braço do Trombudo,SC,3476
+-50868,-27306,Brunópolis,SC,3759
+-48918,-27098,Brusque,SC,3355
+-51015,-26775,Caçador,SC,4836
+-53248,-27072,Caibi,SC,3637
+-51097,-26.6,Calmon,SC,790
+-48654,-27025,Camboriú,SC,2890
+-49266,-26193,Campo Alegre,SC,3350
+-50761,-27899,Campo Belo do Sul,SC,3253
+-53078,-26394,Campo Erê,SC,4524
+-51225,-27402,Campos Novos,SC,7392
+-48768,-27265,Canelinha,SC,3639
+-50.39,-26177,Canoinhas,SC,7879
+-50512,-27937,Capão Alto,SC,11
+-51612,-27344,Capinzal,SC,4366
+-48958,-28445,Capivari de Baixo,SC,1182
+-51662,-27071,Catanduvas,SC,9219
+-52879,-27161,Caxambu do Sul,SC,232
+-51336,-27634,Celso Ramos,SC,6312
+-50876,-27795,Cerro Negro,SC,2043
+-49554,-27591,Chapadão do Lageado,SC,8768
+-52618,-27096,Chapecó,SC,7993
+-49326,-28601,Cocal do Sul,SC,5255
+-52028,-27234,Concórdia,SC,8489
+-52607,-26984,Cordilheira Alta,SC,6210
+-52703,-26909,Coronel Freitas,SC,3785
+-52669,-26512,Coronel Martins,SC,5594
+-50361,-27585,Correia Pinto,SC,6503
+-49243,-26425,Corupá,SC,7904
+-49.37,-28678,Criciúma,SC,5654
+-53168,-26894,Cunha Porã,SC,1013
+-53093,-26969,Cunhataí,SC,7567
+-50584,-27283,Curitibanos,SC,4095
+-53502,-26826,Descanso,SC,6805
+-53.64,-26255,Dionísio Cerqueira,SC,2415
+-49726,-26985,Dona Emma,SC,5962
+-49483,-26714,Doutor Pedrinho,SC,2147
+-52561,-26724,Entre Rios,SC,5570
+-49644,-28983,Ermo,SC,2679
+-51442,-27276,Erval Velho,SC,5507
+-52.26,-26853,Faxinal dos Guedes,SC,2203
+-53347,-26778,Flor do Sertão,SC,6497
+-48549,-27597,Florianópolis,SC,2435
+-52794,-26647,Formosa do Sul,SC,35
+-49472,-28747,Forquilhinha,SC,8272
+-50921,-27026,Fraiburgo,SC,8327
+-50805,-27175,Frei Rogério,SC,2000
+-52686,-26455,Galvão,SC,175
+-48613,-28023,Garopaba,SC,1738
+-48855,-26027,Garuva,SC,1174
+-48959,-26931,Gaspar,SC,4863
+-48559,-27315,Governador Celso Ramos,SC,522
+-49215,-28185,Grão Pará,SC,3576
+-49035,-28331,Gravatal,SC,3048
+-48981,-27086,Guabiruba,SC,6997
+-53518,-26599,Guaraciaba,SC,3988
+-49003,-26473,Guaramirim,SC,942
+-53528,-26385,Guarujá do Sul,SC,9757
+-52787,-27132,Guatambú,SC,9494
+-51495,-27194,Herval d'Oeste,SC,7436
+-51237,-27181,Ibiam,SC,3985
+-51365,-27092,Ibicaré,SC,8235
+-49518,-27057,Ibirama,SC,5561
+-49.3,-28713,Içara,SC,9846
+-48827,-26.9,Ilhota,SC,5937
+-48.82,-28341,Imaruí,SC,9319
+-48.67,-28.24,Imbituba,SC,2841
+-49424,-27493,Imbuia,SC,7875
+-49232,-26898,Indaial,SC,5842
+-51242,-27004,Iomerê,SC,8343
+-51773,-27404,Ipira,SC,1738
+-53535,-26988,Iporã do Oeste,SC,9441
+-52455,-26631,Ipuaçu,SC,7890
+-52136,-27077,Ipumirim,SC,4906
+-53274,-26823,Iraceminha,SC,7787
+-51902,-27025,Irani,SC,104
+-52892,-26656,Irati,SC,5693
+-50.8,-26239,Irineópolis,SC,8124
+-52323,-27291,Itá,SC,3164
+-49906,-26336,Itaiópolis,SC,9540
+-48662,-26908,Itajaí,SC,6229
+-48611,-27.09,Itapema,SC,6492
+-53712,-27169,Itapiranga,SC,8075
+-48616,-26117,Itapoá,SC,6854
+-49601,-27414,Ituporanga,SC,6317
+-51734,-27176,Jaborá,SC,1497
+-49764,-28997,Jacinto Machado,SC,4504
+-49026,-28615,Jaguaruna,SC,2968
+-49067,-26486,Jaraguá do Sul,SC,8478
+-52.86,-26722,Jardinópolis,SC,429
+-51505,-27178,Joaçaba,SC,3037
+-48846,-26304,Joinville,SC,9645
+-49628,-26958,José Boiteux,SC,8634
+-52728,-26398,Jupiá,SC,7889
+-51556,-27.26,Lacerdópolis,SC,7752
+-50326,-27816,Lages,SC,2787
+-48781,-28483,Laguna,SC,7456
+-52567,-26858,Lajeado Grande,SC,2134
+-49733,-27217,Laurentino,SC,2189
+-49397,-28393,Lauro Muller,SC,2670
+-50695,-26929,Lebon Régis,SC,3235
+-49287,-27507,Leoberto Leal,SC,7325
+-52067,-27053,Lindóia do Sul,SC,1007
+-49542,-27166,Lontras,SC,9334
+-48933,-26721,Luiz Alves,SC,41
+-51467,-27133,Luzerna,SC,8453
+-51378,-26856,Macieira,SC,5344
+-49805,-26111,Mafra,SC,3582
+-48951,-27418,Major Gercino,SC,5356
+-50328,-26368,Major Vieira,SC,3738
+-49453,-28847,Maracajá,SC,8744
+-53173,-26761,Maravilha,SC,2384
+-52625,-26802,Marema,SC,9617
+-49008,-26611,Massaranduba,SC,7754
+-51148,-26473,Matos Costa,SC,7995
+-49636,-28829,Meleiro,SC,9357
+-50077,-27196,Mirim Doce,SC,799
+-53055,-26778,Modelo,SC,1119
+-53402,-27103,Mondaí,SC,4075
+-50.98,-27223,Monte Carlo,SC,3260
+-50231,-26462,Monte Castelo,SC,1680
+-49.21,-28651,Morro da Fumaça,SC,6599
+-49721,-28801,Morro Grande,SC,564
+-48654,-26899,Navegantes,SC,761
+-52906,-26903,Nova Erechim,SC,2991
+-52812,-26.94,Nova Itaberaba,SC,4240
+-48.93,-27286,Nova Trento,SC,1240
+-49498,-28637,Nova Veneza,SC,2720
+-52834,-26444,Novo Horizonte,SC,8341
+-49291,-28359,Orleans,SC,5959
+-50122,-27483,Otacílio Costa,SC,8718
+-51618,-27341,Ouro,SC,7888
+-52312,-26694,Ouro Verde,SC,1274
+-52498,-27252,Paial,SC,6964
+-50105,-27929,Painel,SC,7824
+-48668,-27645,Palhoça,SC,611
+-53278,-26348,Palma Sola,SC,9641
+-50159,-27583,Palmeira,SC,9606
+-53161,-27068,Palmitos,SC,2438
+-50144,-26.37,Papanduva,SC,3780
+-53672,-26614,Paraíso,SC,79
+-49724,-29316,Passo de Torres,SC,1455
+-52059,-26.78,Passos Maia,SC,6313
+-48684,-27962,Paulo Lopes,SC,2880
+-49185,-28436,Pedras Grandes,SC,7709
+-48646,-26769,Penha,SC,6399
+-51904,-27373,Peritiba,SC,5869
+-49698,-27535,Petrolândia,SC,2789
+-48672,-26764,Piçarras,SC,690
+-52992,-26848,Pinhalzinho,SC,3992
+-51231,-27051,Pinheiro Preto,SC,6219
+-51772,-27.42,Piratuba,SC,7433
+-52866,-27.07,Planalto Alegre,SC,5895
+-49177,-26741,Pomerode,SC,3835
+-50.38,-27484,Ponte Alta,SC,7066
+-50464,-27158,Ponte Alta do Norte,SC,9327
+-52016,-26872,Ponte Serrada,SC,7238
+-48553,-27158,Porto Belo,SC,8255
+-51078,-26238,Porto União,SC,3929
+-49934,-27258,Pouso Redondo,SC,8219
+-49.95,-29197,Praia Grande,SC,4033
+-51807,-27223,Presidente Castelo Branco,SC,3858
+-49623,-27051,Presidente Getúlio,SC,3845
+-49.39,-27277,Presidente Nereu,SC,6725
+-53598,-26442,Princesa,SC,5084
+-52721,-26726,Quilombo,SC,5162
+-49022,-27673,Rancho Queimado,SC,8169
+-51074,-26899,Rio das Antas,SC,3535
+-50141,-26949,Rio do Campo,SC,8334
+-49797,-27193,Rio do Oeste,SC,4964
+-49643,-27214,Rio do Sul,SC,2454
+-49274,-26738,Rio dos Cedros,SC,8670
+-49105,-28131,Rio Fortuna,SC,8037
+-49518,-26254,Rio Negrinho,SC,4469
+-49779,-27861,Rio Rufino,SC,8572
+-53322,-27067,Riqueza,SC,347
+-49366,-26923,Rodeio,SC,9590
+-53314,-26676,Romelândia,SC,2760
+-50,-26.98,Salete,SC,3115
+-53056,-26609,Saltinho,SC,2619
+-51406,-26905,Salto Veloso,SC,4260
+-49129,-28638,Sangão,SC,5545
+-50427,-26961,Santa Cecília,SC,667
+-53619,-26938,Santa Helena,SC,4986
+-49128,-28039,Santa Rosa de Lima,SC,8197
+-49.7,-29136,Santa Rosa do Sul,SC,7873
+-50008,-26779,Santa Terezinha,SC,4022
+-53202,-26619,Santa Terezinha do Progresso,SC,248
+-52685,-26639,Santiago do Sul,SC,8916
+-48779,-27688,Santo Amaro da Imperatriz,SC,7652
+-49379,-26.25,São Bento do Sul,SC,9449
+-52964,-26.47,São Bernardino,SC,7431
+-48929,-27901,São Bonifácio,SC,350
+-53004,-27078,São Carlos,SC,4161
+-50441,-27267,São Cristovão do Sul,SC,5342
+-52532,-26558,São Domingos,SC,4057
+-48638,-26243,São Francisco do Sul,SC,4880
+-48849,-27276,São João Batista,SC,3271
+-48768,-26618,São João do Itaperiú,SC,489
+-53594,-27098,São João do Oeste,SC,8679
+-49.81,-29223,São João do Sul,SC,8990
+-49932,-28294,São Joaquim,SC,3188
+-48628,-27615,São José,SC,2114
+-53494,-26455,São José do Cedro,SC,9836
+-50.58,-27663,São José do Cerrito,SC,6148
+-52851,-26359,São Lourenço do Oeste,SC,2307
+-49177,-28326,São Ludgero,SC,5326
+-48979,-28165,São Martinho,SC,5157
+-53251,-26.69,São Miguel da Boa Vista,SC,5426
+-53518,-26725,São Miguel do Oeste,SC,5783
+-48805,-27566,São Pedro de Alcântara,SC,3175
+-53003,-26924,Saudades,SC,9773
+-49073,-26413,Schroeder,SC,9605
+-52311,-27149,Seara,SC,8427
+-53042,-26729,Serra Alta,SC,8852
+-49424,-28598,Siderópolis,SC,68
+-49617,-29114,Sombrio,SC,8697
+-52965,-26736,Sul Brasil,SC,2799
+-49998,-27116,Taió,SC,7955
+-51247,-27105,Tangará,SC,474
+-53158,-26688,Tigrinhos,SC,3159
+-48634,-27241,Tijucas,SC,2092
+-49847,-28.83,Timbé do Sul,SC,9607
+-49272,-26823,Timbó,SC,2155
+-50674,-26615,Timbó Grande,SC,482
+-50322,-26106,Três Barras,SC,9709
+-49458,-28516,Treviso,SC,6153
+-49148,-28559,Treze de Maio,SC,4692
+-51406,-27002,Treze Tílias,SC,7522
+-49.79,-27299,Trombudo Central,SC,2442
+-49007,-28467,Tubarão,SC,2695
+-53639,-26969,Tunápolis,SC,9880
+-49679,-28926,Turvo,SC,4017
+-52855,-26761,União do Oeste,SC,8730
+-49592,-28015,Urubici,SC,1044
+-49873,-27953,Urupema,SC,5381
+-49321,-28518,Urussanga,SC,1119
+-52155,-26864,Vargeão,SC,2750
+-50975,-27489,Vargem,SC,1758
+-51.74,-27007,Vargem Bonita,SC,6674
+-49356,-27392,Vidal Ramos,SC,9044
+-51152,-27008,Videira,SC,3695
+-49833,-26881,Vitor Meireles,SC,315
+-49796,-26926,Witmarsum,SC,3261
+-52404,-26877,Xanxerê,SC,4321
+-52342,-27069,Xavantina,SC,4610
+-52535,-26962,Xaxim,SC,3242
+-51555,-27451,Zortéa,SC,2542
+-36.93,-10134,Amparo de São Francisco,SE,3189
+-37019,-10281,Aquidabã,SE,3607
+-37072,-10911,Aracaju,SE,2074
+-37.62,-11262,Arauá,SE,8083
+-37315,-10758,Areia Branca,SE,7020
+-37039,-10909,Barra dos Coqueiros,SE,2306
+-37621,-11147,Boquim,SE,9862
+-36466,-10429,Brejo Grande,SE,4863
+-37493,-10733,Campo do Brito,SE,1589
+-36985,-10138,Canhoba,SE,3080
+-37788,-9642,Canindé de São Francisco,SE,6331
+-37053,-10503,Capela,SE,6930
+-37701,-10361,Carira,SE,1712
+-36989,-10648,Carmópolis,SE,9210
+-36884,-10252,Cedro de São João,SE,609
+-37755,-11476,Cristinápolis,SE,7421
+-37183,-10355,Cumbe,SE,9538
+-37148,-10689,Divina Pastora,SE,7235
+-37438,-11268,Estância,SE,5440
+-37313,-10264,Feira Nova,SE,8325
+-37534,-10549,Frei Paulo,SE,8678
+-37083,-9968,Gararu,SE,5016
+-36984,-10689,General Maynard,SE,7033
+-37198,-10227,Gracho Cardoso,SE,4405
+-36.54,-10436,Ilha das Flores,SE,9131
+-37512,-11519,Indiaroba,SE,8043
+-37425,-10685,Itabaiana,SE,8781
+-37.79,-11274,Itabaianinha,SE,9609
+-37103,-10126,Itabi,SE,1161
+-37311,-10998,Itaporanga d'Ajuda,SE,3382
+-36.94,-10593,Japaratuba,SE,8065
+-36801,-10347,Japoatã,SE,8326
+-37.65,-10917,Lagarto,SE,7120
+-37.17,-10806,Laranjeiras,SE,5118
+-37541,-10666,Macambira,SE,7135
+-36924,-10349,Malhada dos Bois,SE,6728
+-37305,-10658,Malhador,SE,8657
+-37082,-10738,Maruim,SE,1054
+-37343,-10578,Moita Bonita,SE,841
+-37562,-10027,Monte Alegre de Sergipe,SE,2560
+-36959,-10427,Muribeca,SE,5279
+-36579,-10.32,Neópolis,SE,9008
+-37489,-10443,Nossa Senhora Aparecida,SE,7876
+-37.42,-10218,Nossa Senhora da Glória,SE,230
+-37193,-10492,Nossa Senhora das Dores,SE,4979
+-37058,-10079,Nossa Senhora de Lourdes,SE,4501
+-37126,-10855,Nossa Senhora do Socorro,SE,7496
+-36651,-10453,Pacatuba,SE,9396
+-37687,-10617,Pedra Mole,SE,9804
+-37674,-11192,Pedrinhas,SE,8577
+-37723,-10567,Pinhão,SE,1147
+-36856,-10738,Pirambu,SE,9658
+-37685,-9806,Poço Redondo,SE,1654
+-38183,-10708,Poço Verde,SE,4940
+-37278,-9917,Porto da Folha,SE,9067
+-36.84,-10211,Propriá,SE,7149
+-37725,-11069,Riachão do Dantas,SE,9852
+-37187,-10728,Riachuelo,SE,9834
+-37417,-10539,Ribeirópolis,SE,6403
+-37031,-10696,Rosário do Catete,SE,4691
+-37475,-11032,Salgado,SE,5879
+-37448,-11351,Santa Luzia do Itanhy,SE,2095
+-37194,-10646,Santa Rosa de Lima,SE,6055
+-36608,-10291,Santana do São Francisco,SE,4095
+-37054,-10789,Santo Amaro das Brotas,SE,9600
+-37206,-11015,São Cristóvão,SE,5131
+-37568,-10791,São Domingos,SE,989
+-36888,-10333,São Francisco,SE,1479
+-37381,-10388,São Miguel do Aleixo,SE,6166
+-37811,-10738,Simão Dias,SE,4928
+-37113,-10604,Siriri,SE,4542
+-36884,-10208,Telha,SE,6483
+-37998,-11184,Tobias Barreto,SE,7332
+-37841,-11373,Tomar do Geru,SE,9351
+-37658,-11383,Umbaúba,SE,5407
+-51073,-21685,Adamantina,SP,671
+-49644,-21235,Adolfo,SP,6847
+-46979,-22059,Aguaí,SP,3163
+-46717,-21937,Águas da Prata,SP,2791
+-46633,-22476,Águas de Lindóia,SP,1145
+-49239,-22881,Águas de Santa Bárbara,SP,3411
+-47876,-22599,Águas de São Pedro,SP,53
+-48988,-22469,Agudos,SP,1856
+-47899,-23551,Alambari,SP,9762
+-51413,-21955,Alfredo Marcondes,SP,6939
+-49059,-20524,Altair,SP,7599
+-47374,-21026,Altinópolis,SP,9127
+-50164,-21581,Alto Alegre,SP,8089
+-47262,-23535,Alumínio,SP,7957
+-49911,-20321,Álvares Florence,SP,1300
+-51472,-22079,Álvares Machado,SP,7917
+-49719,-22089,Álvaro de Carvalho,SP,8585
+-49763,-22444,Alvinlândia,SP,196
+-47331,-22739,Americana,SP,2122
+-48102,-21724,Américo Brasiliense,SP,631
+-49732,-20299,Américo de Campos,SP,1370
+-46764,-22701,Amparo,SP,3259
+-47663,-22126,Analândia,SP,5673
+-51379,-20896,Andradina,SP,5317
+-48413,-23.49,Angatuba,SP,6594
+-48127,-22789,Anhembi,SP,4548
+-51387,-22295,Anhumas,SP,4771
+-45.23,-22847,Aparecida,SP,1360
+-50.88,-20449,Aparecida d'Oeste,SP,6248
+-48843,-24509,Apiaí,SP,755
+-47061,-23439,Araçariguama,SP,6211
+-50433,-21209,Araçatuba,SP,8599
+-47614,-23505,Araçoiaba da Serra,SP,5613
+-47786,-20.09,Aramina,SP,9934
+-49054,-23134,Arandu,SP,8720
+-44448,-22674,Arapeí,SP,9518
+-48176,-21794,Araraquara,SP,9015
+-47384,-22357,Araras,SP,2120
+-50465,-21773,Arco-Íris,SP,3648
+-48911,-22029,Arealva,SP,9619
+-44697,-22.58,Areias,SP,119
+-48665,-22668,Areiópolis,SP,1509
+-48787,-21188,Ariranha,SP,1002
+-47173,-22573,Artur Nogueira,SP,5892
+-46321,-23396,Arujá,SP,5664
+-50727,-20159,Aspásia,SP,8263
+-50412,-22662,Assis,SP,9024
+-46.55,-23117,Atibaia,SP,9023
+-50555,-20686,Auriflama,SP,24
+-49333,-22147,Avaí,SP,4188
+-49.95,-21461,Avanhandava,SP,3890
+-48926,-23099,Avaré,SP,1832
+-49445,-20918,Bady Bassitt,SP,7076
+-49357,-21.9,Balbinos,SP,8164
+-49584,-20735,Bálsamo,SP,2278
+-44323,-22684,Bananal,SP,7290
+-49561,-23627,Barão de Antonina,SP,7435
+-49949,-21267,Barbosa,SP,5489
+-48.74,-22074,Bariri,SP,5017
+-48558,-22495,Barra Bonita,SP,3432
+-49025,-24473,Barra do Chapéu,SP,8032
+-48505,-24756,Barra do Turvo,SP,6385
+-48568,-20557,Barretos,SP,4893
+-48164,-21194,Barrinha,SP,8608
+-46876,-23511,Barueri,SP,6937
+-50734,-21922,Bastos,SP,6448
+-47585,-20891,Batatais,SP,1214
+-49061,-22315,Bauru,SP,5756
+-48479,-20949,Bebedouro,SP,4650
+-50812,-21271,Bento de Abreu,SP,7552
+-49474,-23013,Bernardino de Campos,SP,8936
+-46139,-23854,Bertioga,SP,892
+-50471,-21403,Bilac,SP,3308
+-50.34,-21289,Birigui,SP,3585
+-46039,-23573,Biritiba-Mirim,SP,7208
+-48391,-21993,Boa Esperança do Sul,SP,1554
+-48518,-22136,Bocaina,SP,7942
+-48258,-23102,Bofete,SP,8189
+-47672,-23283,Boituva,SP,3424
+-46465,-23135,Bom Jesus dos Perdões,SP,5835
+-49144,-24318,Bom Sucesso de Itararé,SP,633
+-50534,-22.27,Borá,SP,1978
+-48779,-22193,Boracéia,SP,8182
+-49074,-21.62,Borborema,SP,4473
+-48971,-22569,Borebi,SP,8643
+-48445,-22886,Botucatu,SP,9646
+-46542,-22952,Bragança Paulista,SP,6200
+-50316,-21499,Braúna,SP,8242
+-50185,-21166,Brejo Alegre,SP,4189
+-47659,-20991,Brodowski,SP,7231
+-48127,-22284,Brotas,SP,6012
+-48593,-23798,Buri,SP,2714
+-50147,-21066,Buritama,SP,7366
+-47708,-20191,Buritizal,SP,9197
+-49338,-22456,Cabrália Paulista,SP,8307
+-47133,-23308,Cabreúva,SP,1056
+-45707,-23101,Caçapava,SP,2505
+-45009,-22665,Cachoeira Paulista,SP,4170
+-46644,-21529,Caconde,SP,8920
+-49.61,-21803,Cafelândia,SP,822
+-51236,-22012,Caiabu,SP,9564
+-46741,-23364,Caieiras,SP,9511
+-51998,-21832,Caiuá,SP,8560
+-46877,-23356,Cajamar,SP,4635
+-48123,-24736,Cajati,SP,408
+-48809,-20.88,Cajobi,SP,1083
+-47304,-21275,Cajuru,SP,5648
+-48477,-23592,Campina do Monte Alegre,SP,3838
+-47061,-22906,Campinas,SP,3881
+-46784,-23206,Campo Limpo Paulista,SP,4268
+-45591,-22739,Campos do Jordão,SP,8768
+-50003,-22603,Campos Novos Paulista,SP,1458
+-47927,-25015,Cananéia,SP,1336
+-45055,-22704,Canas,SP,4272
+-50387,-22746,Cândido Mota,SP,7586
+-48631,-21325,Cândido Rodrigues,SP,9888
+-49783,-23006,Canitar,SP,5437
+-48349,-24006,Capão Bonito,SP,9472
+-47735,-23471,Capela do Alto,SP,1020
+-47508,-22995,Capivari,SP,9620
+-45413,-23.62,Caraguatatuba,SP,2250
+-46836,-23523,Carapicuíba,SP,4890
+-49914,-20082,Cardoso,SP,9208
+-47086,-21774,Casa Branca,SP,9
+-47.17,-21283,Cássia dos Coqueiros,SP,56
+-51488,-20872,Castilho,SP,5221
+-48973,-21138,Catanduva,SP,2622
+-49058,-21049,Catiguá,SP,6920
+-49268,-20903,Cedral,SP,8694
+-49166,-23036,Cerqueira César,SP,5441
+-47744,-23165,Cerquilho,SP,1406
+-47953,-23227,Cesário Lange,SP,9463
+-47778,-22.51,Charqueada,SP,6021
+-49709,-23039,Chavantes,SP,7476
+-50449,-21.56,Clementina,SP,1130
+-48541,-20713,Colina,SP,1244
+-48689,-20176,Colômbia,SP,6512
+-47173,-22.33,Conchal,SP,1394
+-48011,-23015,Conchas,SP,7160
+-47457,-22482,Cordeirópolis,SP,6347
+-50281,-21352,Coroados,SP,4216
+-49314,-23631,Coronel Macedo,SP,9808
+-47626,-22.22,Corumbataí,SP,9474
+-47196,-22646,Cosmópolis,SP,5147
+-49778,-20478,Cosmorama,SP,7582
+-46919,-23604,Cotia,SP,1252
+-47729,-21.34,Cravinhos,SP,2500
+-47.42,-20397,Cristais Paulista,SP,7596
+-50794,-22736,Cruzália,SP,2393
+-44963,-22576,Cruzeiro,SP,6421
+-46425,-23895,Cubatão,SP,3382
+-44.96,-23074,Cunha,SP,8581
+-47619,-21904,Descalvado,SP,1290
+-46623,-23686,Diadema,SP,3333
+-50606,-20466,Dirce Reis,SP,3727
+-46739,-21661,Divinolândia,SP,374
+-48394,-21517,Dobrada,SP,9904
+-48.38,-22366,Dois Córregos,SP,8021
+-50513,-20123,Dolcinópolis,SP,6715
+-48318,-22.1,Dourado,SP,31
+-51533,-21483,Dracena,SP,5132
+-49404,-22414,Duartina,SP,439
+-47973,-21236,Dumont,SP,6649
+-50201,-22429,Echaporã,SP,7430
+-48108,-24.52,Eldorado,SP,2163
+-47374,-23043,Elias Fausto,SP,3815
+-49112,-21166,Elisiário,SP,7017
+-48836,-20983,Embaúba,SP,8514
+-46852,-23649,Embu,SP,8668
+-46811,-23832,Embu-Guaçu,SP,7813
+-51483,-21833,Emilianópolis,SP,1021
+-47215,-22488,Engenheiro Coelho,SP,8372
+-46741,-22191,Espírito Santo do Pinhal,SP,5988
+-49.43,-22692,Espírito Santo do Turvo,SP,2598
+-46945,-22271,Estiva Gerbi,SP,7431
+-50401,-20288,Estrela d'Oeste,SP,5288
+-51.66,-22488,Estrela do Norte,SP,9378
+-52.59,-22561,Euclides da Cunha Paulista,SP,1247
+-49.51,-23388,Fartura,SP,1790
+-48685,-21264,Fernando Prestes,SP,1762
+-50246,-20284,Fernandópolis,SP,9927
+-49521,-22359,Fernão,SP,4615
+-46369,-23541,Ferraz de Vasconcelos,SP,1864
+-51384,-21676,Flora Rica,SP,3087
+-50145,-20677,Floreal,SP,5954
+-51174,-21615,Flórida Paulista,SP,2351
+-50738,-22903,Florínia,SP,5341
+-47401,-20539,Franca,SP,488
+-46745,-23282,Francisco Morato,SP,1149
+-46727,-23322,Franco da Rocha,SP,8805
+-50555,-21531,Gabriel Monteiro,SP,7951
+-49553,-22291,Gália,SP,7275
+-49656,-22211,Garça,SP,7443
+-50187,-20799,Gastão Vidigal,SP,9552
+-48495,-21839,Gavião Peixoto,SP,1942
+-50361,-20648,General Salgado,SP,9252
+-49929,-21799,Getulina,SP,2088
+-50211,-21384,Glicério,SP,2410
+-49799,-21622,Guaiçara,SP,5070
+-49897,-21.91,Guaimbê,SP,8060
+-48311,-20318,Guaíra,SP,1334
+-49.22,-20795,Guapiaçu,SP,6357
+-48533,-24185,Guapiara,SP,7460
+-47824,-20428,Guará,SP,4798
+-51207,-21028,Guaraçaí,SP,3750
+-48945,-20499,Guaraci,SP,2537
+-50339,-20075,Guarani d'Oeste,SP,8839
+-49.59,-21895,Guarantã,SP,8395
+-50643,-21261,Guararapes,SP,7476
+-46035,-23415,Guararema,SP,8987
+-45193,-22816,Guaratinguetá,SP,4641
+-48184,-23373,Guareí,SP,1409
+-48228,-21.36,Guariba,SP,8260
+-46256,-23993,Guarujá,SP,1784
+-46533,-23463,Guarulhos,SP,7406
+-48038,-21497,Guatapará,SP,893
+-50662,-20.65,Guzolândia,SP,3255
+-50385,-22004,Herculândia,SP,9447
+-47056,-22633,Holambra,SP,4827
+-47.22,-22858,Hortolândia,SP,2972
+-49025,-21.89,Iacanga,SP,4515
+-50689,-21858,Iacri,SP,6953
+-49163,-22871,Iaras,SP,4647
+-47997,-21955,Ibaté,SP,39
+-49241,-21.08,Ibirá,SP,1314
+-50073,-22818,Ibirarema,SP,2758
+-48829,-21758,Ibitinga,SP,9205
+-47223,-23656,Ibiúna,SP,7862
+-49195,-20342,Icém,SP,5366
+-51076,-22661,Iepê,SP,3475
+-48558,-22509,Igaraçu do Tietê,SP,3490
+-47747,-20038,Igarapava,SP,7311
+-46156,-23204,Igaratá,SP,1914
+-47555,-24708,Iguape,SP,7000
+-47.54,-24741,Ilha Comprida,SP,3573
+-51343,-20433,Ilha Solteira,SP,6947
+-45358,-23778,Ilhabela,SP,168
+-47218,-23.09,Indaiatuba,SP,2402
+-51252,-22174,Indiana,SP,3058
+-50.29,-19.98,Indiaporã,SP,6290
+-50962,-21.77,Inúbia Paulista,SP,4780
+-49626,-23057,Ipaussu,SP,205
+-47689,-23.35,Iperó,SP,6206
+-47719,-22436,Ipeúna,SP,2994
+-49387,-20657,Ipiguá,SP,6376
+-48593,-24586,Iporanga,SP,6582
+-48012,-20438,Ipuã,SP,3749
+-47519,-22581,Iracemápolis,SP,1106
+-49409,-21279,Irapuã,SP,6284
+-51345,-21571,Irapuru,SP,6837
+-49137,-23862,Itaberá,SP,4879
+-49091,-23418,Itaí,SP,7953
+-49054,-21318,Itajobi,SP,9134
+-48805,-21981,Itaju,SP,5899
+-46789,-24183,Itanhaém,SP,7824
+-48843,-24.64,Itaóca,SP,3998
+-46849,-23717,Itapecerica da Serra,SP,4920
+-48053,-23592,Itapetininga,SP,5844
+-48876,-23982,Itapeva,SP,5048
+-46934,-23549,Itapevi,SP,4486
+-46822,-22436,Itapira,SP,9483
+-49168,-24574,Itapirapuã Paulista,SP,6226
+-48813,-21596,Itápolis,SP,2243
+-49.49,-23708,Itaporanga,SP,9955
+-48719,-22233,Itapuí,SP,5320
+-51509,-20646,Itapura,SP,4041
+-46348,-23486,Itaquaquecetuba,SP,7376
+-49341,-24115,Itararé,SP,9955
+-47174,-24289,Itariri,SP,89
+-46839,-23006,Itatiba,SP,6890
+-48616,-23102,Itatinga,SP,8814
+-47823,-22253,Itirapina,SP,3153
+-47219,-20641,Itirapuã,SP,5699
+-46975,-21737,Itobi,SP,5287
+-47299,-23264,Itu,SP,3718
+-47058,-23153,Itupeva,SP,6195
+-47781,-20339,Ituverava,SP,1652
+-48413,-20688,Jaborandi,SP,335
+-48322,-21255,Jaboticabal,SP,750
+-45966,-23305,Jacareí,SP,4770
+-49.57,-20882,Jaci,SP,8879
+-48002,-24693,Jacupiranga,SP,7724
+-46986,-22706,Jaguariúna,SP,8996
+-50546,-20269,Jales,SP,4623
+-45688,-23254,Jambeiro,SP,1341
+-46903,-23528,Jandira,SP,909
+-47764,-21018,Jardinópolis,SP,9169
+-46728,-23101,Jarinu,SP,3944
+-48558,-22296,Jaú,SP,9733
+-47589,-20311,Jeriquara,SP,2861
+-46276,-22.93,Joanópolis,SP,7737
+-50768,-22.25,João Ramalho,SP,7795
+-49688,-21053,José Bonifácio,SP,4542
+-49787,-22009,Júlio Mesquita,SP,6120
+-47784,-23087,Jumirim,SP,4824
+-46884,-23186,Jundiaí,SP,1330
+-51434,-21515,Junqueirópolis,SP,6882
+-47635,-24321,Juquiá,SP,8154
+-47068,-23932,Juquitiba,SP,7716
+-45.19,-23091,Lagoinha,SP,905
+-47837,-23.05,Laranjal Paulista,SP,2416
+-51.04,-21168,Lavínia,SP,837
+-44902,-22571,Lavrinhas,SP,2701
+-47.39,-22186,Leme,SP,9705
+-48.8,-22599,Lençóis Paulista,SP,9904
+-47402,-22565,Limeira,SP,5274
+-46.65,-22523,Lindóia,SP,2129
+-49743,-21679,Lins,SP,9347
+-45125,-22731,Lorena,SP,5771
+-50224,-20967,Lourdes,SP,7309
+-46951,-23086,Louveira,SP,6639
+-51019,-21.72,Lucélia,SP,4903
+-49523,-22431,Lucianópolis,SP,847
+-47704,-21555,Luís Antônio,SP,2648
+-50327,-21676,Luiziânia,SP,1841
+-49817,-22415,Lupércio,SP,8283
+-50392,-22.34,Lutécia,SP,9104
+-48711,-22502,Macatuba,SP,7867
+-49964,-20806,Macaubal,SP,8945
+-50194,-20146,Macedônia,SP,7692
+-50226,-20644,Magda,SP,6673
+-47183,-23546,Mairinque,SP,9639
+-46587,-23319,Mairiporã,SP,6848
+-49322,-23003,Manduri,SP,9316
+-51963,-22108,Marabá Paulista,SP,5786
+-50667,-22611,Maracaí,SP,8334
+-49129,-21259,Marapoama,SP,4007
+-51181,-21799,Mariápolis,SP,8232
+-49946,-22214,Marília,SP,7760
+-50823,-20441,Marinópolis,SP,2183
+-51171,-22146,Martinópolis,SP,4738
+-48366,-21603,Matão,SP,3747
+-46461,-23668,Mauá,SP,7454
+-49581,-21167,Mendonça,SP,7988
+-50173,-20359,Meridiano,SP,6424
+-50638,-19966,Mesópolis,SP,543
+-48032,-20179,Miguelópolis,SP,7237
+-48451,-22409,Mineiros do Tietê,SP,6980
+-50137,-19979,Mira Estrela,SP,4104
+-47.46,-24281,Miracatu,SP,7389
+-51102,-21134,Mirandópolis,SP,1124
+-51906,-22292,Mirante do Paranapanema,SP,982
+-49521,-20819,Mirassol,SP,5031
+-49464,-20617,Mirassolândia,SP,5780
+-47005,-21468,Mococa,SP,2491
+-46942,-22372,Mogi Guaçu,SP,9411
+-46188,-23523,Moji das Cruzes,SP,1158
+-46958,-22432,Moji-Mirim,SP,9853
+-47566,-22929,Mombuca,SP,5492
+-50092,-20.85,Monções,SP,5820
+-46629,-24087,Mongaguá,SP,8858
+-46681,-22682,Monte Alegre do Sul,SP,1114
+-48496,-21261,Monte Alto,SP,6401
+-49714,-20773,Monte Aprazível,SP,6641
+-48641,-20907,Monte Azul Paulista,SP,7936
+-51569,-21299,Monte Castelo,SP,6015
+-47316,-22947,Monte Mor,SP,9423
+-45.84,-22957,Monteiro Lobato,SP,1191
+-48058,-20731,Morro Agudo,SP,4398
+-46792,-22.88,Morungaba,SP,3904
+-48151,-21508,Motuca,SP,4775
+-51278,-20993,Murutinga do Sul,SP,906
+-51237,-22621,Nantes,SP,4642
+-51524,-22407,Narandiba,SP,3517
+-45442,-23376,Natividade da Serra,SP,5347
+-46395,-23181,Nazaré Paulista,SP,1904
+-49.63,-20846,Neves Paulista,SP,262
+-50038,-20694,Nhandeara,SP,9112
+-49778,-20913,Nipoã,SP,5752
+-49496,-21016,Nova Aliança,SP,9501
+-48904,-24121,Nova Campina,SP,3150
+-50949,-20386,Nova Canaã Paulista,SP,1942
+-50343,-20763,Nova Castilho,SP,3736
+-48561,-21778,Nova Europa,SP,8636
+-49314,-20534,Nova Granada,SP,6612
+-51644,-21334,Nova Guataporanga,SP,5183
+-51.49,-21104,Nova Independência,SP,184
+-50262,-20856,Nova Luzitânia,SP,335
+-47296,-22778,Nova Odessa,SP,9816
+-48919,-20992,Novais,SP,6399
+-49221,-21468,Novo Horizonte,SP,7987
+-47731,-20731,Nuporanga,SP,9157
+-49923,-22439,Ocauçu,SP,4669
+-49342,-22941,Óleo,SP,4948
+-48915,-20737,Olímpia,SP,4898
+-49295,-20.6,Onda Verde,SP,4363
+-50091,-22153,Oriente,SP,2488
+-49351,-20182,Orindiúva,SP,9332
+-47887,-20.72,Orlândia,SP,6165
+-46792,-23533,Osasco,SP,6770
+-50281,-22318,Oscar Bressane,SP,1498
+-50879,-21797,Osvaldo Cruz,SP,4785
+-49871,-22979,Ourinhos,SP,2546
+-51.7,-21489,Ouro Verde,SP,9214
+-50372,-20001,Ouroeste,SP,7445
+-51261,-21562,Pacaembu,SP,7273
+-49433,-20.39,Palestina,SP,7317
+-48801,-21083,Palmares Paulista,SP,6650
+-50762,-20416,Palmeira d'Oeste,SP,7707
+-50218,-22789,Palmital,SP,3725
+-51.86,-21356,Panorama,SP,8328
+-50576,-22413,Paraguaçu Paulista,SP,4468
+-45662,-23386,Paraibuna,SP,9445
+-48774,-21016,Paraíso,SP,9264
+-48723,-23389,Paranapanema,SP,6475
+-50586,-20103,Paranapuã,SP,6769
+-50793,-21783,Parapuã,SP,4581
+-48374,-23081,Pardinho,SP,3583
+-47881,-24715,Pariquera-Açu,SP,2137
+-50015,-20304,Parisi,SP,8466
+-47282,-20639,Patrocínio Paulista,SP,4102
+-51831,-21318,Paulicéia,SP,9117
+-47154,-22761,Paulínia,SP,7546
+-49403,-22578,Paulistânia,SP,1373
+-49383,-20031,Paulo de Faria,SP,8621
+-48775,-22352,Pederneiras,SP,5660
+-46443,-22793,Pedra Bela,SP,6496
+-50.11,-20248,Pedranópolis,SP,4869
+-47477,-20257,Pedregulho,SP,5447
+-46901,-22742,Pedreira,SP,3573
+-50794,-22815,Pedrinhas Paulista,SP,5946
+-47233,-24275,Pedro de Toledo,SP,9253
+-50078,-21.42,Penápolis,SP,2757
+-51109,-20638,Pereira Barreto,SP,5833
+-47976,-23076,Pereiras,SP,4603
+-46998,-24.32,Peruíbe,SP,4295
+-50599,-21592,Piacatu,SP,1795
+-47428,-23712,Piedade,SP,8759
+-47716,-23813,Pilar do Sul,SP,5791
+-45462,-22924,Pindamonhangaba,SP,3646
+-48907,-21186,Pindorama,SP,6752
+-46591,-22779,Pinhalzinho,SP,4227
+-51729,-21868,Piquerobi,SP,350
+-45176,-22614,Piquete,SP,1668
+-46358,-23054,Piracaia,SP,1755
+-47649,-22725,Piracicaba,SP,738
+-49384,-23194,Piraju,SP,6620
+-49457,-21999,Pirajuí,SP,2488
+-48658,-21091,Pirangi,SP,5432
+-47002,-23397,Pirapora do Bom Jesus,SP,5158
+-51.5,-22275,Pirapozinho,SP,5300
+-47426,-21996,Pirassununga,SP,5211
+-49135,-22413,Piratininga,SP,7417
+-48222,-21009,Pitangueiras,SP,8804
+-49929,-21034,Planalto,SP,336
+-50204,-22638,Platina,SP,2014
+-46345,-23528,Poá,SP,745
+-49824,-20785,Poloni,SP,7618
+-50172,-22109,Pompéia,SP,9268
+-49367,-21736,Pongaí,SP,9642
+-48037,-21023,Pontal,SP,3027
+-50523,-20441,Pontalinda,SP,7763
+-49703,-20167,Pontes Gestal,SP,1890
+-50538,-19954,Populina,SP,4937
+-48125,-23176,Porangaba,SP,3407
+-47524,-23215,Porto Feliz,SP,2887
+-47479,-21854,Porto Ferreira,SP,2373
+-45251,-22843,Potim,SP,9951
+-49377,-21043,Potirendaba,SP,512
+-51087,-21851,Pracinha,SP,8522
+-48066,-21359,Pradópolis,SP,9635
+-46403,-24006,Praia Grande,SP,3737
+-48666,-22808,Pratânia,SP,4955
+-49438,-22.1,Presidente Alves,SP,5980
+-51553,-22006,Presidente Bernardes,SP,6540
+-52116,-21763,Presidente Epitácio,SP,9692
+-51389,-22126,Presidente Prudente,SP,5832
+-51844,-21876,Presidente Venceslau,SP,3667
+-49858,-21537,Promissão,SP,6405
+-48055,-23299,Quadra,SP,2235
+-50698,-22248,Quatá,SP,3012
+-50.24,-21799,Queiroz,SP,1959
+-44774,-22537,Queluz,SP,6061
+-50308,-22073,Quintana,SP,5515
+-47527,-23012,Rafard,SP,708
+-50893,-22229,Rancharia,SP,9424
+-45537,-23267,Redenção da Serra,SP,8085
+-51303,-22221,Regente Feijó,SP,4937
+-49225,-21888,Reginópolis,SP,6755
+-47844,-24488,Registro,SP,7340
+-47483,-20603,Restinga,SP,8481
+-49009,-24657,Ribeira,SP,3553
+-48176,-22067,Ribeirão Bonito,SP,6182
+-48766,-24221,Ribeirão Branco,SP,5558
+-47.59,-20457,Ribeirão Corrente,SP,1369
+-49934,-22784,Ribeirão do Sul,SP,6512
+-51604,-21837,Ribeirão dos Índios,SP,5981
+-48365,-24099,Ribeirão Grande,SP,9090
+-46413,-23711,Ribeirão Pires,SP,6672
+-47.81,-21178,Ribeirão Preto,SP,1626
+-47421,-20081,Rifaina,SP,8679
+-48071,-21587,Rincão,SP,9305
+-50722,-21726,Rinópolis,SP,5745
+-47561,-22411,Rio Claro,SP,7227
+-47606,-22843,Rio das Pedras,SP,117
+-46398,-23744,Rio Grande da Serra,SP,8502
+-49681,-19.99,Riolândia,SP,2954
+-49429,-23828,Riversul,SP,6772
+-53059,-22.58,Rosana,SP,4406
+-45305,-22898,Roseira,SP,3105
+-50727,-21301,Rubiácea,SP,5736
+-51002,-20179,Rubinéia,SP,4527
+-49578,-21.46,Sabino,SP,7381
+-50956,-21884,Sagres,SP,6586
+-49485,-21341,Sales,SP,2638
+-47838,-20772,Sales Oliveira,SP,1243
+-45846,-23532,Salesópolis,SP,6071
+-50861,-21624,Salmourão,SP,118
+-47677,-22847,Saltinho,SP,5777
+-47287,-23201,Salto,SP,6339
+-47573,-23649,Salto de Pirapora,SP,1322
+-49986,-22893,Salto Grande,SP,5137
+-51763,-22456,Sandovalina,SP,1660
+-48804,-21243,Santa Adélia,SP,5520
+-50728,-20032,Santa Albertina,SP,8752
+-47414,-22754,Santa Bárbara d'Oeste,SP,8295
+-45884,-23397,Santa Branca,SP,417
+-50954,-20089,Santa Clara d'Oeste,SP,5669
+-47452,-22.14,Santa Cruz da Conceição,SP,2342
+-47.43,-21291,Santa Cruz da Esperança,SP,5194
+-47249,-21827,Santa Cruz das Palmeiras,SP,9435
+-49633,-22899,Santa Cruz do Rio Pardo,SP,3240
+-48391,-21463,Santa Ernestina,SP,862
+-50926,-20211,Santa Fé do Sul,SP,5739
+-47.53,-22457,Santa Gertrudes,SP,1268
+-46221,-23316,Santa Isabel,SP,982
+-48084,-21685,Santa Lúcia,SP,4049
+-48161,-22567,Santa Maria da Serra,SP,9531
+-51755,-21351,Santa Mercedes,SP,1523
+-50833,-20143,Santa Rita d'Oeste,SP,8767
+-47478,-21.71,Santa Rita do Passa Quatro,SP,6035
+-47363,-21473,Santa Rosa de Viterbo,SP,186
+-50688,-20245,Santa Salete,SP,1242
+-50797,-20253,Santana da Ponte Pensa,SP,1727
+-46918,-23444,Santana de Parnaíba,SP,7452
+-51652,-21977,Santo Anastácio,SP,540
+-46538,-23664,Santo André,SP,8807
+-47151,-21087,Santo Antônio da Alegria,SP,6577
+-46919,-22606,Santo Antônio de Posse,SP,4025
+-50496,-20937,Santo Antônio do Aracanguá,SP,141
+-46.68,-22116,Santo Antônio do Jardim,SP,1614
+-45663,-22827,Santo Antônio do Pinhal,SP,316
+-51392,-21851,Santo Expedito,SP,927
+-50.5,-21638,Santópolis do Aguapeí,SP,6673
+-46334,-23961,Santos,SP,1978
+-45731,-22689,São Bento do Sapucaí,SP,5462
+-46565,-23694,São Bernardo do Campo,SP,4206
+-46551,-23623,São Caetano do Sul,SP,1141
+-47891,-22018,São Carlos,SP,6814
+-50697,-20359,São Francisco,SP,7932
+-46798,-21969,São João da Boa Vista,SP,185
+-50378,-20389,São João das Duas Pontes,SP,908
+-50352,-20513,São João de Iracema,SP,3791
+-51666,-21268,São João do Pau d'Alho,SP,126
+-47855,-20581,São Joaquim da Barra,SP,6819
+-47.64,-20593,São José da Bela Vista,SP,6606
+-44578,-22645,São José do Barreiro,SP,1637
+-46889,-21596,São José do Rio Pardo,SP,2415
+-49379,-20.82,São José do Rio Preto,SP,11
+-45887,-23179,São José dos Campos,SP,4130
+-46943,-23853,São Lourenço da Serra,SP,314
+-45.31,-23222,São Luís do Paraitinga,SP,4592
+-48571,-22731,São Manuel,SP,9268
+-47997,-23878,São Miguel Arcanjo,SP,2608
+-46636,-23548,São Paulo,SP,5070
+-47914,-22549,São Pedro,SP,1175
+-49.74,-22747,São Pedro do Turvo,SP,4252
+-47135,-23529,São Roque,SP,6349
+-45.41,-23.76,São Sebastião,SP,1775
+-46821,-21711,São Sebastião da Grama,SP,9073
+-47551,-21479,São Simão,SP,2076
+-46392,-23963,São Vicente,SP,3929
+-47825,-23641,Sarapuí,SP,6982
+-49.48,-23273,Sarutaiá,SP,9580
+-49921,-20655,Sebastianópolis do Sul,SP,1418
+-47566,-21311,Serra Azul,SP,4353
+-46701,-22612,Serra Negra,SP,1712
+-47596,-21211,Serrana,SP,9072
+-47.99,-21138,Sertãozinho,SP,857
+-47926,-24388,Sete Barras,SP,5906
+-48803,-20809,Severínia,SP,8872
+-44853,-22664,Silveiras,SP,6920
+-46529,-22591,Socorro,SP,1588
+-47458,-23502,Sorocaba,SP,8575
+-50924,-20691,Sud Mennucci,SP,3373
+-47267,-22822,Sumaré,SP,1592
+-51025,-20501,Suzanápolis,SP,3377
+-46311,-23543,Suzano,SP,5653
+-49032,-20964,Tabapuã,SP,9298
+-48688,-21717,Tabatinga,SP,3896
+-46753,-23602,Taboão da Serra,SP,4675
+-51285,-22.39,Taciba,SP,5890
+-49409,-23452,Taguaí,SP,5936
+-48513,-21144,Taiaçu,SP,1167
+-48452,-21124,Taiúva,SP,2500
+-47274,-21705,Tambaú,SP,6159
+-49649,-20626,Tanabi,SP,2124
+-47507,-23964,Tapiraí,SP,3035
+-46749,-21468,Tapiratiba,SP,9770
+-48.41,-21072,Taquaral,SP,7534
+-48505,-21406,Taquaritinga,SP,3653
+-49244,-23533,Taquarituba,SP,1886
+-48693,-23924,Taquarivaí,SP,9590
+-51559,-22303,Tarabai,SP,2741
+-50577,-22747,Tarumã,SP,637
+-47857,-23356,Tatuí,SP,5030
+-45555,-23026,Taubaté,SP,8294
+-49376,-23343,Tejupá,SP,1672
+-52168,-22533,Teodoro Sampaio,SP,3116
+-48.33,-20789,Terra Roxa,SP,330
+-47715,-23102,Tietê,SP,6115
+-49607,-23205,Timburi,SP,412
+-48195,-23244,Torre de Pedra,SP,9144
+-48169,-22426,Torrinha,SP,9129
+-48336,-22042,Trabiju,SP,3791
+-45549,-22958,Tremembé,SP,7325
+-50.89,-20235,Três Fronteiras,SP,895
+-46694,-22816,Tuiuti,SP,1438
+-50514,-21935,Tupã,SP,5306
+-51571,-21381,Tupi Paulista,SP,9291
+-50108,-20933,Turiúba,SP,5317
+-50476,-20052,Turmalina,SP,8075
+-49718,-21166,Ubarana,SP,524
+-45071,-23434,Ubatuba,SP,1114
+-49663,-22527,Ubirajara,SP,1283
+-49175,-20953,Uchoa,SP,6829
+-49897,-20887,União Paulista,SP,2403
+-50643,-20246,Urânia,SP,4977
+-49281,-21784,Uru,SP,6669
+-49.29,-21202,Urupês,SP,4555
+-50088,-20422,Valentim Gentil,SP,7998
+-46996,-22971,Valinhos,SP,1770
+-50868,-21228,Valparaíso,SP,270
+-46414,-22889,Vargem,SP,8116
+-46894,-21832,Vargem Grande do Sul,SP,2521
+-47026,-23603,Vargem Grande Paulista,SP,6320
+-46828,-23211,Várzea Paulista,SP,4602
+-49819,-22.22,Vera Cruz,SP,7473
+-46975,-23.03,Vinhedo,SP,8232
+-48297,-20873,Viradouro,SP,3211
+-48629,-21171,Vista Alegre do Alto,SP,5668
+-50484,-20197,Vitória Brasil,SP,9120
+-47438,-23547,Votorantim,SP,7324
+-49973,-20423,Votuporanga,SP,3975
+-50051,-21052,Zacarias,SP,2139
+-49151,-9621,Abreulândia,TO,2052
+-47466,-6563,Aguiarnópolis,TO,5058
+-48936,-11306,Aliança do Tocantins,TO,6563
+-47.17,-11574,Almas,TO,4313
+-49125,-12.48,Alvorada,TO,5495
+-48073,-6366,Ananás,TO,8276
+-47865,-6.39,Angico,TO,1494
+-47972,-9952,Aparecida do Rio Negro,TO,2602
+-48528,-7162,Aragominas,TO,5021
+-49556,-8804,Araguacema,TO,1115
+-49826,-12931,Araguaçu,TO,8543
+-48207,-7191,Araguaína,TO,5395
+-48644,-6581,Araguanã,TO,5885
+-48124,-5651,Araguatins,TO,1858
+-49064,-7658,Arapoema,TO,3168
+-46938,-12931,Arraias,TO,8579
+-47888,-5466,Augustinópolis,TO,39
+-46408,-12713,Aurora do Tocantins,TO,8078
+-47769,-5617,Axixá do Tocantins,TO,8450
+-47757,-7205,Babaçulândia,TO,7466
+-48584,-7756,Bandeirantes do Tocantins,TO,6276
+-47683,-7689,Barra do Ouro,TO,390
+-48725,-9836,Barrolândia,TO,6227
+-48888,-7874,Bernardo Sayão,TO,633
+-48166,-8965,Bom Jesus do Tocantins,TO,4156
+-48481,-8388,Brasilândia do Tocantins,TO,7858
+-48566,-11,Brejinho de Nazaré,TO,6243
+-48229,-5316,Buriti do Tocantins,TO,4360
+-47922,-6122,Cachoeirinha,TO,4843
+-46868,-7994,Campos Lindos,TO,4030
+-49161,-11891,Cariri do Tocantins,TO,3037
+-48396,-7033,Carmolândia,TO,7803
+-48035,-5322,Carrasco Bonito,TO,1004
+-49956,-9278,Caseara,TO,40
+-47336,-8951,Centenário,TO,5727
+-47751,-11617,Chapada da Natividade,TO,7890
+-49.14,-10144,Chapada de Areia,TO,674
+-48475,-8059,Colinas do Tocantins,TO,4389
+-48765,-8729,Colméia,TO,6029
+-46539,-12792,Combinado,TO,4421
+-47298,-12219,Conceição do Tocantins,TO,6498
+-49247,-8284,Couto de Magalhães,TO,7404
+-49193,-10.6,Cristalândia,TO,3553
+-48919,-11.1,Crixás do Tocantins,TO,1026
+-47.76,-6713,Darcinópolis,TO,2619
+-46821,-11628,Dianópolis,TO,3409
+-49214,-9.8,Divinópolis do Tocantins,TO,2136
+-49064,-9258,Dois Irmãos do Tocantins,TO,8426
+-49271,-11344,Dueré,TO,6418
+-48511,-5343,Esperantina,TO,6491
+-48907,-10761,Fátima,TO,651
+-49174,-12131,Figueirópolis,TO,9866
+-47.49,-7336,Filadélfia,TO,512
+-49529,-11797,Formoso do Araguaia,TO,9295
+-48519,-9057,Fortaleza do Tabocão,TO,5073
+-48932,-8776,Goianorte,TO,6436
+-47314,-7.71,Goiatins,TO,4816
+-48.51,-8834,Guaraí,TO,725
+-49069,-11729,Gurupi,TO,7973
+-48463,-11239,Ipueiras,TO,8928
+-47768,-8392,Itacajá,TO,7146
+-47481,-5768,Itaguatins,TO,1724
+-48111,-8384,Itapiratins,TO,6584
+-48689,-8571,Itaporã do Tocantins,TO,6101
+-48594,-12654,Jaú do Tocantins,TO,9084
+-49065,-8119,Juarina,TO,1108
+-49624,-10794,Lagoa da Confusão,TO,9411
+-47551,-10378,Lagoa do Tocantins,TO,9632
+-48358,-9751,Lajeado,TO,9618
+-46506,-12789,Lavandeira,TO,997
+-46673,-9594,Lizarda,TO,7595
+-47856,-6182,Luzinópolis,TO,6914
+-49654,-9796,Marianópolis do Tocantins,TO,659
+-46421,-10548,Mateiros,TO,7055
+-47506,-5953,Maurilândia do Tocantins,TO,3354
+-48392,-9567,Miracema do Tocantins,TO,6490
+-48.59,-9529,Miranorte,TO,6136
+-48109,-10763,Monte do Carmo,TO,5931
+-48995,-10004,Monte Santo do Tocantins,TO,6665
+-48611,-7147,Muricilândia,TO,4684
+-47723,-11.71,Natividade,TO,2845
+-47664,-6372,Nazaré,TO,8055
+-48423,-7632,Nova Olinda,TO,8636
+-48914,-10567,Nova Rosalândia,TO,9047
+-47677,-9963,Novo Acordo,TO,7467
+-46574,-12931,Novo Alegre,TO,8860
+-46628,-11824,Novo Jardim,TO,3755
+-48907,-10708,Oliveira de Fátima,TO,4178
+-48333,-10167,Palmas,TO,2694
+-47926,-7.86,Palmeirante,TO,9258
+-47546,-6613,Palmeiras do Tocantins,TO,5599
+-48402,-13044,Palmeirópolis,TO,1091
+-48867,-10176,Paraíso do Tocantins,TO,1056
+-47883,-12615,Paranã,TO,5608
+-49372,-7.54,Pau d'Arco,TO,9832
+-48175,-8968,Pedro Afonso,TO,7272
+-48539,-12025,Peixe,TO,9927
+-48934,-8595,Pequizeiro,TO,2803
+-47579,-11139,Pindorama do Tocantins,TO,1103
+-48297,-6774,Piraquê,TO,2127
+-49182,-10443,Pium,TO,811
+-46479,-12091,Ponte Alta do Bom Jesus,TO,9051
+-47536,-10744,Ponte Alta do Tocantins,TO,8367
+-47049,-11609,Porto Alegre do Tocantins,TO,5699
+-48417,-10708,Porto Nacional,TO,6144
+-47811,-5393,Praia Norte,TO,9069
+-48506,-8539,Presidente Kennedy,TO,5212
+-48894,-10424,Pugmil,TO,8792
+-47243,-8728,Recursolândia,TO,1337
+-48137,-6438,Riachinho,TO,3480
+-46883,-11.4,Rio da Conceição,TO,2245
+-48466,-9293,Rio dos Bois,TO,4209
+-47902,-9344,Rio Sono,TO,1469
+-47873,-5348,Sampaio,TO,5017
+-49925,-12537,Sandolândia,TO,8139
+-48721,-7157,Santa Fé do Araguaia,TO,8723
+-47795,-8797,Santa Maria do Tocantins,TO,4465
+-48914,-10861,Santa Rita do Tocantins,TO,4353
+-48121,-11449,Santa Rosa do Tocantins,TO,8608
+-47808,-10282,Santa Tereza do Tocantins,TO,3107
+-47673,-6434,Santa Terezinha do Tocantins,TO,8356
+-48.06,-5915,São Bento do Tocantins,TO,5924
+-46659,-10168,São Félix do Tocantins,TO,6361
+-47575,-5555,São Miguel do Tocantins,TO,6875
+-48236,-12744,São Salvador do Tocantins,TO,3012
+-48.2,-5257,São Sebastião do Tocantins,TO,2147
+-48234,-11975,São Valério da Natividade,TO,7551
+-48169,-11147,Silvanópolis,TO,1710
+-47638,-5601,Sítio Novo do Tocantins,TO,279
+-48971,-11993,Sucupira,TO,4606
+-46436,-12404,Taguatinga,TO,9505
+-46989,-12188,Taipas do Tocantins,TO,7074
+-49093,-12795,Talismã,TO,2355
+-48377,-9564,Tocantínia,TO,2646
+-47416,-6329,Tocantinópolis,TO,4070
+-48188,-8973,Tupirama,TO,5801
+-48116,-8394,Tupiratins,TO,2351
+-47963,-6849,Wanderlândia,TO,1259
+-48536,-6411,Xambioá,TO,1251
