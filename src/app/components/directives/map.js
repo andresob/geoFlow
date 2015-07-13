@@ -8,7 +8,7 @@ angular.module('geoFlow')
 			link: function(scope, element, attrs) {
 				d3Service.d3().then(function(d3) {
 
-					var width = window.innerWidth -100,
+					var width = window.innerWidth,
 					  	height = window.innerHeight,
 						centered;
 
@@ -18,7 +18,7 @@ angular.module('geoFlow')
 					  	.projection(projection);
 
 					var svg = d3.select('[map]').insert('svg:svg')
-					  	.attr('width', width - 50)
+					  	.attr('width', width)
 					  	.attr('height', height);
 
 					var state = svg.append('svg:g')
@@ -28,6 +28,7 @@ angular.module('geoFlow')
 						.defer(d3.json, 'app/data/maps/brasil.topo.json' )
 						.await(ready);
 
+					//drawing map
 					function ready(error, collection, data) {
 
 						var fit = topojson.feature(collection, collection.objects.states);
@@ -37,7 +38,7 @@ angular.module('geoFlow')
 						    .translate([0, 0]);
 
 						var b = path.bounds(fit),
-						    s = 0.55 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height),
+						    s = 0.65 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height),
 						    t = [(width - 400 - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
 
 						projection
@@ -49,33 +50,34 @@ angular.module('geoFlow')
 						  	.enter().append('svg:path')
 						  	.attr('d', path)
 							.attr('class','states')
-							.on("click", clicked);
-
+							.on('click', clicked);
 					}
 
+					//zoomable function
 					function clicked(d) {
-					  var x, y, k;
 
-					  if (d && centered !== d) {
-					    var centroid = path.centroid(d);
-					    x = centroid[0];
-					    y = centroid[1];
-					    k = 4;
-					    centered = d;
-					  } else {
-					    x = width / 2;
-					    y = height / 2;
-					    k = 1;
-					    centered = null;
-					  }
+						var x, y, k;
 
-					  state.selectAll("path")
-					      .classed("active", centered && function(d) { return d === centered; });
+						if (d && centered !== d) {
+							var centroid = path.centroid(d);
+							x = centroid[0];
+							y = centroid[1];
+							k = 4;
+							centered = d;
+						} else {
+							x = width / 2;
+							y = height / 2;
+							k = 1;
+							centered = null;
+						}
 
-					  state.transition()
-					      .duration(750)
-					      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
-					      .style("stroke-width", 1.5 / k + "px");
+						state.selectAll('path')
+						    .classed('active', centered && function(d) { return d === centered; });
+
+						state.transition()
+						    .duration(750)
+						    .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')scale(' + k + ')translate(' + -x + ',' + -y + ')')
+						    .style('stroke-width', 1.5 / k + 'px');
 					}
 
 				});
