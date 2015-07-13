@@ -6,14 +6,25 @@
 // endbower
 
 .node {
-  stroke: #fff;
-  stroke-width: 1.5px;
+	stroke: #fff;
+	stroke-width: 1.5px;
 }
 
 .link {
-  stroke: #999;
-  stroke-opacity: .6;
+	stroke: #999;
+	stroke-opacity: .6;
 }
+
+.states {
+	fill: #fff;
+	stroke: #cf4646;
+	stroke-width: 1px;
+	cursor: pointer;
+	&:hover {
+		fill: #df8383;
+	}
+}
+
 
 /**
  *  Do not remove this comments bellow. It's the markers used by gulp-inject to inject

@@ -9,7 +9,8 @@ angular.module('geoFlow')
 				d3Service.d3().then(function(d3) {
 
 					var width = window.innerWidth -100,
-					  	height = window.innerHeight;
+					  	height = window.innerHeight,
+						centered;
 
 					var projection = d3.geo.mercator();
 
@@ -46,8 +47,35 @@ angular.module('geoFlow')
 						state.selectAll('path')
 						    .data(topojson.feature(collection, collection.objects.states).features)
 						  	.enter().append('svg:path')
-						  	.attr('d', path);
+						  	.attr('d', path)
+							.attr('class','states')
+							.on("click", clicked);
 
+					}
+
+					function clicked(d) {
+					  var x, y, k;
+
+					  if (d && centered !== d) {
+					    var centroid = path.centroid(d);
+					    x = centroid[0];
+					    y = centroid[1];
+					    k = 4;
+					    centered = d;
+					  } else {
+					    x = width / 2;
+					    y = height / 2;
+					    k = 1;
+					    centered = null;
+					  }
+
+					  state.selectAll("path")
+					      .classed("active", centered && function(d) { return d === centered; });
+
+					  state.transition()
+					      .duration(750)
+					      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+					      .style("stroke-width", 1.5 / k + "px");
 					}
 
 				});
