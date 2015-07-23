@@ -5,7 +5,7 @@ angular.module('geoFlow')
 		return {
 			restrict: 'EA',
 			scope: {},
-			link: function(scope, element, attrs) {
+			link: function() {
 				d3Service.d3().then(function(d3) {
 
 					var width = window.innerWidth,
@@ -29,7 +29,7 @@ angular.module('geoFlow')
 						.await(ready);
 
 					//drawing map
-					function ready(error, collection, data) {
+					function ready(error, collection) {
 
 						var fit = topojson.feature(collection, collection.objects.states);
 
@@ -38,7 +38,7 @@ angular.module('geoFlow')
 						    .translate([0, 0]);
 
 						var b = path.bounds(fit),
-						    s = 0.65 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height),
+						    s = 0.85 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height),
 						    t = [(width - 400 - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
 
 						projection
@@ -54,18 +54,21 @@ angular.module('geoFlow')
 					}
 
 					//zoomable function
-					function clicked(d) {
-
+					function clicked(d)
+				    {
 						var x, y, k;
 
-						if (d && centered !== d) {
+						if (d && centered !== d)
+						{
 							var centroid = path.centroid(d);
 							x = centroid[0];
 							y = centroid[1];
-							k = 4;
+							k = 2.5;
 							centered = d;
-						} else {
-							x = width / 2;
+						}
+					   	else
+						{
+							x = width / 4;
 							y = height / 2;
 							k = 1;
 							centered = null;
@@ -76,7 +79,7 @@ angular.module('geoFlow')
 
 						state.transition()
 						    .duration(750)
-						    .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')scale(' + k + ')translate(' + -x + ',' + -y + ')')
+						    .attr('transform', 'translate(' + width / 4 + ',' + height / 2 + ')scale(' + k + ')translate(' + -x + ',' + -y + ')')
 						    .style('stroke-width', 1.5 / k + 'px');
 					}
 

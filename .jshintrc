@@ -19,6 +19,8 @@
     "inject": false,
     "module": false,
     "$": false,
-    "_": false
+    "_": false,
+	"queue": false,
+	"topojson": false
   }
 }
